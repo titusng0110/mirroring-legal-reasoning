@@ -25,9 +25,7 @@ def main():
     # files = glob.glob(f"data/legalData/db/eng/HKCA/data/1997_468.html")
     result = []
     for file_name in files:
-        if int(file_name.split("/")[-1].split("_")[0]) == 2019:
-            continue
-        if int(file_name.split("/")[-1].split("_")[0]) < 2007 or int(file_name.split("/")[-1].split("_")[0]) > 2012:
+        if int(file_name.split("/")[-1].split("_")[0]) < 1997 or int(file_name.split("/")[-1].split("_")[0]) > 2018:
             continue
         # Read and parse XML
         with open(file_name, "r") as f:
