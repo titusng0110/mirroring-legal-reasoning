@@ -21,11 +21,11 @@ python install_pypandoc.py
 Step 5: rename file ".env copy" to ".env" and put your keys and endpoints there.
 
 ## Data Processing
-For HKLII cases (2019 onwards): (assume archive files extracted to data/)
+For HKLII cases (https://www.hklii.org/) (2019 onwards): (assume archive files extracted to data/)
 ```
 python clean_hklii_cases.py data/path-to-cases-folder data/cases_your_name.csv
 ```
-For HKLII cases (before 2019): (assume archive files extracted to data/)
+For HKLII cases (https://www.hklii.org/) (before 2019): (assume archive files extracted to data/)
 ```
 python clean_hklii_cases_pre2019.py data/path-to-cases-folder data/cases_your_name.csv
 ```
