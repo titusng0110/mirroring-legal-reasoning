@@ -9,4 +9,4 @@ table_of_contents = {
     "Equity": "TOC/Snell's Equity 34 Edition.txt"
 }
 
-Due to copyright reasons, I cannot include the actual table of contents.
+TOC/ is a folder to store table of contents of leading textbooks of different areas of law in txt file format. Due to copyright reasons, I cannot include the actual files.
