@@ -1,0 +1,11 @@
+*.deb
+data/*
+!data/readme.txt
+.env
+zrok/
+__pycache__/
+TOC/*
+!TOC/readme.txt
+test*
+helper*
+log*
