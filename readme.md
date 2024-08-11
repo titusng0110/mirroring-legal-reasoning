@@ -8,10 +8,11 @@ Step 2: create conda environment:
 ```
 conda create -n mirror python=3.12.4
 conda activate mirror
+python -m pip install -U pip
 ```
 Step 3: install python packages:
 ```
-pip install -r req.txt
+python -m pip install -r req.txt
 ```
 Step 4: install pypandoc:
 ```
@@ -28,7 +29,7 @@ For HKLII cases (before 2019): (assume archive files extracted to data/)
 ```
 python clean_hklii_cases_pre2019.py data/path-to-cases-folder data/cases_your_name.csv
 ```
-For eLegislation: https://data.gov.hk/en-data/dataset/hk-doj-hkel-legislation-current (assume archive files extracted to data/) 
+For eLegislation (https://data.gov.hk/en-data/dataset/hk-doj-hkel-legislation-current): (assume archive files extracted to data/) 
 ```
 python clean_legislation_xml.py data/path-to-legislation-folder data/legislation_your_name.csv
 ```
