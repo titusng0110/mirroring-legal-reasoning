@@ -23,8 +23,8 @@ with gr.Blocks() as demo:
     
     data_option = gr.Radio(["HK case law (1997-2024) updated 18/07/2024", "HK legislation (tree) updated 02/08/2024"], label="Select Data Source")
     query_input = gr.Textbox(label="Query")
-    bigk_slider = gr.Slider(minimum=10, maximum=400, value=100, step=1, label="Initial Top K Results")
-    topk_slider = gr.Slider(minimum=1, maximum=50, value=10, step=1, label="Final Top K Results")
+    bigk_slider = gr.Slider(minimum=10, maximum=400, value=80, step=1, label="Initial Top K Results")
+    topk_slider = gr.Slider(minimum=1, maximum=100, value=10, step=1, label="Final Top K Results")
     search_button = gr.Button("Loading Database...", interactive=False)
     
     gr.Markdown("# IMPORTANT NOTICE REGARDING HK LEGISLATION")

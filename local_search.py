@@ -36,7 +36,7 @@ def loadDB(file_paths: Dict) -> bool:
         
 
 # search function
-def search(database: str, query: str, k: int, bigk=100) -> List[Dict]:
+def search(database: str, query: str, k: int, bigk: int) -> List[Dict]:
     global databases, normalizedContentTensors
     if databases is None or normalizedContentTensors is None:
         print("Error: Please load database before searching.")

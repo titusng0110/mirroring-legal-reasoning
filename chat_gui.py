@@ -56,10 +56,10 @@ def logic(message, history, state):
 with gr.Blocks(theme="soft") as demo:
     gr.Markdown("# CLIC-Chat 3.0 prototype")
     gr.Markdown("An AI legal assistant specializing in Hong Kong law. Describe your legal situation, and it will provide advice based on the information you give it.")
-    gr.Markdown("# DISCLAIMER: This AI must not be relied upon for actual legal advice. The information may be incomplete, inaccurate, or outdated. For any legal matters, consult a qualified, licensed lawyer in Hong Kong. We are not liable for any consequences resulting from the use of this tool. This system is for research purposes only.")
+    gr.Markdown("## DISCLAIMER: This AI must not be relied upon for actual legal advice. The information may be incomplete, inaccurate, or outdated. For any legal matters, consult a qualified, licensed lawyer in Hong Kong. We are not liable for any consequences resulting from the use of this tool. This system is for research purposes only.")
     interface = gr.ChatInterface(
         fn=partial(logic, state=MyState()),
-        chatbot=gr.Chatbot(height="60vh", value=[("", "Hello, how can I help you?")]),
+        chatbot=gr.Chatbot(height="66vh", value=[("", "Hello, how can I help you?")]),
         retry_btn=None,
         clear_btn=None,
         undo_btn=None
