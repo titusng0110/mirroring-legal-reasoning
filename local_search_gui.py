@@ -2,7 +2,12 @@ import gradio as gr
 import local_search
 
 def load_database_and_activate_search():
-    if local_search.loadDB({"cases": "data/hklii.parquet", "ordinances": "data/legislation_02082024_xml.parquet"}):
+    if local_search.loadDB({
+        "cases": "data/hklii.parquet",
+        "cfa": "data/hkcfa_1997_2024.parquet",
+        "ca": "data/hkca_1997_2023.parquet",
+        "cfi": "data/hkcfi_1997_2024.parquet",
+        "ordinances": "data/legislation_02082024_xml.parquet"}):
         return gr.Button("Search", interactive=True)
     else:
         return gr.Button("Error loading database", interactive=False)
@@ -12,6 +17,12 @@ def handle_query(selected_option, query, topk, bigk):
         return [{"error": "Initial number of results cannot be less than final number of results."}]
     if selected_option == "HK case law (1997-2024) updated 18/07/2024":
         return local_search.search(database="cases", query=query, k=topk, bigk=bigk)
+    elif selected_option == "HKCFA cases (1997-2024) updated 18/07/2024":
+        return local_search.search(database="cfa", query=query, k=topk, bigk=bigk)
+    elif selected_option == "HKCA cases (1997-2023) updated 18/07/2024":
+        return local_search.search(database="ca", query=query, k=topk, bigk=bigk)
+    elif selected_option == "HKCFI cases (1997-2024) updated 18/07/2024":
+        return local_search.search(database="cfi", query=query, k=topk, bigk=bigk)
     elif selected_option == "HK legislation (tree) updated 02/08/2024":
         return local_search.search(database="ordinances", query=query, k=topk, bigk=bigk)
     else:
@@ -21,7 +32,7 @@ with gr.Blocks() as demo:
     gr.Markdown("# Law Prober")
     gr.Markdown("A tool to search and rank content from HK case law or legislation using AI vector embeddings.")
     
-    data_option = gr.Radio(["HK case law (1997-2024) updated 18/07/2024", "HK legislation (tree) updated 02/08/2024"], label="Select Data Source")
+    data_option = gr.Radio(["HK case law (1997-2024) updated 18/07/2024", "HKCFA cases (1997-2024) updated 18/07/2024", "HKCA cases (1997-2023) updated 18/07/2024", "HKCFI cases (1997-2024) updated 18/07/2024", "HK legislation (tree) updated 02/08/2024"], label="Select Data Source")
     query_input = gr.Textbox(label="Query")
     bigk_slider = gr.Slider(minimum=10, maximum=400, value=80, step=1, label="Initial Top K Results")
     topk_slider = gr.Slider(minimum=1, maximum=100, value=10, step=1, label="Final Top K Results")
