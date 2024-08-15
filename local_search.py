@@ -86,6 +86,7 @@ def search(database: str, query: str, k: int, bigk: int) -> List[Dict]:
 
         for i, row in topk_similar_items.iterrows():
             result = {
+                "id": row['id'],
                 "title": row['title'],
                 "cosine_similarity": cosine_similarities[topk_indices[topk_similar_items.index.get_loc(i)]].item(),
                 "reranker_score": row['reranker_score'],
@@ -93,3 +94,15 @@ def search(database: str, query: str, k: int, bigk: int) -> List[Dict]:
             }
             results.append(result)
         return results
+
+def get_text(database:str, specific_id:str) -> str:
+    global databases
+    if databases is None:
+        print("Error: Please load database before searching.")
+        return None
+    else:
+        try:
+            content = databases[database].query(f"id == '{specific_id}'")['content'].values[0]
+            return content
+        except Exception as e:
+            return None
