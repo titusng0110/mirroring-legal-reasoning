@@ -95,7 +95,7 @@ def search(database: str, query: str, k: int, bigk: int) -> List[Dict]:
             results.append(result)
         return results
 
-def get_text(database:str, specific_id:str) -> str:
+def get_content(database:str, specific_id:str) -> str:
     global databases
     if databases is None:
         print("Error: Please load database before searching.")
@@ -104,5 +104,17 @@ def get_text(database:str, specific_id:str) -> str:
         try:
             content = databases[database].query(f"id == '{specific_id}'")['content'].values[0]
             return content
+        except Exception as e:
+            return None
+        
+def get_title(database:str, specific_id:str) -> str:
+    global databases
+    if databases is None:
+        print("Error: Please load database before searching.")
+        return None
+    else:
+        try:
+            title = databases[database].query(f"id == '{specific_id}'")['title'].values[0]
+            return title
         except Exception as e:
             return None
