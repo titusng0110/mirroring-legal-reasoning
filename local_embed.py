@@ -39,7 +39,7 @@ if __name__ == "__main__":
     
     result = []
     batch = []
-    batch_size = 46
+    batch_size = 24
     
     with open(args.csv_file, mode='r', newline='') as f:
         next(f)
