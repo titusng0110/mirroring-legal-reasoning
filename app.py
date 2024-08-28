@@ -5,6 +5,7 @@ import local_search
 import json
 import threading
 import re
+import time
 
 load_dotenv(override=True)
 
@@ -58,6 +59,16 @@ def get_response(messages, temperature=0.2, top_p=0.2):
         top_p = top_p
     )
     chat_response = completion.choices[0].message.content
+    tries = 1
+    while chat_response is None and tries < 3:
+        time.sleep(5)
+        completion = client.chat.completions.create(
+            model = model,
+            messages = messages,
+            temperature = temperature,
+            top_p = top_p
+        )
+        chat_response = completion.choices[0].message.content
     print("[ASSISTANT]")
     print(chat_response)
     print()
@@ -158,7 +169,7 @@ def legal_reason_legislation(issue, result):
         }
     ]
     chat_response = get_response(messages)
-    return {"option": "legislation", "content": chat_response}
+    return {"option": "Deductive reasoning: legislation", "content": chat_response}
 
 def legal_reason_cases_deductive(issue, result):
     # After reading the results, which three cases do you think are the most relevant to the legal issue?
@@ -217,7 +228,7 @@ def legal_reason_cases_deductive(issue, result):
             }
         ]
         chat_response = get_response(messages)
-        return {"option": result[0]['option'], "content": chat_response}
+        return {"option": "Deductive Reasoning: " + result[0]['option'], "content": chat_response}
     else:
         return None
 
@@ -264,6 +275,8 @@ def legal_reason_cases_analogy(issue, option="cases"):
     texts = [text for text in texts if not text is None]
     context = " ".join(texts)
     citation = local_search.get_title(result[0]['option'], chunk)
+    if citation is None:
+        return None
     citation = citation[:citation.index('Extract')]
     judgment = {"context": context, "citation": citation}
     # 1. Citing Precedent: Begin by referencing a relevant previous court case, which we'll call precedent p. Clearly state the outcome, o, that was reached in this precedent. This establishes the foundation of your argument by showing a prior legal decision that is relevant to the current case. For example, you might say: "In the case of ABC v GHI (precedent p), the court ruled that... (outcome o)."
@@ -330,7 +343,7 @@ def legal_reason_cases_analogy(issue, option="cases"):
         {"role": "system", "content": "You are an intelligent and logical lawyer specialising in Hong Kong law. Hong Kong law is a common law system similar to UK (England and Wales) law. Legislation in Hong Kong is referred to as Ordinances instead of Acts. Case law is mainly the same."},
         {
             "role" : "user",
-            "content": 'Excerpt of ' + judgment['citation'] + ' (precedent):\n' + judgment['context'] + '\nThe scenario (current case):\n' + issue.get_user_input() + "\nThe area of law:\n" + issue.get_area() + "\nThe legal issue:\n" + issue.get_issue() + "\nPrevious Steps:\n" + analysis + 'Instruction:\nStep 9. Downplaying Significance of Distinction: When faced with a distinction between your current case and a precedent, specifically the absence of an intermediate legal concept (ILC) m in your case, focus on the potential consequences of requiring this distinction. Argue that if m were to be required for the analogy to the precedent p, it would lead to an undesirable outcome. Alternatively, highlight the beneficial consequences if m were not required. For example, you might say: "While it\'s true that our case lacks [factor m], which was present in the precedent case [ABC v GHI], requiring this factor for all similar cases of [fact pattern i*] would lead to [undesirable consequence]. Conversely, not requiring [m] would allow for [desirable outcome], which better aligns with the underlying principles of the law in this area [explanation of relation to underlying principles]." If you cannot think of an argument, skip to Step 10.\nStep 10. Feature Substitution: When your current case lacks an intermediate legal concept (ILC) m that was present in a relevant precedent, identify another ILC n that is present in your case but absent in the precedent. Argue that n effectively compensates for the absence of m. Demonstrate how the presence of n, combined with the shared fact pattern i*, justifies the same outcome as the precedent by showing that the positive effects on legal values still outweigh the negative effects. You might argue: "Although our case lacks [factor m], which was present in ABC v GHI, we have the additional [factor n]. This [factor n], when considered alongside [the shared circumstances i*], serves a similar function to [m] in the precedent case. Given the presence of [n], we submit that the reasoning in [ABC v GHI] still applies, as the positive effects on [relevant legal values] would still outweigh any potential negative consequences, just as they did in the precedent case." If you cannot identify another ILC, terminate your answer.\nFollow the instructions of Step 9 to 10 and give detailed explanation where necessary. Use the format of the examples below. Terminate after finishing Step 10. Do not repeat previous steps.\nExample output (cannot answer):\n### Step 9: Downplaying Significance of Distinction\nSkipped\n\n### Step 10: Feature Substitution\nSkipped\nExample output:\n### Step 9: Downplaying Significance of Distinction\nWhile it\'s true that our case lacks [factor m], which was present in the precedent case [ABC v GHI], requiring this factor for all similar cases of [fact pattern i*] would lead to [undesirable consequence]. Conversely, not requiring [m] would allow for [desirable outcome], which better aligns with the underlying principles of the law in this area [explanation of relation to underlying principles].\n\n### Step 10: Feature Substitution\nAlthough our case lacks [factor m], which was present in ABC v GHI, we have the additional [factor n]. This [factor n], when considered alongside [the shared circumstances i*], serves a similar function to [m] in the precedent case. Given the presence of [n], we submit that the reasoning in [ABC v GHI] still applies, as the positive effects on [relevant legal values] would still outweigh any potential negative consequences, just as they did in the precedent case.'
+            "content": 'Excerpt of ' + judgment['citation'] + ' (precedent):\n' + judgment['context'] + '\nThe scenario (current case):\n' + issue.get_user_input() + "\nThe area of law:\n" + issue.get_area() + "\nThe legal issue:\n" + issue.get_issue() + "\nPrevious Steps:\n" + analysis + '\nInstruction:\nStep 9. Downplaying Significance of Distinction: When faced with a distinction between your current case and a precedent, specifically the absence of an intermediate legal concept (ILC) m in your case, focus on the potential consequences of requiring this distinction. Argue that if m were to be required for the analogy to the precedent p, it would lead to an undesirable outcome. Alternatively, highlight the beneficial consequences if m were not required. For example, you might say: "While it\'s true that our case lacks [factor m], which was present in the precedent case [ABC v GHI], requiring this factor for all similar cases of [fact pattern i*] would lead to [undesirable consequence]. Conversely, not requiring [m] would allow for [desirable outcome], which better aligns with the underlying principles of the law in this area [explanation of relation to underlying principles]." If you cannot think of an argument, skip to Step 10.\nStep 10. Feature Substitution: When your current case lacks an intermediate legal concept (ILC) m that was present in a relevant precedent, identify another ILC n that is present in your case but absent in the precedent. Argue that n effectively compensates for the absence of m. Demonstrate how the presence of n, combined with the shared fact pattern i*, justifies the same outcome as the precedent by showing that the positive effects on legal values still outweigh the negative effects. You might argue: "Although our case lacks [factor m], which was present in ABC v GHI, we have the additional [factor n]. This [factor n], when considered alongside [the shared circumstances i*], serves a similar function to [m] in the precedent case. Given the presence of [n], we submit that the reasoning in [ABC v GHI] still applies, as the positive effects on [relevant legal values] would still outweigh any potential negative consequences, just as they did in the precedent case." If you cannot identify another ILC, terminate your answer.\nFollow the instructions of Step 9 to 10 and give detailed explanation where necessary. Use the format of the examples below. Terminate after finishing Step 10. Do not repeat previous steps.\nExample output (cannot answer):\n### Step 9: Downplaying Significance of Distinction\nSkipped\n\n### Step 10: Feature Substitution\nSkipped\nExample output:\n### Step 9: Downplaying Significance of Distinction\nWhile it\'s true that our case lacks [factor m], which was present in the precedent case [ABC v GHI], requiring this factor for all similar cases of [fact pattern i*] would lead to [undesirable consequence]. Conversely, not requiring [m] would allow for [desirable outcome], which better aligns with the underlying principles of the law in this area [explanation of relation to underlying principles].\n\n### Step 10: Feature Substitution\nAlthough our case lacks [factor m], which was present in ABC v GHI, we have the additional [factor n]. This [factor n], when considered alongside [the shared circumstances i*], serves a similar function to [m] in the precedent case. Given the presence of [n], we submit that the reasoning in [ABC v GHI] still applies, as the positive effects on [relevant legal values] would still outweigh any potential negative consequences, just as they did in the precedent case.'
         }
     ]
     chat_response = get_response(messages)
@@ -342,40 +355,61 @@ def legal_reason_cases_analogy(issue, option="cases"):
         {"role": "system", "content": "You are an intelligent and logical lawyer specialising in Hong Kong law. Hong Kong law is a common law system similar to UK (England and Wales) law. Legislation in Hong Kong is referred to as Ordinances instead of Acts. Case law is mainly the same."},
         {
             "role" : "user",
-            "content": 'Excerpt of ' + judgment['citation'] + ' (precedent):\n' + judgment['context'] + '\nThe scenario (current case):\n' + issue.get_user_input() + "\nThe area of law:\n" + issue.get_area() + "\nThe legal issue:\n" + issue.get_issue() + "\nPrevious Steps:\n" + analysis + "Instruction:\nStep 11. Conclusion: Having read through the original argument by analogy (Step 1 to 4), the rebuttal arguments (Step 5-8), and the surrebuttal arguments (Step 9 to 10), be neutral and determine the merits and flaws of all the arguments and make a final decision to the legal issue. Assess whether the proposed rules and their applications are supported by the facts and legal principles involved. Make a final decision on the legal issue by balancing these considerations, striving for a decision that aligns with legal precedent while also serving justice and legal consistency. Conclude with a clear and reasoned statement that explains why the decision was reached, highlighting key factors that influenced the outcome.\nFollow the instructions of Step 11 and give detailed explanation where necessary. Use the format of the example below. Terminate after finishing Step 11. Do not repeat the previous steps.\nExample output:\n### Step 11: Conclusion\n\nAfter careful consideration of all arguments presented, including the initial analogy to [ABC v GHI], the distinctions raised, and the counterarguments offered, we make the following observations. The case shares [mention key similarities] with the precedent, but also differs in [mention key differences]. The proposed legal rule of [briefly state the rule] finds support in both cases, but its broader implications must be considered. We've weighed arguments from both sides, particularly [mention a strong point from each side]. Considering the underlying legal principles of [mention relevant principles] and the potential impact on future cases, we conclude that [state your decision]."
+            "content": 'Excerpt of ' + judgment['citation'] + ' (precedent):\n' + judgment['context'] + '\nThe scenario (current case):\n' + issue.get_user_input() + "\nThe area of law:\n" + issue.get_area() + "\nThe legal issue:\n" + issue.get_issue() + "\nPrevious Steps:\n" + analysis + "\nInstruction:\nStep 11. Conclusion: Having read through the original argument by analogy (Step 1 to 4), the rebuttal arguments (Step 5-8), and the surrebuttal arguments (Step 9 to 10), be neutral and determine the merits and flaws of all the arguments and make a final decision to the legal issue. Assess whether the proposed rules and their applications are supported by the facts and legal principles involved. Make a final decision on the legal issue by balancing these considerations, striving for a decision that aligns with legal precedent while also serving justice and legal consistency. Conclude with a clear and reasoned statement that explains why the decision was reached, highlighting key factors that influenced the outcome.\nFollow the instructions of Step 11 and give detailed explanation where necessary. Use the format of the example below. Terminate after finishing Step 11. Do not repeat the previous steps.\nExample output:\n### Step 11: Conclusion\n\nAfter careful consideration of all arguments presented, including the initial analogy to [ABC v GHI], the distinctions raised, and the counterarguments offered, we make the following observations. The case shares [mention key similarities] with the precedent, but also differs in [mention key differences]. The proposed legal rule of [briefly state the rule] finds support in both cases, but its broader implications must be considered. We've weighed arguments from both sides, particularly [mention a strong point from each side]. Considering the underlying legal principles of [mention relevant principles] and the potential impact on future cases, we conclude that [state your decision]."
         }
     ]
     chat_response = get_response(messages)
     analysis += "\n\n" + chat_response
 
-    return analysis
+    return {"option": "Reasoning by analogy: cases", "content": analysis}
 
 def consolidate_positions(issue, positions):
-    pass
+    title = "# " + issue.get_area() + ": " + issue.get_issue()
+    answer = title + "\n\n"
+    for position in positions:
+        answer += "## " + position['option'] + "\n\n" + position['content'] + "\n\n"
+    return answer
 
-def generate_answer():
-    pass
+def generate_answer(issues):
+    return "\n".join([issue.get_consolidated_position() for issue in issues])
 
 def run(user_input):
     issues = initial_analyse(user_input)
     for issue in issues:
-        queries = []
-        queries.append(formulate_query(issue, option = "legislation"))
-        queries.append(formulate_query(issue, option = "cfa"))
-        queries.append(formulate_query(issue, option = "ca"))
-        queries.append(formulate_query(issue, option = "cfi"))
         positions = []
-        for query in queries:
+        # Deductive reasoning
+        # Deductive reasoning: legislation
+        query = formulate_query(issue, option = "legislation")
+        result = retrieve(query)
+        temp_position = legal_reason_legislation(issue, result)
+        if not temp_position is None:
+            positions.append(temp_position)
+        # Deductive reasoning: cfa
+        query = formulate_query(issue, option = "cfa")
+        result = retrieve(query)
+        temp_position = legal_reason_cases_deductive(issue, result)
+        if not temp_position is None:
+            positions.append(temp_position)
+        else:
+            # Deductive reasoning: ca
+            query = formulate_query(issue, option = "ca")
             result = retrieve(query)
-            if result['option'] == "legislation":
-                positions.append(legal_reason_legislation(issue, result))
+            temp_position = legal_reason_cases_deductive(issue, result)
+            if not temp_position is None:
+                positions.append(temp_position)
             else:
-                positions.append(legal_reason_cases_deductive(issue, result))
-        if all(position is None for position in positions):
-            positions.append(legal_reason_cases_analogy(issue, option="cases"))
-        positions = [position for position in positions if not position is None]
+                # Deductive reasoning: cfi
+                query = formulate_query(issue, option = "cfi")
+                result = retrieve(query)
+                temp_position = legal_reason_cases_deductive(issue, result)
+                if not temp_position is None:
+                    positions.append(temp_position)
+        # Reasoning by analogy: all cases
+        temp_position = legal_reason_cases_analogy(issue, option="cases")
+        if not temp_position is None:
+            positions.append(temp_position)
         issue.set_consolidated_position(consolidate_positions(issue, positions))
-    generate_answer(issues)
+    return generate_answer(issues)
 
 def main():
     user_input = input()
