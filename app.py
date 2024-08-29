@@ -94,6 +94,7 @@ def initial_analyse(user_input):
     ]
     chat_response = get_response(messages)
     areas = json.loads(re.search(r'```json(.*?)```', chat_response, re.DOTALL).group(1))
+    # areas = {"areas": ["Contract Law"]}
     issues = []
     for area in areas['areas']:
         f = open(table_of_contents[area], "r")
