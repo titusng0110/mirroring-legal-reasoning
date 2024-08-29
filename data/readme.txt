@@ -1,1 +1,0 @@
-data/ is a folder to store archives, extracted data, csv files, and parquet files

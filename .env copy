@@ -1,4 +1,0 @@
-OPENAI_API_KEY = "your azure openai api key"
-OPENAI_API_ENDPOINT = "your azure openai api endpoint"
-OPENAI_API_VERSION = "2024-02-01"
-OPENAI_API_DEPLOYMENT_NAME = "your azure openai deployment name"
