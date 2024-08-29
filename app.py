@@ -372,7 +372,7 @@ def consolidate_positions(issue, positions):
     return answer
 
 def generate_answer(issues):
-    heading = "# Issues\n" + "\n".join([issue.get_area() + ": " + issue.get_issue() for issue in issues])
+    heading = "# Issues\n\n" + "\n\n".join([issue.get_area() + ": " + issue.get_issue() for issue in issues])
     return heading + "\n\n" + "\n".join([issue.get_consolidated_position() for issue in issues])
 
 def run(user_input):
