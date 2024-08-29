@@ -85,16 +85,16 @@ def initial_analyse(user_input):
         "Commercial Law": "TOC/Goode and McKendrick on Commercial Law 6 Edition.txt",
         "Equity": "TOC/Snell's Equity 34 Edition.txt"
     }
-    messages = [
-        {"role": "system", "content": "You are an intelligent and logical lawyer specialising in Hong Kong law. Hong Kong law is a common law system similar to UK (England and Wales) law. Legislation in Hong Kong is referred to as Ordinances instead of Acts. Case law is mainly the same."},
-        {
-            "role" : "user",
-            "content": 'The scenario:\n' + user_input + '\nPotential areas of law:\n' + ", ".join(table_of_contents.keys()) + '\nInstruction:\nBased on the above information, select at most three areas of law from the potential areas of law related to the scenario. Output in JSON format.\nExample:\n```json\n{\n    "areas": [\n        "Land Law",\n        "Tort Law",\n        "Commercial Law"\n    ]\n}\n```'
-        }
-    ]
-    chat_response = get_response(messages)
-    areas = json.loads(re.search(r'```json(.*?)```', chat_response, re.DOTALL).group(1))
-    # areas = {"areas": ["Contract Law"]}
+    # messages = [
+    #     {"role": "system", "content": "You are an intelligent and logical lawyer specialising in Hong Kong law. Hong Kong law is a common law system similar to UK (England and Wales) law. Legislation in Hong Kong is referred to as Ordinances instead of Acts. Case law is mainly the same."},
+    #     {
+    #         "role" : "user",
+    #         "content": 'The scenario:\n' + user_input + '\nPotential areas of law:\n' + ", ".join(table_of_contents.keys()) + '\nInstruction:\nBased on the above information, select at most three areas of law from the potential areas of law related to the scenario. Output in JSON format.\nExample:\n```json\n{\n    "areas": [\n        "Land Law",\n        "Tort Law",\n        "Commercial Law"\n    ]\n}\n```'
+    #     }
+    # ]
+    # chat_response = get_response(messages)
+    # areas = json.loads(re.search(r'```json(.*?)```', chat_response, re.DOTALL).group(1))
+    areas = {"areas": ["Contract Law"]}
     issues = []
     for area in areas['areas']:
         f = open(table_of_contents[area], "r")
@@ -372,7 +372,8 @@ def consolidate_positions(issue, positions):
     return answer
 
 def generate_answer(issues):
-    return "\n".join([issue.get_consolidated_position() for issue in issues])
+    heading = "# Issues\n" + "\n".join([issue.get_area() + ": " + issue.get_issue() for issue in issues])
+    return heading + "\n\n" + "\n".join([issue.get_consolidated_position() for issue in issues])
 
 def run(user_input):
     issues = initial_analyse(user_input)
