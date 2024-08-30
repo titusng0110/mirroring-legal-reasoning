@@ -2,53 +2,50 @@
 
 #### 1. Identification of Legal Issues
 
-1. **Contractual Obligations and Modifications:**
-   - Whether M-Scan Ltd can unilaterally modify the terms of the contract with respect to the donations to the Albright Cancer Research Foundation.
-   - The implications of the reduction in the annual fee and the donation percentage on the existing contractual obligations.
+The scenario presents several legal issues:
 
-2. **Exclusion Clause and Liability:**
-   - Whether Care 2 U Ltd can rely on the exclusion clause in the contract between M-Scan Ltd and Vulcanicity Ltd to avoid liability for the damage to the scanner.
-   - The validity and enforceability of the exclusion clause given the circumstances of the systems check and the new driver’s failure to recognize the paperwork.
+1. **Formation of Contract**: Whether a binding contract was formed between Wong Kee and Neptune despite the absence of a signed agreement.
+2. **Terms of the Contract**: If a contract was formed, what are the terms of the contract, particularly regarding the size composition of the crabs and the exclusion of liability.
+3. **Breach of Contract**: Whether Neptune breached the contract by delivering only baby mud crabs.
+4. **Exclusion of Liability**: Whether Neptune can rely on the exclusion clause to avoid liability for the losses suffered by Wong Kee.
 
 #### 2. Applicable Laws
 
-1. **Contract Law:**
-   - **Modification of Contracts:** The principles governing the modification of contracts, including the need for mutual consent and consideration.
-   - **Third-Party Rights:** The rights of third parties under the contract, particularly the Albright Cancer Research Foundation, under the Contracts (Rights of Third Parties) Ordinance (Cap. 623).
+The applicable laws include:
 
-2. **Exclusion Clauses:**
-   - **Unfair Contract Terms Ordinance (Cap. 71):** The enforceability of exclusion clauses and the requirement for such clauses to be reasonable.
-   - **Common Law Principles:** The interpretation of exclusion clauses and the requirement for clear and unambiguous language.
+1. **Contract Law**: Principles of offer, acceptance, consideration, and intention to create legal relations.
+2. **Sale of Goods Ordinance (Cap. 26)**: Provisions related to the sale of goods, including implied terms about quality and fitness for purpose.
+3. **Common Law Principles**: Case law on the interpretation of exclusion clauses and the incorporation of terms into contracts.
 
 #### 3. Application of Law to Facts
 
-1. **Contractual Obligations and Modifications:**
+**Formation of Contract**
 
-   - **Modification of Contracts:**
-     - Under common law, a contract can be modified if both parties agree to the changes and there is consideration for the modification. In this case, M-Scan Ltd has reduced the annual fee by 5% in recognition of the reduction in the donation percentage. This constitutes consideration for the modification.
-     - However, the Albright Cancer Research Foundation is a third-party beneficiary of the original contract. Under the Contracts (Rights of Third Parties) Ordinance (Cap. 623), a third party can enforce a term of the contract if the contract expressly provides that they may, or if the term purports to confer a benefit on them.
+- **Offer and Acceptance**: Wong Kee sent a draft contract to Neptune, which Neptune amended and returned. Wong Kee's acceptance of these amendments, despite not signing the contract, can be inferred from the continued transactions under the new terms.
+- **Consideration**: The mutual promises to supply and purchase crabs constitute consideration.
+- **Intention to Create Legal Relations**: The formalization of the arrangement and the continued business dealings indicate an intention to create legal relations.
 
-   - **Third-Party Rights:**
-     - The original contract between M-Scan Ltd and its customers expressly provided for a 10% annual donation and a 1% per booking donation to the Albright Cancer Research Foundation. The Foundation, as a third-party beneficiary, has a right to enforce these terms.
-     - The unilateral modification by M-Scan Ltd to reduce the donation percentage without the consent of the Foundation may be a breach of the contract. The Foundation could potentially claim the promised revenue based on the original terms of the contract.
+**Terms of the Contract**
 
-2. **Exclusion Clause and Liability:**
+- **Express Terms**: The terms proposed by Neptune, including the "minimum quantity" clause, "composition" clause, and "Seller’s Liability" provision, are likely to be considered part of the contract due to Wong Kee's acceptance and the subsequent conduct of the parties.
+- **Implied Terms**: Under the Sale of Goods Ordinance, there are implied terms that goods must be of satisfactory quality and fit for the purpose for which they are bought (Sections 16 and 17).
 
-   - **Validity and Enforceability of the Exclusion Clause:**
-     - The exclusion clause in the contract between M-Scan Ltd and its customers states that the carriers (Care 2 U Ltd) will not be liable for any damages during transportation if the user has not undertaken the recommended systems check and presented the results in writing.
-     - Under the Unfair Contract Terms Ordinance (Cap. 71), an exclusion clause must be reasonable to be enforceable. Factors to consider include the relative bargaining power of the parties, whether the clause was brought to the attention of the customer, and whether it is reasonable in the circumstances.
+**Breach of Contract**
 
-   - **Application to the Facts:**
-     - Vulcanicity Ltd failed to undertake the systems check before the scanner was collected, which is a condition precedent for the exclusion clause to apply.
-     - However, the driver from Care 2 U Ltd was new and did not recognize the difference in the paperwork. This raises questions about whether Care 2 U Ltd took reasonable steps to ensure compliance with the contractual terms.
-     - Given these circumstances, the exclusion clause may not be enforceable if it is found to be unreasonable or if Care 2 U Ltd did not take adequate steps to ensure the systems check was conducted.
+- **Composition Clause**: Neptune reserved the "absolute discretion to determine the size of mud crabs supplied." However, this discretion must be exercised reasonably and in good faith. Delivering only baby crabs, which are unsuitable for Wong Kee's signature dish, may be seen as unreasonable and a breach of the implied term of fitness for purpose.
+- **Previous Course of Dealings**: The consistent delivery of a mix of sizes in conformity with trade norms may imply a term that the crabs should meet these standards. The sudden deviation to only baby crabs could be a breach of this implied term.
 
-### Conclusion
+**Exclusion of Liability**
 
-1. **Albright Cancer Research Foundation:**
-   - The Foundation may have a valid claim to enforce the original terms of the contract regarding the donations. The unilateral modification by M-Scan Ltd without the Foundation's consent could be a breach of the contract, and the Foundation could potentially claim the promised revenue based on the original terms.
+- **Interpretation of Exclusion Clauses**: Courts generally interpret exclusion clauses strictly against the party seeking to rely on them (contra proferentem rule). The clause excluding liability for "any defect in any seafood product supplied" may not cover a situation where the entire delivery is unsuitable for the intended purpose.
+- **Reasonableness Test**: Under common law principles and potentially the Control of Exemption Clauses Ordinance (Cap. 71), exclusion clauses must be reasonable. Given the significant deviation from the expected quality and the impact on Wong Kee's business, the exclusion clause may be deemed unreasonable and thus unenforceable.
 
-2. **Care 2 U Ltd:**
-   - The enforceability of the exclusion clause depends on its reasonableness under the Unfair Contract Terms Ordinance. Given the failure of Vulcanicity Ltd to conduct the systems check and the new driver's oversight, the clause may be challenged as unreasonable. Care 2 U Ltd may not be able to rely on the exclusion clause to avoid liability for the damage to the scanner.
+#### 4. Conclusion
 
-In summary, the Albright Cancer Research Foundation has a strong case to claim the promised revenue, and Care 2 U Ltd may face challenges in relying on the exclusion clause to avoid liability.
+Based on the analysis:
+
+1. A binding contract likely exists between Wong Kee and Neptune, incorporating the terms proposed by Neptune.
+2. Neptune's delivery of only baby crabs likely constitutes a breach of the implied term of fitness for purpose and possibly the express terms regarding composition.
+3. The exclusion clause may not protect Neptune from liability due to its potential unreasonableness and the strict interpretation against Neptune.
+
+Wong Kee may have a strong case for claiming damages for the financial losses and reputational harm suffered due to Neptune's breach of contract.

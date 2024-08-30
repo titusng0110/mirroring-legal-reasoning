@@ -1,876 +1,1559 @@
 # Issues
 
-Contract Law: Whether M-Scan Ltd can unilaterally reduce the donation percentage to the Albright Cancer Research Foundation
+Contract Law: Whether there was a binding contract between Wong Kee and Neptune despite the absence of a signed agreement
 
-Contract Law: Whether the reduction in the donation percentage constitutes a breach of contract between M-Scan Ltd and the Albright Cancer Research Foundation
+Contract Law: Whether the terms proposed by Neptune in the draft contract, including the 'minimum quantity' clause, 'composition' clause, and 'Seller’s Liability' provision, are enforceable
 
-Contract Law: Whether the Albright Cancer Research Foundation can claim damages for the reduction in the promised donation
+Contract Law: Whether the 'Seller’s Liability' provision effectively excludes Neptune's liability for the delivery of baby mud crabs
 
-Contract Law: Whether the Albright Cancer Research Foundation can enforce the original terms of the donation agreement
+Contract Law: Whether the delivery of baby mud crabs constitutes a breach of the implied terms regarding the quality and suitability of the goods supplied
 
-Contract Law: Whether the exclusion clause in the contract between M-Scan Ltd and its customers is valid and enforceable
+Contract Law: Whether the course of dealings between Wong Kee and Neptune from June 2013 to June 2018 established an implied contract with specific terms
 
-Contract Law: Whether Vulcanicity Ltd's failure to undertake a systems check affects their ability to claim damages for the alleged transit damage
+Contract Law: Whether the 'composition' clause granting Neptune 'absolute discretion' to determine the size of crabs supplied is reasonable and enforceable
 
-Contract Law: Whether Care 2 U Ltd can rely on the exclusion clause to avoid liability for the damage to the scanner
+Contract Law: Whether Wong Kee's acceptance of smaller crabs on one previous occasion affects its ability to claim breach of contract for the delivery of baby crabs in December 2020
 
-Contract Law: Whether the driver from Care 2 U Ltd's failure to recognize the paperwork affects the enforceability of the exclusion clause
+Contract Law: Whether the exclusion clause in the 'Seller’s Liability' provision is valid under the Unfair Contract Terms Ordinance (Cap. 71) in Hong Kong
 
-Contract Law: Whether the exclusion clause is reasonable under the Unfair Contract Terms Ordinance (UCTO) in Hong Kong
+Contract Law: Whether Wong Kee can claim damages for financial losses and reputational damage due to the delivery of unsuitable crabs
 
-Contract Law: Whether the reduction in the annual fee by M-Scan Ltd constitutes sufficient consideration for the change in the donation terms
+Contract Law: Whether the 'minimum quantity' clause requiring Wong Kee to order at least 1000 kilograms per week is enforceable
 
-Contract Law: Whether the notice given by M-Scan Ltd to existing customers about the change in donation terms is sufficient and legally binding
+Contract Law: Whether the 'sole and only agreement' clause in the draft contract supersedes the prior informal agreement and course of dealings
 
-Contract Law: Whether the original contract between M-Scan Ltd and its customers included a binding obligation to donate a specific percentage to the Albright Cancer Research Foundation
+Contract Law: Whether Neptune's failure to supply crabs conforming to the norms and practices of the seafood trade constitutes a breach of contract
 
-Contract Law: Whether the Albright Cancer Research Foundation can claim third-party beneficiary rights under the Contracts (Rights of Third Parties) Ordinance (Cap. 623) in Hong Kong
+Contract Law: Whether Wong Kee's continued acceptance of crabs from Neptune after receiving the amended draft contract implies acceptance of the new terms
 
-# Contract Law: Whether M-Scan Ltd can unilaterally reduce the donation percentage to the Albright Cancer Research Foundation
+Contract Law: Whether the financial losses and angry reviews from customers are recoverable as consequential damages
+
+# Contract Law: Whether there was a binding contract between Wong Kee and Neptune despite the absence of a signed agreement
 
 ## Deductive reasoning: legislation
 
 ### Relevant law:
 
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 and Section 7
+Companies Ordinance Cap. 622 Section 121, Corporate Bodies Contracts Ordinance Cap. 293 Section 2, and Sale of Goods Ordinance Cap. 26 Section 5
 
 ### Major Premise:
 
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6
+1. Companies Ordinance Cap. 622 Section 121
 
    Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The third party has assented to the term and the promisor has received notice of the assent; or
-   - The third party has relied on the term and the promisor is aware of the reliance or can reasonably be expected to have foreseen that the third party would rely on the term.
+   - A contract is made on behalf of a company
+   - The contract is required by law to be in writing and under seal if made between natural persons
+   - The contract is required by law to be in writing and signed by the parties to the contract if made between natural persons
+   - The contract, though made orally and not in writing, would by law be valid if made between natural persons
 
    Consequences:
-   - The parties to the contract may not, without the third party’s consent, rescind the contract or vary the contract so that the third party’s right under the term is altered or extinguished.
-
-   Exceptions:
-   - An express term of the contract provides that one or more parties to the contract may rescind or vary the contract without the third party’s consent; or
-   - The third party’s consent to rescind or vary the contract is required in circumstances specified in the contract instead of those set out in subsection (2)(a) and (b); and
-   - Before the circumstances set out in subsection (2)(a) or (b) occur, the third party is aware of the term referred to in subsection (3) or one or more parties to the contract have taken reasonable steps to make the third party aware of the term.
-
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 7
-
-   Conditions:
-   - A third party’s consent is required to rescind or vary a contract under section 6(1) or (3)(b).
-   - A party to the contract applies to the court to make an order dispensing with the third party’s consent.
-
-   Consequences:
-   - The court may make the order if the other party or each other party to the contract agrees to rescind or vary the contract.
-   - The court thinks it just and practicable to make the order.
-   - The order may be made subject to any condition that the court thinks fit, including a condition requiring that the third party be compensated.
+   - The contract may be made by a company in writing under the company’s common seal or in writing executed in accordance with section 127(3) and expressed to be executed by the company
+   - The contract may be made on behalf of a company in writing signed by any person acting with the company’s authority
+   - The contract may be made on behalf of a company orally by any person acting with the company’s authority
+   - The contract is effective in law and binds the company and its successors and all other parties to the contract
+   - The contract may be varied or discharged in the same manner in which it is authorized to be made
 
    Exceptions:
    - None
 
+2. Corporate Bodies Contracts Ordinance Cap. 293 Section 2
+
+   Conditions:
+   - A contract is made on behalf of any body corporate
+   - The contract would be required by law to be in writing, signed by the parties to be charged therewith, if made between private persons
+   - The contract would by law be valid although made by parol only and not reduced into writing, if made between private persons
+
+   Consequences:
+   - The contract may be made on behalf of the body corporate in writing signed by any person acting under its authority, express or implied
+   - The contract may be made by parol on behalf of the body corporate by any person acting under its authority, express or implied
+   - The contract shall be effectual in law and shall bind the body corporate and its successors and all other parties thereto
+   - The contract may be varied or discharged in the same manner in which it is authorized to be made
+
+   Exceptions:
+   - None
+
+3. Sale of Goods Ordinance Cap. 26 Section 5
+
+   Conditions:
+   - A contract of sale is made
+   - The contract is made in writing (either with or without seal), or by word of mouth, or partly in writing and partly by word of mouth, or implied from the conduct of the parties
+
+   Consequences:
+   - The contract of sale is valid
+
+   Exceptions:
+   - Provided that nothing in this section shall affect the law relating to corporations
+
 ### Minor Premise:
 
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6:
-- The Albright Cancer Research Foundation is a third party that may enforce the term of the contract under section 4.
-- The Foundation has relied on the term, and M-Scan Ltd is aware of the reliance or can reasonably be expected to have foreseen that the Foundation would rely on the term.
-- M-Scan Ltd has given notice to existing customers that the donation will cease and the annual donation will drop from 10 per cent to 5 per cent.
-- The existing customer base is happy with the new arrangements, but the Foundation has not consented to this change.
-- There is no express term in the contract that allows M-Scan Ltd to rescind or vary the contract without the Foundation’s consent.
-- Therefore, M-Scan Ltd cannot unilaterally reduce the donation percentage without the Foundation’s consent.
+1. Companies Ordinance Cap. 622 Section 121:
+   - The contract between Wong Kee and Neptune was made on behalf of both companies.
+   - The contract was initially proposed in writing but was not signed.
+   - The dealings between Wong Kee and Neptune were conducted orally and informally, which would be valid if made between natural persons.
+   - The contract was made orally by persons acting with the companies' authority.
+   - The contract was effective in law and bound both companies, as evidenced by the continued transactions and acceptance of terms.
+   - The contract could be varied or discharged in the same manner, which was orally and informally.
 
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 7:
-- The Foundation’s consent is required to rescind or vary the contract under section 6(1).
-- M-Scan Ltd has not applied to the court to make an order dispensing with the Foundation’s consent.
-- Even if M-Scan Ltd were to apply, the court would need to consider whether it is just and practicable to make the order and may impose conditions, including compensation to the Foundation.
+2. Corporate Bodies Contracts Ordinance Cap. 293 Section 2:
+   - The contract was made on behalf of both corporate bodies (Wong Kee and Neptune).
+   - The contract would be valid if made by parol only and not reduced into writing, as it was conducted orally and informally.
+   - The contract was made by persons acting under the authority of both companies.
+   - The contract was effectual in law and bound both companies and their successors.
+   - The contract could be varied or discharged in the same manner, which was orally and informally.
+
+3. Sale of Goods Ordinance Cap. 26 Section 5:
+   - A contract of sale was made between Wong Kee and Neptune.
+   - The contract was made by word of mouth and implied from the conduct of the parties.
+   - The contract of sale was valid.
 
 ### Conclusion:
 
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 applies, and M-Scan Ltd cannot unilaterally reduce the donation percentage to the Albright Cancer Research Foundation without the Foundation’s consent. If M-Scan Ltd wishes to proceed with the change, they must either obtain the Foundation’s consent or apply to the court under Section 7, where the court may impose conditions, including compensation to the Foundation.
+The Companies Ordinance Cap. 622 Section 121, Corporate Bodies Contracts Ordinance Cap. 293 Section 2, and Sale of Goods Ordinance Cap. 26 Section 5 apply. There was a binding contract between Wong Kee and Neptune despite the absence of a signed agreement, as the contract was made orally and informally, which is valid and binding under the relevant laws.
+
+## Deductive Reasoning: cfa
+
+### Relevant law:
+
+Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited
+
+### Major Premise:
+
+1. Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited
+
+   Conditions:
+   - The conduct of the parties is such that it would be reasonably understood by a reasonable person in the position of the other party as an offer to enter into a contract.
+   - The conduct of the other party is such that it would be reasonably understood by a reasonable person in the position of the first party as an acceptance of that offer.
+   - The conduct relied upon is unequivocally referable to the contract sought to be inferred and inconsistent with there being no such contract.
+
+   Consequences:
+   - A legally binding contract may be inferred from the conduct of the parties.
+
+   Exceptions:
+   - The conduct is equally consistent with there being no contract.
+   - One party knows that the other party does not intend to be bound by the terms alleged.
+
+2. Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited
+
+   Conditions:
+   - The conduct of the parties, viewed objectively, indicates that they have reached an agreement on the same terms on the same subject-matter.
+   - The conduct is consistent only with there being a contract implied, and inconsistent with there being no such contract.
+
+   Consequences:
+   - A legally binding contract may be inferred from the conduct of the parties.
+
+   Exceptions:
+   - The conduct relied upon is no more consistent with an intention to contract than with an intention not to contract.
+   - One party knows that the other party does not intend to be bound by the terms alleged.
+
+### Minor Premise:
+
+1. Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited:
+
+   - The conduct of Wong Kee and Neptune is such that it would be reasonably understood by a reasonable person in the position of the other party as an offer to enter into a contract. Wong Kee consistently ordered crabs, and Neptune consistently supplied them.
+   - The conduct of Neptune is such that it would be reasonably understood by a reasonable person in the position of Wong Kee as an acceptance of that offer. Neptune continued to supply crabs as per the orders.
+   - The conduct relied upon is unequivocally referable to the contract sought to be inferred and inconsistent with there being no such contract. The dealings were regular and followed a specific pattern, including the delivery of crabs on the next Monday following the order.
+
+   - The conduct is not equally consistent with there being no contract. The regularity and specificity of the dealings indicate a contractual relationship.
+   - There is no evidence that one party knew the other did not intend to be bound by the terms alleged.
+
+2. Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited:
+
+   - The conduct of Wong Kee and Neptune, viewed objectively, indicates that they have reached an agreement on the same terms on the same subject-matter. The terms were consistent with the draft contract, and the dealings continued in the same manner.
+   - The conduct is consistent only with there being a contract implied, and inconsistent with there being no such contract. The dealings were regular, and the terms were clear and followed by both parties.
+
+   - The conduct relied upon is more consistent with an intention to contract than with an intention not to contract. The regular orders and deliveries indicate an intention to be bound by the terms.
+   - There is no evidence that one party knew the other did not intend to be bound by the terms alleged.
+
+### Conclusion:
+
+A legally binding contract may be inferred from the conduct of Wong Kee and Neptune despite the absence of a signed agreement.
 
 ## Reasoning by analogy: cases
 
-### Step 1: Outcome of Precedent (HCA 1288/2010)
-In the case of HCA 1288/2010 BETWEEN LEUNG WAN KEE SHIPYARD LIMITED Plaintiff and DRAGON PEARL NIGHT CLUB RESTAURANT LIMITED 1st Defendant CHAN SIU TUNG 2nd Defendant (precedent p), the court ruled that the plaintiff was entitled to the claimed survey fees of $390,335 and compound interest on the amounts due, as the terms of the contract were clear and the defendants' arguments were inconsistent and unsupported by credible evidence.
+### Step 1: Outcome of Precedent (T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD)
+In the case of T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD (precedent p), the court ruled that despite the presence of an "entire agreement clause" in the 2nd Invoice, there was a subsequent mutual agreement or variation that dispensed with the requirement of a top-up deposit. The court found that the parties' conduct and communications indicated a waiver of the top-up deposit requirement, thus creating a binding variation to the original terms.
 
 ### Step 2: Shared Legal Concepts
-Both in HCA 1288/2010 and in our current case, we see the following legal concepts and fact patterns:
-- **Legal Concept 1: Contractual Obligations and Terms**: 
-  - **Fact Pattern 1**: In HCA 1288/2010, the court found that the terms of the contract, including the payment of survey fees, were clear and enforceable. Similarly, in the current case, the terms of the contract between M-Scan Ltd and its customers, including the donation to the Albright Cancer Research Foundation, are clear and enforceable.
-- **Legal Concept 2: Unilateral Changes to Contract Terms**:
-  - **Fact Pattern 2**: In HCA 1288/2010, the court rejected the defendants' attempt to avoid liability based on unsubstantiated claims and changes to the agreed terms. In the current case, M-Scan Ltd is attempting to unilaterally reduce the donation percentage, which is a change to the agreed terms of the contract.
-- **Legal Concept 3: Credibility and Consistency of Evidence**:
-  - **Fact Pattern 3**: In HCA 1288/2010, the court found the defendants' evidence to be inconsistent and self-contradictory. In the current case, the Albright Cancer Research Foundation can argue that M-Scan Ltd's unilateral change is not supported by any credible evidence or mutual agreement.
-- **Legal Concept 4: Enforceability of Exclusion Clauses**:
-  - **Fact Pattern 4**: In HCA 1288/2010, the court upheld the enforceability of the contract terms, including the interest clause. In the current case, Care 2 U Ltd can rely on the exclusion clause in the contract, provided the conditions for its applicability are met.
+Both in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD and in our current case, we see the following legal concepts and fact patterns:
+- **Legal Concept 1: Entire Agreement Clause**: 
+  - **Fact Pattern 1**: In T&T GLOBAL, the 2nd Invoice contained an entire agreement clause, yet the court found a subsequent mutual agreement that varied the terms. In our current case, the amended agreement sent by Neptune to Wong Kee also contains an entire agreement clause.
+- **Legal Concept 2: Conduct and Communications Indicating Variation**:
+  - **Fact Pattern 2**: In T&T GLOBAL, the conduct and communications between the parties indicated a waiver of the top-up deposit requirement. In our current case, the continued transactions between Wong Kee and Neptune, despite the absence of a signed agreement, indicate an acceptance of the terms proposed by Neptune.
+- **Legal Concept 3: Part Performance**:
+  - **Fact Pattern 3**: In T&T GLOBAL, the court considered the part performance of the contract (partial delivery of goods) as evidence of a binding agreement. In our current case, Neptune continued to supply crabs to Wong Kee, and Wong Kee continued to accept and pay for them, indicating part performance.
+- **Legal Concept 4: Objective Assessment of Intent to Create Legal Relations**:
+  - **Fact Pattern 4**: In T&T GLOBAL, the court assessed the intent to create legal relations objectively based on the parties' conduct and communications. In our current case, the objective assessment of the continued dealings between Wong Kee and Neptune suggests an intent to be bound by the terms of the amended agreement.
 
-### Step 3: Extraction of Legal Rule from Precedent (HCA 1288/2010)
-This suggests a general rule that when we see a clear and enforceable contractual term (fact pattern i*), the court should decide in favor of upholding the contractual obligations (outcome o). This rule was justified in HCA 1288/2010 because the positive effects (E+) of enforcing clear contractual terms and maintaining the integrity of contractual agreements outweigh the negative effects (E-) of allowing parties to unilaterally alter agreed terms without mutual consent.
-
-In the current case, the Albright Cancer Research Foundation can argue that M-Scan Ltd cannot unilaterally reduce the donation percentage as it is a clear term of the contract, and such a change would undermine the integrity of the contractual agreement. Similarly, Care 2 U Ltd can rely on the exclusion clause, provided Vulcanicity Ltd did not meet the conditions required to negate the clause, thus upholding the enforceability of the contract terms.
+### Step 3: Extraction of Legal Rule from Precedent (T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD)
+This suggests a general rule that when we see the fact pattern of an entire agreement clause being present, but the parties' conduct and communications indicating a variation or mutual agreement, the court should decide that the variation is binding. This rule was justified in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD because the positive effects (E+) of recognizing the parties' true intent and ensuring fairness in commercial dealings outweighed the negative effects (E-) of potentially undermining the entire agreement clause. This rule ensures that the law respects the practical realities of business transactions and the genuine intentions of the parties involved.
 
 ### Step 4: Applying the Rule to the Current Case
 
-In the current case, the same legal concepts and fact patterns as the precedent (HCA 1288/2010) are present:
+In the current case, the same legal concepts and fact patterns as the precedent (T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD) are present:
 
-- **Legal Concept 1: Contractual Obligations and Terms**:
-  - **Fact Pattern 1**: In HCA 1288/2010, the court found that the terms of the contract, including the payment of survey fees, were clear and enforceable. Similarly, in the current case, the terms of the contract between M-Scan Ltd and its customers, including the donation to the Albright Cancer Research Foundation, are clear and enforceable. The contract explicitly states that 10 per cent of the annual fee and 1 per cent of each booking will be donated to the Foundation.
+- **Legal Concept 1: Entire Agreement Clause**:
+  - **Fact Pattern 1**: In T&T GLOBAL, the 2nd Invoice contained an entire agreement clause, yet the court found a subsequent mutual agreement that varied the terms. In our current case, the amended agreement sent by Neptune to Wong Kee also contains an entire agreement clause.
 
-- **Legal Concept 2: Unilateral Changes to Contract Terms**:
-  - **Fact Pattern 2**: In HCA 1288/2010, the court rejected the defendants' attempt to avoid liability based on unsubstantiated claims and changes to the agreed terms. In the current case, M-Scan Ltd is attempting to unilaterally reduce the donation percentage, which is a change to the agreed terms of the contract. The Albright Cancer Research Foundation can argue that such a unilateral change is not permissible without mutual consent.
+- **Legal Concept 2: Conduct and Communications Indicating Variation**:
+  - **Fact Pattern 2**: In T&T GLOBAL, the conduct and communications between the parties indicated a waiver of the top-up deposit requirement. In our current case, the continued transactions between Wong Kee and Neptune, despite the absence of a signed agreement, indicate an acceptance of the terms proposed by Neptune.
 
-- **Legal Concept 3: Credibility and Consistency of Evidence**:
-  - **Fact Pattern 3**: In HCA 1288/2010, the court found the defendants' evidence to be inconsistent and self-contradictory. In the current case, the Albright Cancer Research Foundation can argue that M-Scan Ltd's unilateral change is not supported by any credible evidence or mutual agreement. The Foundation has relied on the promised cash flow for its projects, and M-Scan Ltd's sudden change undermines this reliance.
+- **Legal Concept 3: Part Performance**:
+  - **Fact Pattern 3**: In T&T GLOBAL, the court considered the part performance of the contract (partial delivery of goods) as evidence of a binding agreement. In our current case, Neptune continued to supply crabs to Wong Kee, and Wong Kee continued to accept and pay for them, indicating part performance.
 
-- **Legal Concept 4: Enforceability of Exclusion Clauses**:
-  - **Fact Pattern 4**: In HCA 1288/2010, the court upheld the enforceability of the contract terms, including the interest clause. In the current case, Care 2 U Ltd can rely on the exclusion clause in the contract, provided the conditions for its applicability are met. Vulcanicity Ltd failed to undertake the recommended systems check, which is a condition precedent for the exclusion clause to be inapplicable.
+- **Legal Concept 4: Objective Assessment of Intent to Create Legal Relations**:
+  - **Fact Pattern 4**: In T&T GLOBAL, the court assessed the intent to create legal relations objectively based on the parties' conduct and communications. In our current case, the objective assessment of the continued dealings between Wong Kee and Neptune suggests an intent to be bound by the terms of the amended agreement.
 
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in HCA 1288/2010. This decision would be justified because, as in HCA 1288/2010, it would have the following positive effects:
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD. This decision would be justified because, as in the precedent case, it would have the following positive effects:
 
-1. **Upholding Contractual Integrity**: Enforcing the clear terms of the contract between M-Scan Ltd and the Albright Cancer Research Foundation ensures that parties cannot unilaterally alter agreed terms, thereby maintaining the integrity of contractual agreements.
-2. **Reliance and Expectation**: The Albright Cancer Research Foundation has relied on the promised donations for its funding and projects. Allowing M-Scan Ltd to unilaterally reduce the donation percentage would undermine the Foundation's reliance and expectations, leading to potential financial harm.
-3. **Consistency and Credibility**: Just as the court in HCA 1288/2010 found the defendants' evidence inconsistent and self-contradictory, the court should similarly find M-Scan Ltd's unilateral change unsupported by credible evidence or mutual agreement.
-4. **Enforceability of Exclusion Clauses**: Care 2 U Ltd can rely on the exclusion clause, provided the conditions for its applicability are met. Vulcanicity Ltd's failure to undertake the systems check means the exclusion clause should be enforceable, protecting Care 2 U Ltd from liability for damages during transportation.
+1. **Recognition of Parties' True Intent**: By acknowledging the continued dealings and the acceptance of the terms proposed by Neptune, the court would be recognizing the true intent of the parties to be bound by the amended agreement, despite the absence of a formal signature. This respects the practical realities of business transactions where formalities may sometimes be overlooked but the intent to create legal relations remains clear.
 
-Therefore, the court should uphold the contractual obligations of M-Scan Ltd to maintain the original donation percentages and enforce the exclusion clause in favor of Care 2 U Ltd, ensuring consistency with the principles established in HCA 1288/2010.
+2. **Ensuring Fairness in Commercial Dealings**: Upholding the binding nature of the agreement based on the parties' conduct and communications ensures fairness. Wong Kee relied on Neptune's supply of crabs for its business, and Neptune continued to supply crabs based on the terms it proposed. It would be unfair to allow Neptune to unilaterally alter the terms (such as supplying only baby crabs) without consequence.
+
+3. **Commercial Certainty**: This decision would promote commercial certainty by reinforcing that parties cannot escape their obligations simply due to a lack of formal signature when their conduct clearly indicates an agreement. This is crucial for businesses to plan and operate effectively.
+
+4. **Respecting Established Trade Practices**: The decision would also respect the established norms and practices of the seafood trade in Hong Kong, which both parties adhered to during their dealings. This reinforces the binding nature of industry standards and practices in commercial contracts.
+
+Therefore, the court should find that there was a binding contract between Wong Kee and Neptune, despite the absence of a signed agreement, based on the parties' conduct, communications, and part performance. This outcome aligns with the principles established in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD and ensures fairness, recognition of true intent, commercial certainty, and respect for trade practices.
 
 ### Step 5: Distinction Due to Missing Feature in Current Case
 Skipped
 
 ### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the specific charitable donation clause, that was not present in HCA 1288/2010. This factor significantly alters the situation described by the shared fact pattern of clear and enforceable contractual terms. In HCA 1288/2010, the court dealt with a straightforward commercial contract without any charitable obligations. However, in our current case, the contractual obligation includes a specific charitable donation to the Albright Cancer Research Foundation, which has relied on this promised cash flow for its projects.
+Our current case involves an important factor, the "Seller’s Liability" provision, that was not present in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD. This factor significantly alters the situation described by the shared fact pattern of the entire agreement clause and the conduct indicating variation. The "Seller’s Liability" provision in our current case explicitly excludes all liability for any loss or damage arising from any defect in any seafood product supplied, however caused. This provision could potentially conflict with the implied terms of quality and fitness for purpose that might otherwise be inferred from the parties' conduct and communications.
 
-Due to this charitable donation clause, applying the same outcome as in HCA 1288/2010 would have more negative consequences, such as severe funding implications for the Albright Cancer Research Foundation, than positive ones. Unlike in HCA 1288/2010, where the enforcement of contractual terms primarily affected the commercial interests of the parties involved, the reduction of the donation percentage in our current case would directly impact the funding and operations of a charitable organization, which has broader social implications. Therefore, the presence of this charitable donation clause necessitates a different consideration and potentially a different outcome to balance the interests of all parties involved.
+Due to the presence of the "Seller’s Liability" provision, applying the same outcome in our case would have more negative consequences such as undermining the protection typically afforded to buyers under implied terms of quality and fitness for purpose. Unlike in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD, where the court found a mutual agreement or variation that was beneficial to both parties, the "Seller’s Liability" provision in our case could lead to an unfair situation where Wong Kee is left without recourse for receiving substandard crabs, despite the continued dealings and part performance indicating an agreement. This significantly alters the balance of positive and negative effects, making it inappropriate to apply the same outcome as in the precedent case.
 
 ### Step 7: Argument from Undesirable Consequence
-
-We propose that the correct rule from HCA 1288/2010 should be stated as: "When both [i*] (clear and enforceable contractual terms) and [m] (the presence of a specific charitable donation clause) are present, the court should decide [o] (upholding the original contractual obligations without unilateral changes)." Omitting [m] from this rule could lead to [undesirable consequence q] (severe funding implications for the charitable organization, which has relied on the promised cash flow for its projects). Indeed, the opinion in HCA 1288/2010 explicitly states that the enforceability of clear contractual terms was crucial to their decision, and the same principle should apply here, with the added consideration of the charitable donation clause.
+We propose that the correct rule from T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD should be stated as: "When both the fact pattern of an entire agreement clause being present and the parties' conduct and communications indicating a variation or mutual agreement are present, the court should decide that the variation is binding, unless there is a specific exclusion of liability clause that significantly alters the balance of obligations and protections between the parties." Omitting the specific exclusion of liability clause from this rule could lead to the undesirable consequence of undermining the protection typically afforded to buyers under implied terms of quality and fitness for purpose. Indeed, the opinion in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD explicitly states that the mutual agreement or variation was crucial to their decision, but it did not involve an exclusion of liability clause that could significantly alter the parties' obligations and protections.
 
 ### Step 8: Distinction from Non-occurring Undesirable Consequence
-
-The rule established in HCA 1288/2010 was clearly designed to prevent the undesirable consequence of parties unilaterally altering agreed contractual terms, thereby undermining the integrity of contractual agreements. However, in our current case, there's an additional risk of severe funding implications for the Albright Cancer Research Foundation, which has relied on the promised donations for its projects. Therefore, applying the precedent's rule without considering the charitable donation clause would be misguided, as the very purpose it serves (preventing unilateral changes to contractual terms) is not fully relevant to our situation without addressing the broader social implications of the charitable donation. Thus, the court should uphold the original donation percentages to prevent the undesirable consequence of undermining the Foundation's funding and projects.
+The rule established in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD was clearly designed to prevent the undesirable consequence of ignoring the true intent and practical realities of business transactions where parties' conduct and communications indicate a mutual agreement or variation. However, in our current case, there's a significant risk of an undesirable consequence occurring due to the presence of the "Seller’s Liability" provision. This provision explicitly excludes all liability for any loss or damage arising from any defect in any seafood product supplied, which could leave Wong Kee without recourse for receiving substandard crabs. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves—to recognize mutual agreements and variations based on conduct and communications—does not account for the significant alteration of obligations and protections introduced by the exclusion of liability clause.
 
 ### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the specific charitable donation clause (factor m), which was present in the precedent case HCA 1288/2010, requiring this factor for all similar cases of clear and enforceable contractual terms (fact pattern i*) would lead to an undesirable consequence. Specifically, it would allow parties to unilaterally alter agreed terms without mutual consent, undermining the integrity of contractual agreements. Conversely, not requiring the specific charitable donation clause would allow for the enforcement of clear contractual obligations, which better aligns with the underlying principles of contract law, such as the sanctity of contracts and the expectation that parties will adhere to their agreed terms.
+While it's true that our case lacks the specific exclusion of liability clause (factor m), which was present in the precedent case T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD, requiring this factor for all similar cases of entire agreement clauses and conduct indicating variation would lead to an undesirable consequence. Specifically, it would allow parties to escape their obligations by inserting broad exclusion clauses, thereby undermining the practical realities of business transactions and the genuine intentions of the parties involved. Conversely, not requiring the exclusion of liability clause would allow for a more balanced approach that respects the true intent of the parties and ensures fairness in commercial dealings. This better aligns with the underlying principles of contract law, which aim to uphold the reasonable expectations of honest businessmen and ensure that agreements are honored based on the parties' conduct and communications.
 
 ### Step 10: Feature Substitution
-Although our case lacks the specific charitable donation clause (factor m), which was present in HCA 1288/2010, we have the additional factor of the reliance by the Albright Cancer Research Foundation on the promised donations (factor n). This reliance, when considered alongside the shared circumstances of clear and enforceable contractual terms (i*), serves a similar function to the specific charitable donation clause in the precedent case. Given the presence of this reliance, we submit that the reasoning in HCA 1288/2010 still applies, as the positive effects on maintaining the integrity of contractual agreements and protecting the reliance interests of the Foundation would still outweigh any potential negative consequences, just as they did in the precedent case.
+Although our case lacks the specific exclusion of liability clause (factor m), which was present in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD, we have the additional factor of established trade practices and norms (factor n). This factor n, when considered alongside the shared circumstances of an entire agreement clause and conduct indicating variation, serves a similar function to factor m in the precedent case. Given the presence of established trade practices and norms, we submit that the reasoning in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD still applies. The positive effects on legal values, such as recognizing the true intent of the parties, ensuring fairness, and promoting commercial certainty, would still outweigh any potential negative consequences, just as they did in the precedent case. The established trade practices provide a clear framework for the distribution of crab sizes, which both parties adhered to, reinforcing the binding nature of their agreement despite the absence of a formal signature.
 
 ### Step 11: Conclusion
 
-After careful consideration of all arguments presented, including the initial analogy to HCA 1288/2010, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of clear and enforceable contractual terms and the issue of unilateral changes to those terms. However, it also differs in significant ways, particularly the inclusion of a specific charitable donation clause and the reliance of the Albright Cancer Research Foundation on the promised donations.
+After careful consideration of all arguments presented, including the initial analogy to T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of an entire agreement clause, conduct and communications indicating a variation, part performance, and an objective assessment of intent to create legal relations. However, it also differs in the significant presence of a "Seller’s Liability" provision in the current case, which was not present in the precedent.
 
-The proposed legal rule of upholding clear and enforceable contractual obligations finds support in both cases, but its broader implications must be considered. We've weighed arguments from both sides, particularly the importance of maintaining the integrity of contractual agreements and the potential severe funding implications for the Albright Cancer Research Foundation.
+The proposed legal rule from T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD—that a variation is binding when the fact pattern of an entire agreement clause being present and the parties' conduct and communications indicating a variation or mutual agreement are present—finds support in both cases. However, its broader implications must be considered, especially in light of the "Seller’s Liability" provision in the current case.
 
-Considering the underlying legal principles of contract law, such as the sanctity of contracts and the expectation that parties will adhere to their agreed terms, and the potential impact on future cases, we conclude that M-Scan Ltd cannot unilaterally reduce the donation percentage to the Albright Cancer Research Foundation. This decision aligns with the precedent set in HCA 1288/2010, emphasizing the enforceability of clear contractual terms and protecting the reliance interests of the Foundation.
+We've weighed arguments from both sides, particularly the strong point that the continued dealings and part performance indicate an acceptance of the terms proposed by Neptune, and the counterargument that the "Seller’s Liability" provision significantly alters the balance of obligations and protections between the parties.
 
-Regarding Care 2 U Ltd, the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd is enforceable, provided the conditions for its applicability are met. Vulcanicity Ltd's failure to undertake the recommended systems check means the exclusion clause should be enforceable, protecting Care 2 U Ltd from liability for damages during transportation.
+Considering the underlying legal principles of recognizing the true intent of the parties, ensuring fairness in commercial dealings, and promoting commercial certainty, we conclude that there was a binding contract between Wong Kee and Neptune, despite the absence of a signed agreement. This decision aligns with the principles established in T&T GLOBAL TRADING LTD v. BOE (HK) GROUP CO., LTD and ensures fairness, recognition of true intent, commercial certainty, and respect for trade practices.
 
-In conclusion, M-Scan Ltd must adhere to the original donation percentages as stipulated in the contract, and Care 2 U Ltd can rely on the exclusion clause to avoid liability for the damages claimed by Vulcanicity Ltd. This decision ensures consistency with legal precedent while also serving justice and legal consistency.
+However, the "Seller’s Liability" provision must be scrutinized separately to ensure it does not unfairly prejudice Wong Kee. The court should consider whether this provision is enforceable in light of the implied terms of quality and fitness for purpose that might otherwise be inferred from the parties' conduct and communications. If the provision is found to be overly broad or unfair, it may be subject to limitation or exclusion under relevant consumer protection laws or principles of fairness in contract law.
 
-
-# Contract Law: Whether the reduction in the donation percentage constitutes a breach of contract between M-Scan Ltd and the Albright Cancer Research Foundation
-
-## Deductive reasoning: legislation
-
-### Relevant law:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsections 1, 2, and 3
-
-### Major Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsections 1, 2, and 3
-
-   Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The third party has assented to the term and the promisor has received notice of the assent; or
-   - The third party has relied on the term and the promisor is aware of the reliance or can reasonably be expected to have foreseen that the third party would rely on the term.
-
-   Consequences:
-   - The parties to the contract may not, without the third party’s consent, rescind the contract or vary the contract so that the third party’s right under the term is altered or extinguished.
-
-   Exceptions:
-   - An express term of the contract provides that one or more parties to the contract may rescind or vary the contract without the third party’s consent; or
-   - The third party’s consent to rescind or vary the contract is required in circumstances specified in the contract instead of those set out in subsection (2)(a) and (b).
-
-### Minor Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsections 1, 2, and 3:
-   - The Albright Cancer Research Foundation is a third party that may enforce the term of the contract under section 4, as they are the intended beneficiary of the donation clause.
-   - The Foundation has relied on the term, as evidenced by their allocation of funds to projects based on the promised cash flow.
-   - M-Scan Ltd is aware of the reliance or can reasonably be expected to have foreseen that the Foundation would rely on the term, given the nature of the donation clause.
-
-   Consequences:
-   - M-Scan Ltd and its customers may not, without the Foundation’s consent, rescind the contract or vary the contract so that the Foundation’s right under the term is altered or extinguished.
-
-   Exceptions:
-   - There is no express term in the contract that provides M-Scan Ltd or its customers may rescind or vary the contract without the Foundation’s consent.
-   - The contract does not specify any alternative circumstances under which the Foundation’s consent to rescind or vary the contract is required.
-
-### Conclusion:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsections 1, 2, and 3 apply, and M-Scan Ltd may not, without the Albright Cancer Research Foundation’s consent, rescind or vary the contract so that the Foundation’s right to the promised donations is altered or extinguished. Therefore, the Albright Cancer Research Foundation can claim the promised revenue from M-Scan Ltd.
+In conclusion, the court should find that there was a binding contract between Wong Kee and Neptune based on the parties' conduct, communications, and part performance, while also carefully examining the enforceability of the "Seller’s Liability" provision to ensure it does not result in an unjust outcome.
 
 
-# Contract Law: Whether the Albright Cancer Research Foundation can claim damages for the reduction in the promised donation
+# Contract Law: Whether the terms proposed by Neptune in the draft contract, including the 'minimum quantity' clause, 'composition' clause, and 'Seller’s Liability' provision, are enforceable
 
 ## Deductive reasoning: legislation
 
 ### Relevant law:
 
-Law Amendment and Reform (Consolidation) Ordinance Cap. 23 Section 13A Subsection 1
+Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsection 1 and 2, Section 6 Subsection 3 and 4, Section 8 Subsection 2 and 4, Section 11 Subsection 2, Section 11 Subsection 4, Section 13 Subsection 1 and 3
 
 ### Major Premise:
 
-1. Law Amendment and Reform (Consolidation) Ordinance Cap. 23 Section 13A Subsection 1
+1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 2
 
    Conditions:
-   - A court is considering awarding damages for breach of a contract.
-   - There has been part performance of the contract.
-   - An order for specific performance could not be made by the court in the circumstances of the case.
+   - A third party may enforce a term of a contract under section 4
+   - The promisor has wholly or partly performed the promisor’s obligations to the third party under the term
 
    Consequences:
-   - The court may award damages for the breach of the contract.
-
-   Exceptions:
-   - The contract was made before 31 December 1972.
-
-### Minor Premise:
-
-1. Law Amendment and Reform (Consolidation) Ordinance Cap. 23 Section 13A Subsection 1:
-- The Albright Cancer Research Foundation is seeking damages for the reduction in the promised donation, which constitutes a breach of contract by M-Scan Ltd.
-- There has been part performance of the contract, as M-Scan Ltd has been making donations to the Foundation up until the recent change.
-- An order for specific performance (i.e., requiring M-Scan Ltd to continue making the original donations) could not be made by the court in the circumstances of the case, as the court typically does not enforce specific performance for ongoing monetary obligations.
-- The contract between M-Scan Ltd and the Albright Cancer Research Foundation was made after 31 December 1972.
-
-### Conclusion:
-
-Law Amendment and Reform (Consolidation) Ordinance Cap. 23 Section 13A Subsection 1 applies, and the court may award damages to the Albright Cancer Research Foundation for the breach of contract by M-Scan Ltd.
-
-## Reasoning by analogy: cases
-
-### Step 1: Outcome of Precedent (DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN)
-
-In the case of DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN (precedent p), the court dealt with the issue of whether an arbitration clause in a shareholders agreement was incorporated into a subsequent addendum and whether an anti-suit injunction should be granted to restrain a party from pursuing proceedings in a non-contractual forum. The court ruled that the arbitration clause was indeed incorporated into the addendum and granted the anti-suit injunction, emphasizing that a party seeking to enforce a right derived from a contract containing an arbitration clause must do so in accordance with the arbitration clause.
-
-### Step 2: Shared Legal Concepts
-
-Both in DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN and in our current case, we see the following legal concepts and fact patterns:
-
-- **Legal Concept 1: Privity of Contract and Third-Party Rights**
-  - **Fact Pattern 1:** In the precedent case, Fan was not a party to the Shareholders Agreement or the 3rd Addendum but sought to enforce rights derived from these contracts. Similarly, in the current case, the Albright Cancer Research Foundation is not a direct party to the contracts between M-Scan Ltd and its customers but seeks to enforce the promised donations.
-
-- **Legal Concept 2: Incorporation of Contractual Terms**
-  - **Fact Pattern 2:** The court in the precedent case examined whether the arbitration clause in the Shareholders Agreement was incorporated into the 3rd Addendum. In the current case, we need to determine whether the exclusion clause in the contract between M-Scan Ltd and its customers applies to Care 2 U Ltd.
-
-- **Legal Concept 3: Equitable Remedies and Anti-Suit Injunctions**
-  - **Fact Pattern 3:** The court in the precedent case granted an anti-suit injunction to prevent Fan from pursuing proceedings in a non-contractual forum. In the current case, the Albright Cancer Research Foundation may seek an equitable remedy to enforce the promised donations.
-
-### Step 3: Extraction of Legal Rule from Precedent (DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN)
-
-This suggests a general rule that when we see a fact pattern where a third party seeks to enforce rights derived from a contract, the court should decide that the third party must adhere to the terms and conditions of the original contract, including any incorporated clauses. This rule was justified in DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN because the positive effects (E+) of ensuring contractual consistency and honoring the agreed-upon dispute resolution mechanisms outweighed the negative effects (E-) of potentially limiting the third party's ability to pursue claims in a different forum.
-
-Applying this rule to the current case:
-
-- **Albright Cancer Research Foundation:** The Foundation can argue that the promised donations are derived from the contracts between M-Scan Ltd and its customers. Therefore, M-Scan Ltd should be held to the original terms of the contract, including the donation commitments, unless there is a strong reason to justify the change.
-  
-- **Care 2 U Ltd:** The exclusion clause in the contract between M-Scan Ltd and its customers should apply to Care 2 U Ltd, provided that the conditions for the exclusion (i.e., the systems check) were not met by Vulcanicity Ltd. This would mean that Care 2 U Ltd can rely on the exclusion clause to avoid liability for the damages during transportation.
-
-### Step 4: Applying the Rule to the Current Case
-
-In the current case, the same legal concepts and fact patterns as the precedent (DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN) are present:
-
-- **Legal Concept 1: Privity of Contract and Third-Party Rights**
-  - **Fact Pattern 1:** In the precedent case, Fan was not a party to the Shareholders Agreement or the 3rd Addendum but sought to enforce rights derived from these contracts. Similarly, in the current case, the Albright Cancer Research Foundation is not a direct party to the contracts between M-Scan Ltd and its customers but seeks to enforce the promised donations.
-
-- **Legal Concept 2: Incorporation of Contractual Terms**
-  - **Fact Pattern 2:** The court in the precedent case examined whether the arbitration clause in the Shareholders Agreement was incorporated into the 3rd Addendum. In the current case, we need to determine whether the exclusion clause in the contract between M-Scan Ltd and its customers applies to Care 2 U Ltd.
-
-- **Legal Concept 3: Equitable Remedies and Anti-Suit Injunctions**
-  - **Fact Pattern 3:** The court in the precedent case granted an anti-suit injunction to prevent Fan from pursuing proceedings in a non-contractual forum. In the current case, the Albright Cancer Research Foundation may seek an equitable remedy to enforce the promised donations.
-
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN, it would have the following positive effects:
-
-1. **Consistency in Contractual Obligations:**
-   - Just as the court in the precedent case emphasized the importance of adhering to the terms and conditions of the original contract, enforcing the promised donations to the Albright Cancer Research Foundation would ensure that M-Scan Ltd honors its contractual commitments. This consistency is crucial for maintaining trust and reliability in commercial transactions.
-
-2. **Protection of Third-Party Rights:**
-   - The Albright Cancer Research Foundation, although not a direct party to the contracts, has relied on the promised donations for its funding. Allowing M-Scan Ltd to unilaterally reduce the donations would undermine the Foundation's financial planning and commitments. Protecting the Foundation's rights aligns with the principle of equitable remedies, ensuring that third parties who benefit from contractual promises are not unfairly prejudiced.
-
-3. **Application of Exclusion Clauses:**
-   - In the precedent case, the court examined the incorporation of contractual terms. Similarly, in the current case, the exclusion clause in the contract between M-Scan Ltd and its customers should apply to Care 2 U Ltd, provided that the conditions for the exclusion (i.e., the systems check) were not met by Vulcanicity Ltd. This would mean that Care 2 U Ltd can rely on the exclusion clause to avoid liability for the damages during transportation, ensuring that contractual terms are applied consistently and fairly.
-
-4. **Equitable Intervention:**
-   - The court's willingness to grant an anti-suit injunction in the precedent case to prevent proceedings in a non-contractual forum highlights the importance of equitable intervention to protect contractual rights. Similarly, the Albright Cancer Research Foundation may seek an equitable remedy to enforce the promised donations, ensuring that M-Scan Ltd cannot unilaterally alter the terms to the detriment of the Foundation.
-
-Given these considerations, the court should reach the same outcome as in the precedent case. This decision would be justified because it would uphold the principles of contractual consistency, protection of third-party rights, fair application of exclusion clauses, and equitable intervention, thereby promoting fairness and reliability in commercial transactions.
-
-### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN, the court's decision was significantly influenced by the presence of an arbitration clause in the Shareholders Agreement, which was incorporated into the 3rd Addendum. This arbitration clause was key in ensuring that the benefits of the ruling, such as maintaining consistency in dispute resolution and honoring the agreed-upon mechanisms, outweighed any potential drawbacks because it provided a clear and agreed-upon method for resolving disputes. However, in our current case, this crucial arbitration clause is notably absent as there is no similar clause governing the donation commitments to the Albright Cancer Research Foundation. The absence of such a clause means that there is no pre-agreed mechanism for resolving disputes related to the donation commitments, which significantly alters the context and the legal considerations.
-
-### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the specific exclusion clause related to the systems check, that was not present in DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN. This factor significantly alters the situation described by the shared fact pattern because the exclusion clause directly impacts the liability of Care 2 U Ltd for damages during transportation. Due to this exclusion clause, applying the same outcome in our case would have more negative consequences, such as potentially absolving Care 2 U Ltd of liability even when there might be negligence involved, than positive ones, unlike in DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN. This is because the exclusion clause creates a specific condition (the systems check) that must be met for liability to be excluded, which adds a layer of complexity not present in the precedent case.
-
-### Step 7: Argument from Undesirable Consequence
-
-We propose that the correct rule from **DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN** should be stated as: "When both [a third party seeks to enforce rights derived from a contract] and [the contract contains an arbitration clause] are present, the court should decide [that the third party must adhere to the terms and conditions of the original contract, including any incorporated clauses]." Omitting [the contract contains an arbitration clause] from this rule could lead to [the undesirable consequence of inconsistent enforcement of contractual obligations and potential forum shopping, undermining the reliability and predictability of contractual agreements]. Indeed, the opinion in **DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN** explicitly states that [the arbitration clause was crucial to their decision, as it provided a clear and agreed-upon method for resolving disputes].
-
-### Step 8: Distinction from Non-occurring Undesirable Consequence
-
-The rule established in **DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN** was clearly designed to prevent [the undesirable consequence of parties circumventing agreed-upon dispute resolution mechanisms, leading to inconsistent and potentially unfair outcomes]. However, in our current case, there's no risk of [circumventing an agreed-upon arbitration mechanism] occurring because [there is no arbitration clause governing the donation commitments to the Albright Cancer Research Foundation]. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. Instead, the focus should be on the equitable principles and the specific terms of the exclusion clause in the contract between M-Scan Ltd and its customers.
-
-### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the arbitration clause, which was present in the precedent case DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN, requiring this factor for all similar cases of third-party enforcement of contractual rights would lead to the undesirable consequence of limiting the ability of third parties to seek equitable remedies when they are adversely affected by changes in contractual terms. Conversely, not requiring the arbitration clause would allow for the desirable outcome of ensuring that third parties, such as the Albright Cancer Research Foundation, can rely on the promised benefits and maintain their financial planning and commitments. This better aligns with the underlying principles of the law in this area, which aim to protect the legitimate expectations and rights of third parties who benefit from contractual promises.
-
-### Step 10: Feature Substitution
-Although our case lacks the arbitration clause, which was present in DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN, we have the additional factor of the specific exclusion clause related to the systems check. This exclusion clause, when considered alongside the shared circumstances of third-party enforcement of contractual rights, serves a similar function to the arbitration clause in the precedent case by providing a clear condition that must be met for liability to be excluded. Given the presence of this exclusion clause, we submit that the reasoning in DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN still applies, as the positive effects on contractual consistency and protection of third-party rights would still outweigh any potential negative consequences, just as they did in the precedent case.
-
-### Step 11: Conclusion
-
-After careful consideration of all arguments presented, including the initial analogy to **DICKSON VALORA GROUP (HOLDINGS) CO LTD AND ANOTHER v. FAN JI QIAN**, the distinctions raised, and the counterarguments offered, we make the following observations:
-
-1. **Key Similarities**:
-   - Both cases involve third parties seeking to enforce rights derived from contracts to which they are not direct parties.
-   - Both cases require the court to consider the incorporation of contractual terms and the application of equitable remedies.
-
-2. **Key Differences**:
-   - The precedent case involved an arbitration clause, which provided a clear mechanism for dispute resolution, whereas the current case lacks such a clause.
-   - The current case involves a specific exclusion clause related to a systems check, which was not a factor in the precedent case.
-
-3. **Proposed Legal Rule**:
-   - The rule from the precedent case suggests that third parties must adhere to the terms and conditions of the original contract, including any incorporated clauses, when seeking to enforce derived rights.
-
-4. **Arguments Weighed**:
-   - **For Albright Cancer Research Foundation**: The Foundation relies on the promised donations for its funding, and allowing M-Scan Ltd to unilaterally reduce the donations would undermine its financial planning and commitments. Protecting the Foundation's rights aligns with equitable principles.
-   - **For Care 2 U Ltd**: The exclusion clause in the contract between M-Scan Ltd and its customers should apply, provided that the conditions for the exclusion (i.e., the systems check) were not met by Vulcanicity Ltd. This ensures that contractual terms are applied consistently and fairly.
-
-5. **Legal Principles**:
-   - **Privity of Contract and Third-Party Rights**: Generally, only parties to a contract can enforce its terms, but equitable principles and statutory reforms (e.g., Contracts (Rights of Third Parties) Ordinance) can allow third parties to enforce certain rights.
-   - **Incorporation of Contractual Terms**: Terms from one contract can be incorporated into another if the parties intended for them to be read together.
-   - **Equitable Remedies**: Courts can intervene to protect the rights of third parties who benefit from contractual promises.
-
-### Final Decision
-
-Considering the underlying legal principles and the potential impact on future cases, we conclude as follows:
-
-1. **Albright Cancer Research Foundation**: The Foundation can claim the promised revenue from M-Scan Ltd. The reduction in donations, despite the reduction in the annual fee, undermines the Foundation's financial planning and commitments. The equitable principles and the reliance of the Foundation on the promised donations justify enforcing the original terms of the contract. Therefore, M-Scan Ltd should be held to the original donation commitments unless there is a strong reason to justify the change.
-
-2. **Care 2 U Ltd**: Care 2 U Ltd can rely on the exclusion clause in the contract between M-Scan Ltd and its customers. The exclusion clause is clear and specific, and Vulcanicity Ltd failed to undertake the required systems check. Therefore, Care 2 U Ltd is not liable for the damages during transportation, provided that the conditions for the exclusion were not met by Vulcanicity Ltd.
-
-This decision aligns with legal precedent while also serving justice and legal consistency by protecting the legitimate expectations and rights of third parties and ensuring that contractual terms are applied fairly and consistently.
-
-
-# Contract Law: Whether the Albright Cancer Research Foundation can enforce the original terms of the donation agreement
-
-## Deductive reasoning: legislation
-
-### Relevant law:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Sections 6 and 7
-
-### Major Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6
-
-   Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The third party has assented to the term and the promisor has received notice of the assent; or
-   - The third party has relied on the term and the promisor is aware of the reliance or can reasonably be expected to have foreseen that the third party would rely on the term.
-
-   Consequences:
-   - The parties to the contract may not, without the third party’s consent, rescind the contract or vary the contract so that the third party’s right under the term is altered or extinguished.
-
-   Exceptions:
-   - An express term of the contract provides that one or more parties to the contract may rescind or vary the contract without the third party’s consent; or
-   - The third party’s consent to rescind or vary the contract is required in circumstances specified in the contract instead of those set out in subsection (2)(a) and (b); and
-   - Before the circumstances set out in subsection (2)(a) or (b) occur, the third party is aware of the term referred to in subsection (3) or one or more parties to the contract have taken reasonable steps to make the third party aware of the term.
-
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 7
-
-   Conditions:
-   - A third party’s consent is required to rescind or vary a contract under section 6(1) or (3)(b).
-   - A party to the contract applies to the court to make an order dispensing with the third party’s consent.
-
-   Consequences:
-   - The court may make the order if the other party or each other party to the contract agrees to rescind or vary the contract.
-   - The court thinks it just and practicable to make the order.
-
-   Exceptions:
-   - The court does not think it just and practicable to make the order.
-
-### Minor Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6:
-- The Albright Cancer Research Foundation is a third party that may enforce the term of the contract regarding the donation.
-- The Foundation has relied on the term, and M-Scan Ltd is aware of the reliance as the Foundation has allocated funds based on the promised cash flow.
-- M-Scan Ltd has given notice to existing customers that the donation terms will change, which alters the Foundation's right under the term.
-- There is no express term in the contract that allows M-Scan Ltd to rescind or vary the contract without the Foundation’s consent.
-- Therefore, the parties to the contract may not rescind or vary the contract without the Foundation’s consent.
-
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 7:
-- The Foundation’s consent is required to rescind or vary the contract under section 6(1).
-- M-Scan Ltd has not applied to the court to make an order dispensing with the Foundation’s consent.
-- Even if M-Scan Ltd applies, the court must find it just and practicable to make the order, which is unlikely given the severe funding implications for the Foundation.
-
-### Conclusion:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 applies, and M-Scan Ltd may not rescind or vary the contract without the Albright Cancer Research Foundation’s consent. Therefore, the Albright Cancer Research Foundation can enforce the original terms of the donation agreement.
-
-## Reasoning by analogy: cases
-
-### Step 1: Outcome of Precedent (HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant)
-In the case of HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant (precedent p), the plaintiffs claimed the return of the initial deposit and liquidated damages due to the defendant's alleged breach of the estate agent's contract. The court ruled that the plaintiffs' failure to exchange a formal contract by the stipulated date did not constitute a repudiatory breach of the contract, provided they exchanged within a reasonable time. The defendant was not entitled to terminate the contract and forfeit the deposit solely based on the missed deadline, as time was not of the essence in the original contract.
-
-### Step 2: Shared Legal Concepts
-Both in HCA6381/97 and in our current case, we see the following legal concepts and fact patterns:
-- **Legal Concept 1: Contractual Obligations and Modifications**: 
-  - **Fact Pattern 1**: In HCA6381/97, the plaintiffs and defendant had a provisional agreement that was to be formalized, and the plaintiffs' failure to meet the initial deadline did not automatically constitute a breach. In the current case, M-Scan Ltd has modified the terms of the donation agreement with the Albright Cancer Research Foundation.
-- **Legal Concept 2: Time of the Essence**:
-  - **Fact Pattern 2**: In HCA6381/97, the court found that time was not of the essence unless explicitly stated. In the current case, there is no indication that the timing of the donations was explicitly made of the essence in the contract between M-Scan Ltd and the Albright Cancer Research Foundation.
-- **Legal Concept 3: Breach and Remedies**:
-  - **Fact Pattern 3**: In HCA6381/97, the court determined that a breach did not occur simply due to a missed deadline, provided actions were taken within a reasonable time. In the current case, M-Scan Ltd has given notice of the change in donation terms and adjusted the annual fee accordingly, which could be seen as a reasonable modification rather than a breach.
-- **Legal Concept 4: Exclusion Clauses**:
-  - **Fact Pattern 4**: In HCA6381/97, the court examined the terms and conditions of the contract to determine the rights and obligations of the parties. In the current case, the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd will be scrutinized to determine if Care 2 U Ltd can rely on it to avoid liability for the damage.
-
-### Step 3: Extraction of Legal Rule from Precedent (HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant)
-This suggests a general rule that when we see a fact pattern where time is not explicitly made of the essence in a contract, the court should decide that a missed deadline does not automatically constitute a repudiatory breach, provided actions are taken within a reasonable time. This rule was justified in HCA6381/97 because the positive effects (E+) of allowing parties to rectify missed deadlines within a reasonable time frame support the underlying values of fairness and flexibility in contractual relationships, outweighing the negative effects (E-) of strict adherence to deadlines that were not explicitly made essential. 
-
-In the current case, applying this rule means that the Albright Cancer Research Foundation may not be able to enforce the original terms of the donation agreement if M-Scan Ltd's modifications are deemed reasonable and communicated in a timely manner. Similarly, Care 2 U Ltd may rely on the exclusion clause if Vulcanicity Ltd failed to undertake the required systems check, as stipulated in the contract.
-
-### Step 4: Applying the Rule to the Current Case
-
-In the current case, the same legal concepts and fact patterns as the precedent (HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant) are present:
-
-- **Legal Concept 1: Contractual Obligations and Modifications**:
-  - **Fact Pattern 1**: In HCA6381/97, the plaintiffs and defendant had a provisional agreement that was to be formalized, and the plaintiffs' failure to meet the initial deadline did not automatically constitute a breach. In the current case, M-Scan Ltd has modified the terms of the donation agreement with the Albright Cancer Research Foundation.
-  
-- **Legal Concept 2: Time of the Essence**:
-  - **Fact Pattern 2**: In HCA6381/97, the court found that time was not of the essence unless explicitly stated. In the current case, there is no indication that the timing of the donations was explicitly made of the essence in the contract between M-Scan Ltd and the Albright Cancer Research Foundation.
-  
-- **Legal Concept 3: Breach and Remedies**:
-  - **Fact Pattern 3**: In HCA6381/97, the court determined that a breach did not occur simply due to a missed deadline, provided actions were taken within a reasonable time. In the current case, M-Scan Ltd has given notice of the change in donation terms and adjusted the annual fee accordingly, which could be seen as a reasonable modification rather than a breach.
-  
-- **Legal Concept 4: Exclusion Clauses**:
-  - **Fact Pattern 4**: In HCA6381/97, the court examined the terms and conditions of the contract to determine the rights and obligations of the parties. In the current case, the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd will be scrutinized to determine if Care 2 U Ltd can rely on it to avoid liability for the damage.
-
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in HCA6381/97, it would have the following positive effects:
-
-1. **Fairness and Flexibility in Contractual Relationships**: Allowing M-Scan Ltd to modify the donation terms, provided they have given reasonable notice and adjusted the annual fee, supports the principle of fairness and flexibility in contractual relationships. This ensures that businesses can adapt to changing circumstances without being unduly penalized, provided they act reasonably and communicate changes effectively.
-
-2. **Equitable Treatment of Time Stipulations**: Just as in HCA6381/97, where time was not of the essence unless explicitly stated, the same principle should apply here. This prevents one party from unilaterally imposing strict deadlines that were not originally agreed upon, thereby promoting equitable treatment of time stipulations in contracts.
-
-3. **Reasonable Modifications and Remedies**: By recognizing that M-Scan Ltd's modifications are reasonable and communicated in a timely manner, the court would be upholding the principle that parties can make necessary adjustments to their agreements without being deemed in breach, provided these adjustments are reasonable and do not fundamentally alter the agreed terms.
-
-4. **Enforcement of Exclusion Clauses**: Allowing Care 2 U Ltd to rely on the exclusion clause, given that Vulcanicity Ltd failed to undertake the required systems check, reinforces the importance of adhering to contractual terms and conditions. This ensures that parties are held accountable for their obligations and that exclusion clauses are enforced where applicable.
-
-In conclusion, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in HCA6381/97, it would have the positive effects of promoting fairness, flexibility, and equitable treatment in contractual relationships, while also ensuring that reasonable modifications and exclusion clauses are appropriately enforced.
-
-### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant, the court's decision was significantly influenced by the fact that time was not explicitly made of the essence in the contract. This factor was key in ensuring that the benefits of the ruling, such as fairness and flexibility in contractual relationships, outweighed any potential drawbacks because it allowed parties to rectify missed deadlines within a reasonable time frame without being unduly penalized. However, in our current case, this crucial factor is notably absent as there is no indication that the timing of the donations was explicitly made of the essence in the contract between M-Scan Ltd and the Albright Cancer Research Foundation. Therefore, the absence of this factor does not significantly alter the balance of positive and negative effects in the current case.
-
-### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the presence of an exclusion clause, that was not present in HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant. This factor significantly alters the situation described by the shared fact pattern because the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd will be scrutinized to determine if Care 2 U Ltd can rely on it to avoid liability for the damage. Due to the presence of the exclusion clause, applying the same outcome in our case would have more negative consequences such as potentially allowing Care 2 U Ltd to avoid liability for damages that may have occurred during transportation, which could undermine the accountability and responsibility of the parties involved. Unlike in HCA6381/97, where the focus was on the timing of contractual obligations, the current case involves the enforcement of an exclusion clause that could significantly impact the rights and obligations of the parties.
-
-### Step 7: Argument from Undesirable Consequence
-
-We propose that the correct rule from HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant should be stated as: "When both the shared fact pattern of contractual obligations and modifications (i*) and the presence of an exclusion clause (m) are present, the court should decide that the exclusion clause can be relied upon if the stipulated conditions are met (o)." Omitting the presence of the exclusion clause (m) from this rule could lead to the undesirable consequence (q) of undermining the accountability and responsibility of the parties involved, as it would allow parties to avoid liability for damages without adhering to the agreed contractual terms. Indeed, the opinion in HCA6381/97 explicitly states that the terms and conditions of the contract are crucial to determining the rights and obligations of the parties, highlighting the relevance of the contractual terms to their decision.
-
-### Step 8: Distinction from Non-occurring Undesirable Consequence
-
-The rule established in HCA6381/97 was clearly designed to prevent the undesirable consequence (u) of parties being unfairly penalized for missing deadlines that were not explicitly made of the essence in the contract. However, in our current case, there's no risk of this specific undesirable consequence (u) occurring because the focus is on the enforcement of an exclusion clause rather than the timing of contractual obligations. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves—preventing unfair penalties for missed deadlines—is not relevant to our situation, which involves the enforcement of an exclusion clause and the accountability for damages during transportation.
-
-### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the explicit stipulation that time is of the essence, which was present in the precedent case HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant, requiring this factor for all similar cases of contractual obligations and modifications would lead to the undesirable consequence of rigidly penalizing parties for missed deadlines that were not explicitly agreed upon as essential. Conversely, not requiring the explicit stipulation that time is of the essence would allow for a more flexible and fair approach, enabling parties to rectify missed deadlines within a reasonable time frame without being unduly penalized. This better aligns with the underlying principles of fairness and flexibility in contractual relationships, as well as the equitable treatment of time stipulations in contracts.
-
-### Step 10: Feature Substitution
-Although our case lacks the explicit stipulation that time is of the essence, which was present in HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant, we have the additional factor of an exclusion clause. This exclusion clause, when considered alongside the shared circumstances of contractual obligations and modifications, serves a similar function to the explicit stipulation of time being of the essence in the precedent case. Given the presence of the exclusion clause, we submit that the reasoning in HCA6381/97 still applies, as the positive effects on fairness, flexibility, and equitable treatment in contractual relationships would still outweigh any potential negative consequences, just as they did in the precedent case.
-
-### Step 11: Conclusion
-
-After careful consideration of all arguments presented, including the initial analogy to HCA6381/97 BETWEEN WONG KWAI ON, WONG PING and WONG HING YAU Plaintiffs AND LEUNG WING CHEONG Defendant, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the issues of contractual obligations and modifications, and the principle that time is not of the essence unless explicitly stated. However, it also differs in significant ways, particularly the presence of an exclusion clause in the current case, which was not a factor in the precedent.
-
-The proposed legal rule from the precedent case—that a missed deadline does not automatically constitute a repudiatory breach provided actions are taken within a reasonable time—finds support in both cases. However, its broader implications must be considered, especially in light of the exclusion clause in the current case.
-
-We've weighed arguments from both sides, particularly the strong point that the exclusion clause should be enforced if the stipulated conditions are met, as it ensures accountability and adherence to contractual terms. On the other hand, the argument that modifications to the donation terms by M-Scan Ltd should be seen as reasonable and communicated in a timely manner also holds merit, promoting fairness and flexibility in contractual relationships.
-
-Considering the underlying legal principles of fairness, flexibility, and equitable treatment in contractual relationships, as well as the importance of enforcing exclusion clauses to maintain accountability, we conclude that:
-
-1. **Albright Cancer Research Foundation's Claim**: The Albright Cancer Research Foundation may not be able to enforce the original terms of the donation agreement if M-Scan Ltd's modifications are deemed reasonable and communicated in a timely manner. The reduction in the annual fee by 5% in recognition of the change in donation terms supports the reasonableness of the modification.
-
-2. **Care 2 U Ltd's Reliance on the Exclusion Clause**: Care 2 U Ltd can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, provided that Vulcanicity Ltd failed to undertake the required systems check as stipulated. The exclusion clause is clear and enforceable, and Vulcanicity Ltd's failure to comply with the contractual requirement to perform the systems check means that Care 2 U Ltd is not liable for the damages claimed.
-
-This decision aligns with legal precedent while also serving justice and legal consistency by ensuring that contractual modifications are reasonable and communicated effectively, and that exclusion clauses are enforced where applicable.
-
-
-# Contract Law: Whether the exclusion clause in the contract between M-Scan Ltd and its customers is valid and enforceable
-
-## Deductive reasoning: legislation
-
-### Relevant law:
-
-Control of Exemption Clauses Ordinance Cap. 71 Sections 7, 8, and 12
-
-### Major Premise:
-
-1. Control of Exemption Clauses Ordinance Cap. 71 Section 8 Subsection 2
-
-   Conditions:
-   - A person deals as consumer or on the other’s written standard terms of business
-   - The other party is in breach of contract
-   - The other party attempts to exclude or restrict any liability in respect of the breach
-   - The other party attempts to render a contractual performance substantially different from that which was reasonably expected
-   - The other party attempts to render no performance at all
-
-   Consequences:
-   - The other party cannot exclude or restrict any liability in respect of the breach
-   - The other party cannot render a contractual performance substantially different from that which was reasonably expected
-   - The other party cannot render no performance at all, except in so far as the contract term satisfies the requirement of reasonableness
-
-   Exceptions:
-   - The contract term satisfies the requirement of reasonableness
-
-2. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 2
-
-   Conditions:
-   - A person deals as consumer
-   - The contract involves the possession or ownership of goods passing under or in pursuance of a contract not governed by the law of sale of goods
-   - The contract term attempts to exclude or restrict liability for the goods’ correspondence with description or sample, or their quality or fitness for any particular purpose
-
-   Consequences:
-   - Liability in respect of the goods’ correspondence with description or sample, or their quality or fitness for any particular purpose, cannot be excluded or restricted by reference to any such term
+   - The promisor is discharged from the obligations owed by the promisor to the promisee to the extent of having performed the same obligations to the third party
 
    Exceptions:
    - None
 
-3. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 3
+2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 4
 
    Conditions:
-   - A person deals otherwise than as consumer
-   - The contract involves the possession or ownership of goods passing under or in pursuance of a contract not governed by the law of sale of goods
-   - The contract term attempts to exclude or restrict liability for the goods’ correspondence with description or sample, or their quality or fitness for any particular purpose
+   - A third party may enforce a term of a contract under section 4
+   - The promisee has recovered from the promisor a sum for:
+     * The third party’s loss in relation to the term; or
+     * The expense to the promisee of making good to the third party the default of the promisor in relation to the term
 
    Consequences:
-   - Liability in respect of the goods’ correspondence with description or sample, or their quality or fitness for any particular purpose, can be excluded or restricted by reference to such a term, but only in so far as the term satisfies the requirement of reasonableness
+   - In any proceedings brought under section 4 before a court or arbitral tribunal by the third party, the court or arbitral tribunal must reduce any award to the third party to the extent to which it thinks appropriate to take account of the sum
 
    Exceptions:
-   - The term does not satisfy the requirement of reasonableness
+   - None
 
-4. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 4
+3. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsection 1 and 2
 
    Conditions:
-   - A person deals as consumer
-   - The contract involves the possession or ownership of goods passing under or in pursuance of a contract not governed by the law of sale of goods
-   - The contract term attempts to exclude or restrict liability in respect of the right to transfer ownership of the goods, or give possession
-   - The contract term attempts to exclude or restrict liability in respect of the assurance of quiet possession to a person taking goods in pursuance of the contract
+   - A third party may enforce a term of a contract under section 4
+   - The parties to the contract may not, without the third party’s consent:
+     * By agreement, rescind the contract; or
+     * By agreement, vary the contract so that the third party’s right under the term is altered or extinguished
 
    Consequences:
-   - Liability in respect of the right to transfer ownership of the goods, or give possession
-   - Liability in respect of the assurance of quiet possession to a person taking goods in pursuance of the contract, cannot be excluded or restricted by reference to any such term except in so far as the term satisfies the requirement of reasonableness
+   - The contract cannot be rescinded or varied without the third party’s consent
 
    Exceptions:
-   - The term does not satisfy the requirement of reasonableness
+   - The third party has assented to the term and the promisor has received notice of the assent (whether the assent and the notice are in writing or otherwise)
+   - The third party has relied on the term and:
+     * The promisor is aware of the reliance; or
+     * The promisor can reasonably be expected to have foreseen that the third party would rely on the term
 
-5. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsections 1-3
+4. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsection 3 and 4
 
    Conditions:
-   - A person cannot by reference to any contract term or to a notice given to persons generally or to particular persons exclude or restrict his liability for death or personal injury resulting from negligence
-   - In the case of other loss or damage, a person cannot so exclude or restrict his liability for negligence except in so far as the term or notice satisfies the requirement of reasonableness
-   - Where a contract term or notice purports to exclude or restrict liability for negligence a person’s agreement to or awareness of it is not of itself to be taken as indicating his voluntary acceptance of any risk
+   - A third party may enforce a term of a contract under section 4
+   - An express term of the contract provides to the effect that:
+     * One or more parties to the contract may rescind or vary the contract without the third party’s consent; or
+     * The third party’s consent to rescind or vary the contract is required in circumstances specified in the contract instead of those set out in subsection (2)(a) and (b)
 
    Consequences:
-   - The person cannot exclude or restrict his liability for death or personal injury resulting from negligence
-   - The person cannot exclude or restrict his liability for other loss or damage resulting from negligence except in so far as the term or notice satisfies the requirement of reasonableness
-   - The person’s agreement to or awareness of the contract term or notice is not of itself to be taken as indicating his voluntary acceptance of any risk
+   - The express term of the contract prevails over subsection (1)
 
    Exceptions:
-   - The term or notice satisfies the requirement of reasonableness in the case of other loss or damage
+   - Before the circumstances set out in subsection (2)(a) or (b) occur:
+     * The third party is aware of the term referred to in subsection (3); or
+     * One or more parties to the contract have taken reasonable steps to make the third party aware of the term
+
+5. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 8 Subsection 2 and 4
+
+   Conditions:
+   - A third party brings proceedings to enforce a term of a contract under section 4
+
+   Consequences:
+   - The promisor may raise one or more of the following matters by way of defence or set-off:
+     * A matter that:
+       * Arises from or in connection with the contract and is relevant to the term; and
+       * Would have been available to the promisor by way of defence or set-off if the proceedings had been brought by the promisee
+     * A matter in respect of which the following conditions are met:
+       * An express term of the contract provides for the matter to be available to the promisor by way of defence or set-off in proceedings brought by the third party; and
+       * The matter would have been available to the promisor by way of defence or set-off if the proceedings had been brought by the promisee
+     * A matter that would have been available to the promisor by way of defence or set-off if the third party had been a party to the contract
+
+   Exceptions:
+   - Any express term of the contract specifies matters not available to the promisor by way of defence, set-off or counterclaim
+
+6. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 13 Subsection 1 and 3
+
+   Conditions:
+   - A third party may enforce a term of a contract under section 4
+   - The contract contains an exclusive jurisdiction clause
+
+   Consequences:
+   - The third party is bound by the exclusive jurisdiction clause as regards a dispute between the third party and the promisor relating to the enforcement of the term by the third party
+
+   Exceptions:
+   - On a proper construction of the contract, the third party is not intended to be so bound
 
 ### Minor Premise:
 
-1. Control of Exemption Clauses Ordinance Cap. 71 Section 8 Subsection 2:
-- M-Scan Ltd deals on written standard terms of business with its customers.
-- M-Scan Ltd is in breach of contract by unilaterally changing the donation terms.
-- M-Scan Ltd attempts to exclude or restrict liability for this breach by reducing the annual fee.
-- The contract term does not satisfy the requirement of reasonableness as it unilaterally changes the agreed terms without proper negotiation or consent from the Albright Cancer Research Foundation.
-- Therefore, M-Scan Ltd cannot exclude or restrict liability for the breach.
+1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 2:
+   - Wong Kee and Neptune have an informal agreement, but no formal contract was signed.
+   - There is no evidence that a third party may enforce a term of the contract under section 4.
+   - Therefore, this section does not apply.
 
-2. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsections 1-3:
-- Care 2 U Ltd attempts to exclude liability for damage during transportation unless a systems check is performed.
-- Vulcanicity Ltd did not perform the systems check, but the driver from Care 2 U Ltd did not recognize the difference.
-- The exclusion clause must satisfy the requirement of reasonableness.
-- Given the circumstances, the exclusion clause may not be reasonable as it places an undue burden on the customer and the driver’s failure to recognize the paperwork difference contributed to the issue.
-- Therefore, Care 2 U Ltd cannot rely on the exclusion clause to exclude liability for the damage.
+2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 4:
+   - Wong Kee and Neptune have an informal agreement, but no formal contract was signed.
+   - There is no evidence that a third party may enforce a term of the contract under section 4.
+   - Therefore, this section does not apply.
+
+3. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsection 1 and 2:
+   - Wong Kee and Neptune have an informal agreement, but no formal contract was signed.
+   - There is no evidence that a third party may enforce a term of the contract under section 4.
+   - Therefore, this section does not apply.
+
+4. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 Subsection 3 and 4:
+   - Wong Kee and Neptune have an informal agreement, but no formal contract was signed.
+   - There is no evidence that a third party may enforce a term of the contract under section 4.
+   - Therefore, this section does not apply.
+
+5. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 8 Subsection 2 and 4:
+   - Wong Kee and Neptune have an informal agreement, but no formal contract was signed.
+   - There is no evidence that a third party may enforce a term of the contract under section 4.
+   - Therefore, this section does not apply.
+
+6. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 13 Subsection 1 and 3:
+   - Wong Kee and Neptune have an informal agreement, but no formal contract was signed.
+   - There is no evidence that a third party may enforce a term of the contract under section 4.
+   - Therefore, this section does not apply.
 
 ### Conclusion:
 
-1. The Albright Cancer Research Foundation can claim the promised revenue from M-Scan Ltd as the exclusion clause attempting to change the donation terms is not reasonable and thus not enforceable.
-2. Care 2 U Ltd cannot rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd to exclude liability for the damage to the equipment during transportation.
+The terms proposed by Neptune in the draft contract, including the 'minimum quantity' clause, 'composition' clause, and 'Seller’s Liability' provision, are not enforceable because no formal contract was signed between Wong Kee and Neptune. The dealings between the two companies were conducted on an informal basis, and there is no evidence that a third party may enforce a term of the contract under section 4 of the Contracts (Rights of Third Parties) Ordinance Cap. 623.
 
 ## Reasoning by analogy: cases
 
-### Step 1: Outcome of Precedent (HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE)
-
-In the case of HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE (precedent p), the court ruled that the exclusion clause in the contract did not absolve the defendants from liability for loss and damage that could have been avoided with reasonable diligence. The court found that the theft of Container X was not an event akin to force majeure and that the defendants had a duty to ensure proper procedures for the safekeeping and delivery of the containers. Consequently, the defendants were held liable for the loss.
+### Step 1: Outcome of Precedent (HCA012172/1996)
+In the case of HCA012172/1996 between Safe Steel Furniture Factory Limited (Plaintiff) and Lamex Trading Company Limited (Defendant), the court ruled that the agreement between the parties was not for an indefinite term. The court found that the provisions of the agreement, including the minimum quantity of goods to be manufactured and ordered, were only applicable up to 1994. The court also held that any implied term suggesting that the agreement would continue indefinitely was void for uncertainty. Therefore, the agreement could not be extended beyond the specified period without a clear mechanism for determining essential terms such as quantity and price.
 
 ### Step 2: Shared Legal Concepts
+Both in HCA012172/1996 and in our current case, we see the following legal concepts and fact patterns:
 
-Both in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE and in our current case, we see the following legal concepts and fact patterns:
+- **Legal Concept 1: Duration of Agreement**
+  - **Fact Pattern 1 (Precedent):** The agreement did not specify a duration beyond 1994, leading to a dispute over whether it was for an indefinite term.
+  - **Fact Pattern 1 (Current Case):** The draft contract between Wong Kee and Neptune was not signed, leading to a dispute over whether the terms proposed by Neptune are enforceable.
 
-- **Legal Concept 1: Exclusion Clauses**: 
-  - **Fact Pattern 1**: In both cases, the contracts contained exclusion clauses that purported to limit or exclude liability for certain types of loss or damage.
-  
-- **Legal Concept 2: Reasonable Diligence**:
-  - **Fact Pattern 2**: In both cases, the issue of whether the party seeking to rely on the exclusion clause exercised reasonable diligence in preventing the loss or damage was central to the court's decision.
-  
-- **Legal Concept 3: Force Majeure and Unavoidable Events**:
-  - **Fact Pattern 3**: In both cases, the court examined whether the events causing the loss or damage were akin to force majeure or truly unavoidable.
-  
-- **Legal Concept 4: Interpretation of Contractual Terms**:
-  - **Fact Pattern 4**: In both cases, the court interpreted the contractual terms, particularly the exclusion clauses, in light of the surrounding factual matrix and the parties' intentions.
+- **Legal Concept 2: Implied Terms**
+  - **Fact Pattern 2 (Precedent):** The plaintiff argued for an implied term that the agreement would continue indefinitely, which the court found void for uncertainty.
+  - **Fact Pattern 2 (Current Case):** Wong Kee may argue that the terms proposed by Neptune, including the minimum quantity and composition clauses, were impliedly accepted through continued performance.
 
-### Step 3: Extraction of Legal Rule from Precedent (HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE)
+- **Legal Concept 3: Minimum Quantity and Composition Clauses**
+  - **Fact Pattern 3 (Precedent):** The agreement specified minimum quantities of goods to be manufactured and ordered, which were essential terms.
+  - **Fact Pattern 3 (Current Case):** Neptune's proposed contract included a minimum quantity clause and a composition clause, which are essential terms for the supply of crabs.
 
-This suggests a general rule that when we see the fact pattern of an exclusion clause being invoked to limit liability for loss or damage, the court should decide that the exclusion clause does not apply if the loss or damage could have been avoided with reasonable diligence. This rule was justified in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE because the positive effects (E+) of holding parties accountable for preventable losses promote diligence and responsibility in contractual relationships, outweighing the negative effects (E-) of potentially limiting the scope of exclusion clauses.
+- **Legal Concept 4: Exclusion of Liability**
+  - **Fact Pattern 4 (Precedent):** The agreement included specific remedies and exclusions for breaches of contract.
+  - **Fact Pattern 4 (Current Case):** Neptune's proposed contract includes a "Seller’s Liability" provision excluding liability for defects in the seafood supplied.
 
-Applying this rule to the current case:
-
-1. **Albright Cancer Research Foundation's Claim**: The Foundation may argue that M-Scan Ltd's unilateral change to the donation terms constitutes a breach of contract, especially if the original terms were a significant factor in their financial planning. However, if the contract allows for such changes with notice, the Foundation's claim may be weaker.
-
-2. **Care 2 U Ltd's Reliance on the Exclusion Clause**: Care 2 U Ltd can rely on the exclusion clause only if they can demonstrate that the damage to the equipment was not due to their negligence and that they exercised reasonable diligence. Given that the driver was new and did not recognize the paperwork difference, it may be challenging for Care 2 U Ltd to prove they exercised reasonable diligence, potentially making the exclusion clause inapplicable.
-
-Thus, the precedent supports the view that exclusion clauses will not protect a party from liability if the loss or damage could have been avoided with reasonable diligence.
+### Step 3: Extraction of Legal Rule from Precedent (HCA012172/1996)
+This suggests a general rule that when we see a fact pattern involving an agreement with essential terms such as minimum quantity and composition, and where the agreement is not formally executed but performance continues, the court should decide that the terms are not enforceable if they are void for uncertainty or lack a clear mechanism for determination. This rule was justified in HCA012172/1996 because the positive effects (E+) of ensuring contractual certainty and preventing indefinite obligations without clear terms outweighed the negative effects (E-) of potentially disrupting ongoing business relationships. Therefore, in our current case, the terms proposed by Neptune, including the 'minimum quantity' clause, 'composition' clause, and 'Seller’s Liability' provision, should not be enforceable if they are found to be void for uncertainty or lack a clear mechanism for determination.
 
 ### Step 4: Applying the Rule to the Current Case
 
-In the current case, the same legal concepts and fact patterns as the precedent (HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE) are present:
+In the current case, the same legal concepts and fact patterns as the precedent (HCA012172/1996) are present:
 
-- **Legal Concept 1: Exclusion Clauses**:
-  - **Fact Pattern 1**: The contract between M-Scan Ltd and its customers contains an exclusion clause that purports to limit liability for damages during transportation, delivery, or return if the user has not undertaken the recommended systems check.
+- **Legal Concept 1: Duration of Agreement**
+  - **Fact Pattern 1 (Precedent):** The agreement did not specify a duration beyond 1994, leading to a dispute over whether it was for an indefinite term.
+  - **Fact Pattern 1 (Current Case):** The draft contract between Wong Kee and Neptune was not signed, leading to a dispute over whether the terms proposed by Neptune are enforceable.
 
-- **Legal Concept 2: Reasonable Diligence**:
-  - **Fact Pattern 2**: The issue of whether Care 2 U Ltd exercised reasonable diligence in preventing the damage to the equipment is central to the dispute. The driver from Care 2 U Ltd was new and did not recognize the difference in the paperwork, which raises questions about the diligence exercised.
+- **Legal Concept 2: Implied Terms**
+  - **Fact Pattern 2 (Precedent):** The plaintiff argued for an implied term that the agreement would continue indefinitely, which the court found void for uncertainty.
+  - **Fact Pattern 2 (Current Case):** Wong Kee may argue that the terms proposed by Neptune, including the minimum quantity and composition clauses, were impliedly accepted through continued performance.
 
-- **Legal Concept 3: Force Majeure and Unavoidable Events**:
-  - **Fact Pattern 3**: The court must determine whether the damage to the equipment was an event that could have been avoided with reasonable diligence, similar to how the court in the precedent case determined that the theft was not akin to force majeure.
+- **Legal Concept 3: Minimum Quantity and Composition Clauses**
+  - **Fact Pattern 3 (Precedent):** The agreement specified minimum quantities of goods to be manufactured and ordered, which were essential terms.
+  - **Fact Pattern 3 (Current Case):** Neptune's proposed contract included a minimum quantity clause and a composition clause, which are essential terms for the supply of crabs.
 
-- **Legal Concept 4: Interpretation of Contractual Terms**:
-  - **Fact Pattern 4**: The court will need to interpret the exclusion clause in the contract between M-Scan Ltd and its customers in light of the surrounding factual matrix and the parties' intentions, just as it did in the precedent case.
+- **Legal Concept 4: Exclusion of Liability**
+  - **Fact Pattern 4 (Precedent):** The agreement included specific remedies and exclusions for breaches of contract.
+  - **Fact Pattern 4 (Current Case):** Neptune's proposed contract includes a "Seller’s Liability" provision excluding liability for defects in the seafood supplied.
 
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE. This decision would be justified because, as in the precedent case, it would have the following positive effects:
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in HCA012172/1996. This decision would be justified because, as in the precedent case, it would have the following positive effects:
 
-1. **Promoting Diligence and Responsibility**: Holding Care 2 U Ltd accountable for the damage if it could have been avoided with reasonable diligence promotes a higher standard of care and responsibility in contractual relationships. This ensures that parties cannot rely on exclusion clauses to escape liability for preventable losses.
+1. **Ensuring Contractual Certainty:** Just as in HCA012172/1996, enforcing terms that are void for uncertainty or lack a clear mechanism for determination would undermine the principle of contractual certainty. By not enforcing the terms proposed by Neptune, the court would uphold the importance of having clear and definite terms in a contract, thereby providing predictability and stability in commercial transactions.
 
-2. **Fair Allocation of Risk**: The decision would ensure that the risk of loss or damage is fairly allocated between the parties. If Care 2 U Ltd did not exercise reasonable diligence, it is fair that they bear the responsibility for the damage, rather than shifting the burden to Vulcanicity Ltd.
+2. **Preventing Indefinite Obligations:** Similar to the precedent case, enforcing an agreement with indefinite terms could lead to perpetual obligations without clear boundaries. This would be unfair to the parties involved and could result in ongoing disputes. By ruling that the terms are not enforceable, the court would prevent such indefinite obligations and encourage parties to formalize their agreements with clear and specific terms.
 
-3. **Encouraging Proper Procedures**: By not allowing the exclusion clause to absolve Care 2 U Ltd of liability, the court would encourage companies to implement and follow proper procedures for the safekeeping and delivery of goods, thereby reducing the likelihood of damage or loss.
+3. **Encouraging Proper Contract Formation:** The decision would reinforce the importance of proper contract formation, including the necessity of signing and returning contracts to indicate acceptance. This would promote better business practices and reduce the likelihood of disputes arising from informal or incomplete agreements.
 
-4. **Consistency in Legal Principles**: Applying the same rule as in the precedent case ensures consistency in the application of legal principles, which is crucial for the predictability and stability of the law.
+4. **Balancing Interests:** While Wong Kee may suffer from the non-enforcement of the terms, the overall positive effect of maintaining clear and enforceable contractual terms outweighs the negative impact. This approach ensures that both parties are aware of their rights and obligations, leading to fairer and more transparent business dealings.
 
-Therefore, the court should find that the exclusion clause in the contract between M-Scan Ltd and its customers does not absolve Care 2 U Ltd from liability for the damage to the equipment if it could have been avoided with reasonable diligence. This outcome aligns with the principles established in the precedent case and promotes fairness and responsibility in contractual relationships.
+Therefore, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome as in HCA012172/1996. This decision would be justified because, as in the precedent case, it would have the positive effects of ensuring contractual certainty, preventing indefinite obligations, encouraging proper contract formation, and balancing the interests of the parties involved.
 
 ### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE, the court's decision was significantly influenced by the fact that the defendants had a duty to ensure proper procedures for the safekeeping and delivery of the containers. This duty was key in ensuring that the benefits of the ruling—promoting diligence and responsibility in contractual relationships—outweighed any potential drawbacks because it established a clear standard of care that the defendants failed to meet. However, in our current case, this crucial duty to ensure proper procedures is notably absent as the exclusion clause in the contract between M-Scan Ltd and its customers specifically places the onus on the user to undertake the recommended systems check and present the results in writing. This shifts the responsibility from the carrier to the user, altering the dynamics of diligence and responsibility.
+
+In the precedent case HCA012172/1996, the court's decision was significantly influenced by the fact that the agreement explicitly specified the minimum quantities of goods to be manufactured and ordered up to 1994. This specification was key in ensuring that the benefits of the ruling—such as contractual certainty and preventing indefinite obligations—outweighed any potential drawbacks because it provided a clear mechanism for determining essential terms like quantity and price. However, in our current case, this crucial feature of explicitly specified minimum quantities is notably absent. The draft contract between Wong Kee and Neptune was not signed, and there was no formal agreement specifying the minimum quantities or other essential terms beyond the informal and ongoing business relationship.
 
 ### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor—the specific contractual obligation on the user to undertake a systems check and present the results in writing—that was not present in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE. This factor significantly alters the situation described by the shared fact pattern because it introduces a clear, user-specific duty that, if unmet, activates the exclusion clause. Due to this user-specific duty, applying the same outcome in our case would have more negative consequences, such as undermining the contractual allocation of responsibilities and potentially leading to users neglecting their agreed-upon duties, than positive ones. Unlike in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE, where the carrier's duty was central, the current case's contractual framework places a significant duty on the user, which must be respected to maintain the balance of responsibilities and the integrity of the contractual agreement.
+
+Our current case involves an important factor—the continued performance and acceptance of terms through conduct—that was not present in HCA012172/1996. This factor significantly alters the situation described by the shared fact pattern because, in our case, Wong Kee and Neptune continued their business relationship under the terms proposed in the draft contract, even though it was not formally signed. Due to this continued performance and acceptance through conduct, applying the same outcome as in HCA012172/1996 would have more negative consequences, such as undermining the principle of implied acceptance through conduct and disrupting ongoing business relationships, than positive ones. Unlike in HCA012172/1996, where the absence of a formal agreement beyond 1994 led to a clear conclusion, the ongoing and consistent performance in our case suggests that the parties had effectively accepted the terms through their conduct, thereby making those terms enforceable.
 
 ### Step 7: Argument from Undesirable Consequence
-We propose that the correct rule from HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE should be stated as 'When both [the presence of an exclusion clause] and [the duty to ensure proper procedures for safekeeping and delivery] are present, the court should decide [that the exclusion clause does not absolve the carrier from liability if the loss or damage could have been avoided with reasonable diligence].' Omitting [the duty to ensure proper procedures for safekeeping and delivery] from this rule could lead to [the undesirable consequence of undermining the contractual allocation of responsibilities and potentially leading to users neglecting their agreed-upon duties]. Indeed, the opinion in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE explicitly states that [the defendants had a duty to ensure proper procedures for the safekeeping and delivery of the containers, which was crucial to their decision].
+
+We propose that the correct rule from HCA012172/1996 should be stated as: "When both the shared fact pattern of an agreement with essential terms such as minimum quantity and composition, and the missing feature of continued performance and acceptance through conduct are present, the court should decide that the terms are enforceable." Omitting the feature of continued performance and acceptance through conduct from this rule could lead to the undesirable consequence of undermining the principle of implied acceptance through conduct and disrupting ongoing business relationships. Indeed, the opinion in HCA012172/1996 explicitly states that the absence of a formal agreement beyond 1994 led to a clear conclusion, highlighting the importance of having a formal mechanism for determining essential terms. However, in our current case, the continued performance and acceptance through conduct suggest that the parties had effectively accepted the terms, making those terms enforceable.
 
 ### Step 8: Distinction from Non-occurring Undesirable Consequence
-The rule established in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE was clearly designed to prevent [the undesirable consequence of carriers escaping liability for preventable losses due to their failure to exercise reasonable diligence]. However, in our current case, there's no risk of [this specific undesirable consequence occurring] because the contract between M-Scan Ltd and its customers explicitly places the onus on the user to undertake the recommended systems check and present the results in writing. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. The contractual framework in the current case shifts the responsibility to the user, and respecting this allocation of duties is crucial to maintaining the balance of responsibilities and the integrity of the contractual agreement.
+
+The rule established in HCA012172/1996 was clearly designed to prevent the undesirable consequence of indefinite obligations without clear terms, which could lead to ongoing disputes and uncertainty in commercial relationships. However, in our current case, there's no risk of this undesirable consequence occurring because the continued performance and acceptance through conduct provide a clear indication that the parties had accepted the terms proposed in the draft contract. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves is not relevant to our situation. The ongoing and consistent performance between Wong Kee and Neptune indicates that the terms, including the 'minimum quantity' clause, 'composition' clause, and 'Seller’s Liability' provision, should be considered enforceable.
 
 ### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the specific duty to ensure proper procedures for safekeeping and delivery, which was present in the precedent case HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE, requiring this factor for all similar cases of exclusion clauses would lead to the undesirable consequence of undermining the contractual allocation of responsibilities and potentially leading to users neglecting their agreed-upon duties. Conversely, not requiring this specific duty would allow for a more balanced approach that respects the contractual terms agreed upon by the parties, which better aligns with the underlying principles of contract law, such as the sanctity of contract and the fair allocation of risk.
+While it's true that our case lacks the explicit specification of minimum quantities beyond a certain period, which was present in the precedent case HCA012172/1996, requiring this factor for all similar cases of agreements with essential terms such as minimum quantity and composition would lead to the undesirable consequence of undermining the principle of implied acceptance through conduct. Conversely, not requiring the explicit specification of minimum quantities would allow for the recognition of continued performance and acceptance through conduct, which better aligns with the underlying principles of contract law, such as the intention of the parties and the practical realities of ongoing business relationships.
 
 ### Step 10: Feature Substitution
-Although our case lacks the specific duty to ensure proper procedures for safekeeping and delivery, which was present in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE, we have the additional factor of a clear, user-specific duty to undertake a systems check and present the results in writing. This user-specific duty, when considered alongside the shared circumstances of an exclusion clause and the need for reasonable diligence, serves a similar function to the duty to ensure proper procedures in the precedent case. Given the presence of this user-specific duty, we submit that the reasoning in HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE still applies, as the positive effects on promoting diligence and responsibility in contractual relationships would still outweigh any potential negative consequences, just as they did in the precedent case.
+Although our case lacks the explicit specification of minimum quantities beyond a certain period, which was present in HCA012172/1996, we have the additional factor of continued performance and acceptance through conduct. This continued performance and acceptance through conduct, when considered alongside the shared circumstances of an agreement with essential terms such as minimum quantity and composition, serves a similar function to the explicit specification of terms in the precedent case. Given the presence of continued performance and acceptance through conduct, we submit that the reasoning in HCA012172/1996 still applies, as the positive effects on legal values such as ensuring contractual certainty, preventing indefinite obligations, and encouraging proper contract formation would still outweigh any potential negative consequences, just as they did in the precedent case.
 
 ### Step 11: Conclusion
 
-After careful consideration of all arguments presented, including the initial analogy to HCAJ 106/2008 MAINTEK COMPUTER (SUZHOU) CO LTD. v. BLUE ANCHOR LINE, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of an exclusion clause and the issue of whether reasonable diligence was exercised. However, it also differs significantly in that the current case involves a specific contractual obligation on the user to undertake a systems check and present the results in writing, which was not present in the precedent case.
+After careful consideration of all arguments presented, including the initial analogy to HCA012172/1996, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of essential terms like minimum quantity and composition, and the issue of whether an agreement can be considered enforceable without formal execution. However, it also differs significantly in that the current case involves continued performance and acceptance through conduct, which was not present in the precedent case.
 
-The proposed legal rule from the precedent case—that exclusion clauses do not absolve a party from liability if the loss or damage could have been avoided with reasonable diligence—finds support in both cases. However, its broader implications must be considered, especially in light of the specific user obligations in the current case.
+The proposed legal rule from HCA012172/1996—that terms are not enforceable if they are void for uncertainty or lack a clear mechanism for determination—finds support in both cases. However, its broader implications must be considered, especially in light of the continued performance and acceptance through conduct in the current case.
 
-We've weighed arguments from both sides, particularly the strong point that the exclusion clause should not protect Care 2 U Ltd if they failed to exercise reasonable diligence, and the counterargument that the user-specific duty shifts the responsibility to the user, altering the dynamics of diligence and responsibility.
+We've weighed arguments from both sides, particularly the strong point from the precedent case that contractual certainty and prevention of indefinite obligations are crucial, and the strong point from the current case that continued performance and acceptance through conduct should be recognized as implying acceptance of terms.
 
-Considering the underlying legal principles of contract law, such as the sanctity of contract and the fair allocation of risk, and the potential impact on future cases, we conclude that the exclusion clause in the contract between M-Scan Ltd and its customers should be upheld, provided that Care 2 U Ltd can demonstrate that they exercised reasonable diligence in the transportation and delivery of the equipment.
+Considering the underlying legal principles of ensuring contractual certainty, preventing indefinite obligations, encouraging proper contract formation, and recognizing implied acceptance through conduct, we conclude that the terms proposed by Neptune, including the 'minimum quantity' clause, 'composition' clause, and 'Seller’s Liability' provision, should be considered enforceable. This decision aligns with legal precedent while also serving justice and legal consistency by acknowledging the practical realities of ongoing business relationships and the implied acceptance through continued performance.
 
-Therefore, the Albright Cancer Research Foundation cannot claim the promised revenue from M-Scan Ltd if the contract allows for such changes with notice. As for Care 2 U Ltd, they can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, provided they can prove that the damage was not due to their negligence and that they exercised reasonable diligence. This decision aligns with legal precedent while also serving justice and legal consistency by respecting the contractual allocation of responsibilities and promoting diligence and responsibility in contractual relationships.
+Therefore, the terms proposed by Neptune in the draft contract are enforceable, given the continued performance and acceptance through conduct by Wong Kee. This conclusion ensures that both parties are aware of their rights and obligations, leading to fairer and more transparent business dealings.
 
 
-# Contract Law: Whether Vulcanicity Ltd's failure to undertake a systems check affects their ability to claim damages for the alleged transit damage
+# Contract Law: Whether the 'Seller’s Liability' provision effectively excludes Neptune's liability for the delivery of baby mud crabs
 
 ## Deductive reasoning: legislation
 
 ### Relevant law:
 
-The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 4, Rule 5(1), Rule 5(2) and (3)
+Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2 and 3, Section 12 Subsection 2, 3, and 4
 
 ### Major Premise:
 
-1. The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 4
+1. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2
 
    Conditions:
-   - A party has failed to comply with a rule or court order.
-   - Any sanction for failure to comply is imposed by the rule or court order.
-   - The party in default does not apply to the Court for and obtain relief from the sanction within 14 days of the failure.
+   - The seller is dealing with a person as a consumer
+   - The seller's liability arises from the obligations under sections 15, 16, or 17 of the Sale of Goods Ordinance (Cap. 26) (seller's implied undertakings as to conformity of goods with description or sample, or as to their quality or fitness for a particular purpose)
 
    Consequences:
-   - The sanction for failure to comply imposed by the rule or court order has effect.
+   - The seller's liability cannot be excluded or restricted by reference to any contract term
 
    Exceptions:
-   - The party in default applies to the Court for and obtains relief from the sanction within 14 days of the failure.
+   - None
 
-2. The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 5(1)
+2. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 3
 
    Conditions:
-   - There has been a failure to comply with the requirements of these rules in beginning or purporting to begin any proceedings or at any stage in the course of or in connection with any proceedings.
-   - The failure is by reason of any thing done or left undone, whether in respect of time, place, manner, form or content or in any other respect.
+   - The seller is dealing with a person otherwise than as a consumer
+   - The seller's liability arises from the obligations under sections 15, 16, or 17 of the Sale of Goods Ordinance (Cap. 26) (seller's implied undertakings as to conformity of goods with description or sample, or as to their quality or fitness for a particular purpose)
+   - The contract term satisfies the requirement of reasonableness
 
    Consequences:
-   - The failure shall be treated as an irregularity and shall not nullify the proceedings, any step taken in the proceedings, or any document, judgment or order therein.
+   - The seller's liability can be excluded or restricted by reference to a contract term
 
    Exceptions:
-   - None.
+   - None
 
-3. The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 5(2) and (3)
+3. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 2
 
    Conditions:
-   - There has been a failure to comply with the requirements of these rules.
-   - The Court considers it just to do so.
+   - The seller is dealing with a person as a consumer
+   - The seller's liability arises from the goods' correspondence with description or sample, or their quality or fitness for any particular purpose
 
    Consequences:
-   - The Court may set aside either wholly or in part the proceedings in which the failure occurred, any step taken in those proceedings or any document, judgment or order therein.
-   - The Court may exercise its powers under these rules to allow such amendments to be made and to make such order dealing with the proceedings generally as it thinks fit.
+   - The seller's liability cannot be excluded or restricted by reference to any contract term
 
    Exceptions:
-   - The Court shall not wholly set aside any proceedings or the writ or other originating process by which they were begun on the ground that the proceedings ought to have begun by an originating process other than the one employed, but shall instead give directions for the continuation of the proceedings in an appropriate manner.
+   - None
+
+4. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 3
+
+   Conditions:
+   - The seller is dealing with a person otherwise than as a consumer
+   - The seller's liability arises from the goods' correspondence with description or sample, or their quality or fitness for any particular purpose
+   - The contract term satisfies the requirement of reasonableness
+
+   Consequences:
+   - The seller's liability can be excluded or restricted by reference to a contract term
+
+   Exceptions:
+   - None
+
+5. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 4
+
+   Conditions:
+   - The seller's liability arises from the right to transfer ownership of the goods, or give possession
+   - The seller's liability arises from the assurance of quiet possession to a person taking goods in pursuance of the contract
+   - The contract term satisfies the requirement of reasonableness
+
+   Consequences:
+   - The seller's liability can be excluded or restricted by reference to a contract term
+
+   Exceptions:
+   - None
 
 ### Minor Premise:
 
-1. The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 4:
-   - Vulcanicity Ltd failed to undertake a systems check before the scanner was collected.
-   - The exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd imposes a sanction for failure to comply (i.e., the carriers will not be liable for any damages done during transportation, delivery or return).
-   - Vulcanicity Ltd did not apply to the Court for and obtain relief from the sanction within 14 days of the failure.
-   - Therefore, the sanction for failure to comply imposed by the exclusion clause has effect.
+1. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2:
+   - Wong Kee is dealing with Neptune as a business, not as a consumer.
+   - Therefore, this section does not apply.
 
-2. The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 5(1):
-   - There has been a failure to comply with the requirements of the contract (i.e., undertaking the systems check).
-   - The failure is by reason of something left undone (i.e., the systems check was not performed).
-   - The failure shall be treated as an irregularity and shall not nullify the proceedings, any step taken in the proceedings, or any document, judgment or order therein.
-   - Therefore, the failure to undertake the systems check does not nullify Vulcanicity Ltd's claim for damages.
+2. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 3:
+   - Wong Kee is dealing with Neptune otherwise than as a consumer.
+   - Neptune's liability arises from the obligations under sections 15, 16, or 17 of the Sale of Goods Ordinance (Cap. 26) regarding the quality or fitness for a particular purpose of the crabs.
+   - The "Seller’s Liability" provision in the contract attempts to exclude Neptune's liability.
+   - The contract term must satisfy the requirement of reasonableness.
+   - Given the facts, the term reserving Neptune "the absolute discretion to determine the size of mud crabs supplied" may not satisfy the requirement of reasonableness, especially since the baby crabs were not fit for Wong Kee's purpose and caused financial loss.
+   - Therefore, this section does not apply.
 
-3. The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 5(2) and (3):
-   - There has been a failure to comply with the requirements of the contract (i.e., undertaking the systems check).
-   - The Court may consider it just to set aside the proceedings or make such order dealing with the proceedings generally as it thinks fit.
-   - However, the Court shall not wholly set aside the proceedings on the ground that the proceedings ought to have begun by an originating process other than the one employed.
-   - Therefore, the Court may allow Vulcanicity Ltd to amend their claim or make an appropriate order.
+3. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 2:
+   - Wong Kee is dealing with Neptune as a business, not as a consumer.
+   - Therefore, this section does not apply.
+
+4. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 3:
+   - Wong Kee is dealing with Neptune otherwise than as a consumer.
+   - Neptune's liability arises from the goods' correspondence with description or sample, or their quality or fitness for any particular purpose.
+   - The "Seller’s Liability" provision in the contract attempts to exclude Neptune's liability.
+   - The contract term must satisfy the requirement of reasonableness.
+   - Given the facts, the term reserving Neptune "the absolute discretion to determine the size of mud crabs supplied" may not satisfy the requirement of reasonableness, especially since the baby crabs were not fit for Wong Kee's purpose and caused financial loss.
+   - Therefore, this section does not apply.
+
+5. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 4:
+   - Neptune's liability does not arise from the right to transfer ownership of the goods or give possession, nor from the assurance of quiet possession.
+   - Therefore, this section does not apply.
 
 ### Conclusion:
 
-The Rules of the High Court Cap. 4 sub. leg. A Order 2 Rule 4 applies, and the sanction for failure to comply (i.e., the exclusion clause) has effect. Therefore, Care 2 U Ltd can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd.
+The "Seller’s Liability" provision in the contract does not effectively exclude Neptune's liability for the delivery of baby mud crabs, as the term does not satisfy the requirement of reasonableness under the Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 3 and Section 12 Subsection 3.
+
+## Deductive Reasoning: ca
+
+### Relevant law:
+
+Control of Exemption Clauses Ordinance (CECO) and Chang Pui Yin v Bank of Singapore Limited
+
+### Major Premise:
+
+1. Control of Exemption Clauses Ordinance (CECO) and Chang Pui Yin v Bank of Singapore Limited
+
+   Conditions:
+   - The clauses in question are provisions which exclude or restrict the relevant obligation or duty of the Bank.
+   - The clauses do not satisfy the requirement of reasonableness under the Control of Exemption Clauses Ordinance (CECO).
+
+   Consequences:
+   - The Bank cannot rely on those clauses to avoid liabilities.
+
+   Exceptions:
+   - The clauses are fair and reasonable ones to be included having regard to the circumstances of the case.
+
+### Minor Premise:
+
+1. Control of Exemption Clauses Ordinance (CECO) and Chang Pui Yin v Bank of Singapore Limited:
+
+   - The "Seller’s Liability" provision in the contract between Wong Kee and Neptune is a clause that excludes Neptune's liability for any loss or damage arising from any defect in any seafood product supplied.
+   - The clause does not satisfy the requirement of reasonableness under the Control of Exemption Clauses Ordinance (CECO) because it attempts to exclude all liability, which is generally considered unreasonable, especially in a commercial context where the buyer relies on the quality of the goods supplied.
+   - The clause is not fair and reasonable to be included having regard to the circumstances of the case, as it would leave Wong Kee without any remedy for receiving substandard crabs, which are crucial for its business.
+
+### Conclusion:
+
+The "Seller’s Liability" provision does not effectively exclude Neptune's liability for the delivery of baby mud crabs because it does not satisfy the requirement of reasonableness under the Control of Exemption Clauses Ordinance (CECO) and is not fair and reasonable in the circumstances of the case. Therefore, Neptune cannot rely on this clause to avoid liability for the financial losses suffered by Wong Kee due to the delivery of baby mud crabs.
 
 ## Reasoning by analogy: cases
 
-### Step 1: Outcome of Precedent (MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD)
-In the case of MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD (precedent p), the court ruled that the defendant's failure to strictly comply with the notice requirements under Clause 21.2 of the Sub-Contract meant that they had no entitlement to additional payment or loss and expense. The court emphasized the importance of adhering to the clear and unambiguous language of the contractual provisions, which were conditions precedent to any claim.
+### Step 1: Outcome of Precedent (HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED)
+In the case of HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED (precedent p), the court ruled that the contractual carrier (1st defendant) was liable for the breach of the contract of carriage and conversion of goods delivered without production of the original bill of lading. The court held that the exclusion clause in the bill of lading was not competent to exclude liability for this breach, and the limitation clause was not sufficiently clear and unambiguous to limit the carrier's liability for such a fundamental breach.
 
 ### Step 2: Shared Legal Concepts
-Both in MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD and in our current case, we see the following legal concepts and fact patterns:
-- **Legal Concept 1: Strict Compliance with Contractual Provisions**
-  - **Fact Pattern 1:** In MAEDA, the defendant failed to comply with the strict notice requirements under Clause 21.2, which was a condition precedent to any claim. In our current case, Vulcanicity Ltd failed to undertake the recommended systems check, which is a condition precedent to claiming damages for transit damage under the exclusion clause.
-- **Legal Concept 2: Condition Precedent**
-  - **Fact Pattern 2:** In MAEDA, the court held that the notice requirements were conditions precedent that must be strictly complied with. In our current case, the exclusion clause stipulates that the systems check is a condition precedent to any claim for damages during transportation.
-- **Legal Concept 3: Exclusion Clauses**
-  - **Fact Pattern 3:** In MAEDA, the court interpreted the contractual provisions strictly, emphasizing the importance of clear and unambiguous language in exclusion clauses. In our current case, the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd is similarly clear and unambiguous in its requirement for a systems check.
-- **Legal Concept 4: Allocation of Risk**
-  - **Fact Pattern 4:** In MAEDA, the court recognized that exclusion clauses in construction contracts are part of the contractual apparatus for distributing risk. In our current case, the exclusion clause serves to allocate the risk of damage during transportation to the party failing to comply with the systems check requirement.
+Both in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED and in our current case, we see the following legal concepts and fact patterns:
+- **Legal Concept 1: Fundamental Obligation**: In both cases, there is a fundamental obligation that was breached. In the precedent case, it was the obligation to deliver goods only against the production of the original bill of lading. In the current case, it is the obligation to deliver crabs of a certain size and quality.
+- **Legal Concept 2: Exclusion Clause**: Both cases involve an exclusion clause where the seller/carrier attempts to exclude liability for breaches. In the precedent case, the exclusion clause was found to be ineffective for a fundamental breach. In the current case, Neptune's "Seller’s Liability" provision attempts to exclude liability for any defect in the seafood supplied.
+- **Legal Concept 3: Limitation of Liability**: Both cases involve the interpretation of clauses that limit liability. In the precedent case, the limitation clause was not clear and unambiguous enough to limit liability for a fundamental breach. In the current case, the effectiveness of the "Seller’s Liability" provision in limiting liability for the delivery of baby crabs is in question.
+- **Legal Concept 4: Contextual Interpretation**: In both cases, the court considers the context and the factual matrix surrounding the contract. In the precedent case, the court looked at the factual matrix to determine the contractual carrier. In the current case, the context includes the established practice and norms in the seafood trade regarding the size distribution of crabs.
 
-### Step 3: Extraction of Legal Rule from Precedent (MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD)
-This suggests a general rule that when we see a fact pattern where a party fails to comply with a condition precedent stipulated in an exclusion clause, the court should decide that the party has no entitlement to claim damages. This rule was justified in MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD because the positive effects (E+) of enforcing strict compliance with contractual provisions outweigh the negative effects (E-) in that case. The court emphasized the importance of clear and unambiguous language in contractual provisions and the need for parties to adhere strictly to these provisions to ensure certainty and fairness in the allocation of risk.
+### Step 3: Extraction of Legal Rule from Precedent (HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED)
+This suggests a general rule that when we see a fact pattern involving a fundamental obligation and an exclusion or limitation clause, the court should decide that such clauses are ineffective if they are not clear and unambiguous in excluding or limiting liability for fundamental breaches. This rule was justified in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED because the positive effects (E+) of ensuring that fundamental obligations are upheld and that parties cannot easily escape liability for significant breaches outweigh the negative effects (E-) of potentially limiting the enforceability of exclusion or limitation clauses in contracts. This approach upholds the underlying values and principles of contract law, ensuring fairness and predictability in commercial transactions.
 
 ### Step 4: Applying the Rule to the Current Case
 
-In the current case, the same legal concepts and fact patterns as the precedent (MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD) are present:
+In the current case, the same legal concepts and fact patterns as the precedent (HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED) are present:
 
-- **Legal Concept 1: Strict Compliance with Contractual Provisions**
-  - **Fact Pattern 1:** In MAEDA, the defendant failed to comply with the strict notice requirements under Clause 21.2, which was a condition precedent to any claim. In our current case, Vulcanicity Ltd failed to undertake the recommended systems check, which is a condition precedent to claiming damages for transit damage under the exclusion clause.
+- **Legal Concept 1: Fundamental Obligation**: In the precedent case, the fundamental obligation was to deliver goods only against the production of the original bill of lading. In the current case, the fundamental obligation is to deliver crabs of a certain size and quality, as per the established norms and practices in the seafood trade.
+  
+- **Legal Concept 2: Exclusion Clause**: In the precedent case, the exclusion clause was found to be ineffective for a fundamental breach. In the current case, Neptune's "Seller’s Liability" provision attempts to exclude liability for any defect in the seafood supplied, which includes the delivery of baby mud crabs that do not meet the required size and quality for Wong Kee's signature dish.
 
-- **Legal Concept 2: Condition Precedent**
-  - **Fact Pattern 2:** In MAEDA, the court held that the notice requirements were conditions precedent that must be strictly complied with. In our current case, the exclusion clause stipulates that the systems check is a condition precedent to any claim for damages during transportation.
+- **Legal Concept 3: Limitation of Liability**: In the precedent case, the limitation clause was not clear and unambiguous enough to limit liability for a fundamental breach. In the current case, the effectiveness of the "Seller’s Liability" provision in limiting liability for the delivery of baby crabs is in question, especially since it attempts to exclude all liability for any defect, which is a broad and sweeping exclusion.
 
-- **Legal Concept 3: Exclusion Clauses**
-  - **Fact Pattern 3:** In MAEDA, the court interpreted the contractual provisions strictly, emphasizing the importance of clear and unambiguous language in exclusion clauses. In our current case, the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd is similarly clear and unambiguous in its requirement for a systems check.
+- **Legal Concept 4: Contextual Interpretation**: In the precedent case, the court considered the context and the factual matrix surrounding the contract. In the current case, the context includes the established practice and norms in the seafood trade regarding the size distribution of crabs, which both parties were aware of and followed in their dealings.
 
-- **Legal Concept 4: Allocation of Risk**
-  - **Fact Pattern 4:** In MAEDA, the court recognized that exclusion clauses in construction contracts are part of the contractual apparatus for distributing risk. In our current case, the exclusion clause serves to allocate the risk of damage during transportation to the party failing to comply with the systems check requirement.
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED. This decision would be justified because, as in the precedent case, it would have the following positive effects:
 
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD. This decision would be justified because, as in MAEDA, it would have the following positive effects:
+1. **Upholding Fundamental Obligations**: Ensuring that fundamental obligations are upheld is crucial for the proper functioning of commercial transactions. In this case, the fundamental obligation is to deliver crabs of a certain size and quality, which is essential for Wong Kee's business operations.
 
-1. **Certainty and Predictability:** Enforcing strict compliance with the exclusion clause ensures that all parties are aware of their obligations and the consequences of non-compliance. This promotes certainty and predictability in contractual relationships.
+2. **Preventing Unfair Exclusion of Liability**: Allowing broad and sweeping exclusion clauses to limit liability for fundamental breaches would undermine the fairness and predictability of commercial contracts. It would enable parties to escape liability for significant breaches, which is contrary to the principles of contract law.
 
-2. **Fair Allocation of Risk:** The exclusion clause is part of the contractual apparatus for distributing risk. By upholding the clause, the court ensures that the risk is allocated as agreed upon by the parties, which is fair and reasonable.
+3. **Maintaining Commercial Standards**: The decision would reinforce the importance of adhering to established norms and practices in the seafood trade, ensuring that suppliers cannot unilaterally alter the terms of supply to the detriment of buyers.
 
-3. **Encouragement of Diligence:** Requiring strict compliance with the systems check condition precedent encourages parties to be diligent in fulfilling their contractual obligations. This can prevent disputes and ensure smooth operations.
+4. **Protecting Business Interests**: By holding Neptune liable for the delivery of baby mud crabs, the court would protect Wong Kee's business interests, ensuring that it can rely on the quality and size of crabs supplied for its signature dish, which is critical for its reputation and financial success.
 
-4. **Respect for Contractual Autonomy:** The decision respects the autonomy of the parties to agree on their terms and conditions. It reinforces the principle that clear and unambiguous contractual provisions should be upheld.
-
-Therefore, Care 2 U Ltd can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, as Vulcanicity Ltd's failure to undertake the systems check precludes them from claiming damages for the alleged transit damage.
+In conclusion, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED, it would uphold fundamental obligations, prevent unfair exclusion of liability, maintain commercial standards, and protect business interests.
 
 ### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD**, the court's decision was significantly influenced by the presence of a clear and unambiguous contractual provision that required strict compliance with notice requirements as a condition precedent to any claim. This factor was key in ensuring that the benefits of the ruling, such as certainty and predictability in contractual relationships, outweighed any potential drawbacks because it reinforced the importance of adhering to agreed-upon terms and conditions.
-
-However, in our current case, this crucial factor of a clear and unambiguous contractual provision requiring strict compliance is notably absent. The exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd does not explicitly state that the systems check is a condition precedent to any claim for damages. Instead, it merely states that the carriers will not be liable for any damages where the user has not undertaken the recommended systems check. This lack of explicit language regarding the condition precedent weakens the argument for strict compliance and introduces ambiguity, which was not present in the precedent case.
+Skipped
 
 ### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the administrative burden of the 1 per cent donation to the Albright Cancer Research Foundation, that was not present in **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD**. This factor significantly alters the situation described by the shared fact pattern because it introduces a new dimension of contractual performance and obligations that were not considered in the precedent case.
+Our current case involves an important factor, the "composition" clause, that was not present in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED. This factor significantly alters the situation described by the shared fact pattern because it explicitly grants Neptune "the absolute discretion to determine the size of mud crabs supplied under the Agreement." Due to this clause, applying the same outcome in our case would have more negative consequences than positive ones, unlike in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED. 
 
-Due to this administrative burden, applying the same outcome in our case would have more negative consequences, such as potential financial instability for the Albright Cancer Research Foundation and disruption of ongoing projects, than positive ones. Unlike in **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD**, where the focus was on strict compliance with notice requirements, our case involves balancing the contractual obligations with the practical implications of administrative burdens and the impact on third parties. Therefore, the presence of this factor necessitates a different approach to ensure a fair and equitable outcome.
+The presence of the "composition" clause means that Wong Kee had agreed to give Neptune discretion over the size of the crabs supplied. This clause conflicts with the shared fact pattern of a fundamental obligation to deliver crabs of a certain size and quality. Because of this clause, Neptune could argue that it was within its contractual rights to deliver baby mud crabs, even if this was not in line with the usual practice. Therefore, applying the same outcome as in the precedent case would undermine the contractual agreement between the parties and could lead to more negative consequences, such as undermining the enforceability of clear contractual terms and creating uncertainty in commercial agreements.
 
 ### Step 7: Argument from Undesirable Consequence
-We propose that the correct rule from **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD** should be stated as: "When both [strict compliance with contractual provisions] and [clear and unambiguous language regarding condition precedent] are present, the court should decide [that the party has no entitlement to claim damages]." Omitting [clear and unambiguous language regarding condition precedent] from this rule could lead to [undesirable consequence q], which is the introduction of ambiguity and uncertainty in contractual relationships, thereby undermining the predictability and fairness that strict compliance aims to achieve. Indeed, the opinion in **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD** explicitly states that [the clear and unambiguous language of the contractual provisions] was crucial to their decision.
+We propose that the correct rule from HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED should be stated as: "When both a fundamental obligation and an exclusion or limitation clause are present, and the exclusion or limitation clause is not clear and unambiguous in excluding or limiting liability for fundamental breaches, the court should decide that such clauses are ineffective." Omitting the "composition" clause from this rule could lead to the undesirable consequence of undermining the enforceability of clear contractual terms and creating uncertainty in commercial agreements. Indeed, the opinion in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED explicitly states that the exclusion and limitation clauses were not clear and unambiguous enough to limit liability for a fundamental breach, which was crucial to their decision.
 
 ### Step 8: Distinction from Non-occurring Undesirable Consequence
-The rule established in **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD** was clearly designed to prevent [the undesirable consequence of parties failing to adhere to agreed-upon terms and conditions, leading to uncertainty and unfairness in the allocation of risk]. However, in our current case, there's no risk of [this specific undesirable consequence] occurring because the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd does not explicitly state that the systems check is a condition precedent to any claim for damages. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. The lack of clear and unambiguous language regarding the condition precedent in the exclusion clause introduces ambiguity, which was not present in the precedent case, and thus the rule from **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD** should not apply.
+The rule established in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED was clearly designed to prevent the undesirable consequence of parties escaping liability for significant breaches of fundamental obligations through unclear and ambiguous exclusion or limitation clauses. However, in our current case, the presence of the "composition" clause explicitly granting Neptune "the absolute discretion to determine the size of mud crabs supplied under the Agreement" means that there is no risk of this undesirable consequence occurring. The "composition" clause provides a clear and unambiguous term that was agreed upon by both parties, thereby preventing the risk of uncertainty and ensuring that the contractual terms are enforceable. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves is not relevant to our situation.
 
 ### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the clear and unambiguous language regarding the condition precedent, which was present in the precedent case **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD**, requiring this factor for all similar cases of strict compliance with contractual provisions would lead to an undesirable consequence. Specifically, it would introduce unnecessary rigidity and inflexibility in contractual relationships, potentially leading to unfair outcomes where minor technicalities could prevent legitimate claims. Conversely, not requiring the clear and unambiguous language regarding the condition precedent would allow for a more balanced and equitable approach, ensuring that parties are not unduly penalized for minor procedural lapses, which better aligns with the underlying principles of fairness and justice in contract law.
+While it's true that our case lacks the explicit "composition" clause, which was present in the precedent case HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED, requiring this factor for all similar cases of fundamental obligation breaches would lead to an undesirable consequence. Specifically, it would allow parties to escape liability for significant breaches of fundamental obligations by inserting broad and sweeping exclusion clauses, thereby undermining the fairness and predictability of commercial contracts. Conversely, not requiring the explicit "composition" clause would allow for a more equitable outcome, ensuring that parties cannot unilaterally alter the terms of supply to the detriment of buyers. This better aligns with the underlying principles of contract law, which emphasize fairness, predictability, and the upholding of fundamental obligations.
 
 ### Step 10: Feature Substitution
-Although our case lacks the clear and unambiguous language regarding the condition precedent, which was present in **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD**, we have the additional factor of the administrative burden of the 1 per cent donation to the Albright Cancer Research Foundation. This administrative burden, when considered alongside the shared circumstances of strict compliance with contractual provisions, serves a similar function to the clear and unambiguous language in the precedent case. Given the presence of this administrative burden, we submit that the reasoning in **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD** still applies, as the positive effects on legal values such as fairness, equity, and practical feasibility would still outweigh any potential negative consequences, just as they did in the precedent case.
+Although our case lacks the explicit "composition" clause, which was present in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED, we have the additional factor of established norms and practices in the seafood trade regarding the size distribution of crabs. This factor, when considered alongside the shared circumstances of a fundamental obligation to deliver crabs of a certain size and quality, serves a similar function to the "composition" clause in the precedent case. Given the presence of these established norms and practices, we submit that the reasoning in HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED still applies, as the positive effects on relevant legal values—such as upholding fundamental obligations, preventing unfair exclusion of liability, maintaining commercial standards, and protecting business interests—would still outweigh any potential negative consequences, just as they did in the precedent case.
 
 ### Step 11: Conclusion
 
-After careful consideration of all arguments presented, including the initial analogy to **MAEDA KENSETSU KOGYO KABUSHIKI KAISHA v. BAUER HONG KONG LTD**, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, particularly the emphasis on strict compliance with contractual provisions and the role of exclusion clauses in allocating risk. However, it also differs in significant ways, notably the lack of clear and unambiguous language regarding the condition precedent in the exclusion clause and the additional factor of the administrative burden related to the donation to the Albright Cancer Research Foundation.
+After careful consideration of all arguments presented, including the initial analogy to HCCL 27/2008 MAU WING INDUSTRIAL LIMITED v ENSIGN FREIGHT PTE LIMITED, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of a fundamental obligation and an exclusion clause attempting to limit liability for breaches of that obligation. However, it also differs in significant ways, particularly the presence of the "composition" clause in the current case, which grants Neptune "the absolute discretion to determine the size of mud crabs supplied under the Agreement."
 
-The proposed legal rule of requiring strict compliance with contractual provisions when clear and unambiguous language regarding condition precedent is present finds support in both cases. However, its broader implications must be considered, especially in light of the administrative burden and the potential impact on third parties like the Albright Cancer Research Foundation.
+The proposed legal rule from the precedent case—that exclusion or limitation clauses are ineffective if they are not clear and unambiguous in excluding or limiting liability for fundamental breaches—finds support in both cases. However, its broader implications must be considered, especially in light of the "composition" clause in the current case.
 
-We've weighed arguments from both sides, particularly the strong point that strict compliance ensures certainty and predictability in contractual relationships (as argued in the precedent case) and the counterpoint that the lack of clear language introduces ambiguity, which should not unduly penalize parties for minor procedural lapses.
+We've weighed arguments from both sides. On one hand, the initial analogy emphasizes the importance of upholding fundamental obligations and preventing unfair exclusion of liability, which aligns with the principles of fairness and predictability in contract law. On the other hand, the rebuttal arguments highlight the significance of the "composition" clause, which explicitly grants Neptune discretion over the size of the crabs, thereby altering the context and expectations of the contractual agreement.
 
-Considering the underlying legal principles of fairness, equity, and practical feasibility, and the potential impact on future cases, we conclude that:
+Considering the underlying legal principles of fairness, predictability, and the upholding of fundamental obligations, and the potential impact on future cases, we conclude that the "Seller’s Liability" provision in the current case should not be effective in excluding Neptune's liability for the delivery of baby mud crabs. This decision is reached because:
 
-1. **For the Albright Cancer Research Foundation's Claim:** M-Scan Ltd's unilateral decision to reduce the donation percentage and the annual fee, despite being administratively burdensome, does not absolve them of their contractual obligation to the Foundation. The Foundation can claim the promised revenue based on the original terms, as the change was not mutually agreed upon and has significant funding implications for the Foundation.
+1. **Fundamental Obligation**: The fundamental obligation to deliver crabs of a certain size and quality, as per the established norms and practices in the seafood trade, remains crucial for the proper functioning of Wong Kee's business.
 
-2. **For Care 2 U Ltd's Reliance on the Exclusion Clause:** Given the lack of clear and unambiguous language regarding the condition precedent in the exclusion clause, Vulcanicity Ltd's failure to undertake the systems check should not automatically preclude them from claiming damages. The exclusion clause should be interpreted narrowly, and Care 2 U Ltd cannot rely on it to avoid liability for the alleged transit damage without clear evidence that the systems check was a strict condition precedent.
+2. **Exclusion Clause**: The "Seller’s Liability" provision is broad and sweeping, attempting to exclude all liability for any defect in the seafood supplied. Such a clause is not sufficiently clear and unambiguous to limit liability for a fundamental breach, especially when it conflicts with established trade practices.
 
-Therefore, the decision reached balances the need for strict compliance with contractual provisions with the principles of fairness and equity, ensuring that parties are not unduly penalized for procedural lapses and that third-party interests are protected.
+3. **Contextual Interpretation**: The established norms and practices in the seafood trade regarding the size distribution of crabs provide a clear context that both parties were aware of and followed in their dealings. This context supports the expectation that crabs of a certain size and quality would be delivered.
+
+4. **Commercial Standards**: Upholding the exclusion clause in this case would undermine the established norms and practices in the seafood trade, leading to uncertainty and unfairness in commercial agreements.
+
+5. **Business Interests**: Protecting Wong Kee's business interests and ensuring that it can rely on the quality and size of crabs supplied for its signature dish is essential for its reputation and financial success.
+
+Therefore, we hold that Neptune is liable for the delivery of baby mud crabs, and the "Seller’s Liability" provision does not effectively exclude Neptune's liability for this breach. This decision aligns with the principles of fairness, predictability, and the upholding of fundamental obligations in contract law.
 
 
-# Contract Law: Whether Care 2 U Ltd can rely on the exclusion clause to avoid liability for the damage to the scanner
+# Contract Law: Whether the delivery of baby mud crabs constitutes a breach of the implied terms regarding the quality and suitability of the goods supplied
 
 ## Deductive reasoning: legislation
 
 ### Relevant law:
 
-Control of Exemption Clauses Ordinance Cap. 71 Sections 7 and 12
+Sale of Goods Ordinance Cap. 26 Sections 15, 16, and 17
+
+### Major Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 15 Subsection 1
+
+   Conditions:
+   - There is a contract for the sale of goods by description
+
+   Consequences:
+   - There is an implied condition that the goods shall correspond with the description
+
+   Exceptions:
+   - None
+
+2. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 2
+
+   Conditions:
+   - The seller sells goods in the course of a business
+
+   Consequences:
+   - There is an implied condition that the goods supplied under the contract are of merchantable quality
+
+   Exceptions:
+   - As regards defects specifically drawn to the buyer's attention before the contract is made
+   - If the buyer examines the goods before the contract is made, as regards defects which that examination ought to reveal
+   - If the contract is a contract for sale by sample, as regards defects which would have been apparent on a reasonable examination of the sample
+
+3. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 3
+
+   Conditions:
+   - The seller sells goods in the course of a business
+   - The buyer, expressly or by implication, makes known to the seller any particular purpose for which the goods are being bought
+
+   Consequences:
+   - There is an implied condition that the goods supplied under the contract are reasonably fit for that purpose, whether or not that is a purpose for which such goods are commonly supplied
+
+   Exceptions:
+   - Where the circumstances show that the buyer does not rely, or that it is unreasonable for him to rely, on the seller's skill or judgment
+
+4. Sale of Goods Ordinance Cap. 26 Section 17 Subsection 2
+
+   Conditions:
+   - There is a contract for sale by sample
+
+   Consequences:
+   - There is an implied condition that the bulk shall correspond with the sample in quality
+   - There is an implied condition that the buyer shall have a reasonable opportunity of comparing the bulk with the sample
+   - There is an implied condition that the goods shall be free from any defect, rendering them unmerchantable, which would not be apparent on reasonable examination of the sample
+
+   Exceptions:
+   - None
+
+5. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1
+
+   Conditions:
+   - Any right, duty or liability would arise under a contract of sale of goods by implication of law
+
+   Consequences:
+   - It may be negatived or varied by express agreement, or by the course of dealing between the parties, or by usage if the usage is such as to bind both parties to the contract
+
+   Exceptions:
+   - Subject to the Control of Exemption Clauses Ordinance (Cap. 71)
+
+### Minor Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 15 Subsection 1:
+   - There is a contract for the sale of goods by description between Wong Kee and Neptune.
+   - The description of the goods (crabs) was understood to conform to the norms and practices of the seafood trade in Hong Kong.
+   - The delivery of baby mud crabs does not correspond with the description as per the norms and practices.
+
+2. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 2:
+   - Neptune sells crabs in the course of its business.
+   - There is an implied condition that the crabs supplied under the contract are of merchantable quality.
+   - The baby mud crabs delivered were not of merchantable quality for Wong Kee's purpose of making "Typhoon Shelter Crab."
+
+3. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 3:
+   - Neptune sells crabs in the course of its business.
+   - Wong Kee, by implication, made known to Neptune that the crabs were being bought for the purpose of making "Typhoon Shelter Crab."
+   - There is an implied condition that the crabs supplied are reasonably fit for that purpose.
+   - The baby mud crabs were not reasonably fit for making "Typhoon Shelter Crab."
+
+4. Sale of Goods Ordinance Cap. 26 Section 17 Subsection 2:
+   - There is no indication that the contract was for sale by sample, so this section does not apply.
+
+5. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1:
+   - The implied terms regarding the quality and suitability of the goods can be negatived or varied by express agreement or by the course of dealing between the parties.
+   - The "Seller’s Liability" provision in the draft contract attempts to exclude liability for any defect in the seafood supplied.
+   - However, this provision is subject to the Control of Exemption Clauses Ordinance (Cap. 71), which may limit the enforceability of such exclusion clauses.
+
+### Conclusion:
+
+The delivery of baby mud crabs constitutes a breach of the implied terms regarding the quality and suitability of the goods supplied under the Sale of Goods Ordinance Cap. 26 Sections 15 and 16. The implied conditions that the goods shall correspond with the description and be of merchantable quality, as well as reasonably fit for the particular purpose made known to the seller, have been breached. The "Seller’s Liability" provision may not be enforceable under the Control of Exemption Clauses Ordinance (Cap. 71). Therefore, Wong Kee has a valid claim against Neptune for breach of contract.
+
+## Deductive Reasoning: ca
+
+### Relevant law:
+
+Wing Tat Haberdashery Co Ltd v Elegance Development & Industrial Co Ltd
+
+### Major Premise:
+
+1. Wing Tat Haberdashery Co Ltd v Elegance Development & Industrial Co Ltd
+
+   Conditions:
+   - The goods delivered do not conform to the samples; or
+   - The goods are not reasonably fit for the purpose for which they were required; or
+   - The goods are not of merchantable quality
+
+   Consequences:
+   - The buyer may maintain an action against the seller for damages for the breach of warranty; and
+   - The measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of events, from the breach of warranty
+
+   Exceptions:
+   - The buyer has failed to take reasonable steps to avoid further or consequential loss upon discovering the defect
+
+### Minor Premise:
+
+1. Wing Tat Haberdashery Co Ltd v Elegance Development & Industrial Co Ltd:
+   - The goods delivered (baby mud crabs) do not conform to the samples (previously delivered mix of medium to jumbo crabs).
+   - The goods (baby mud crabs) are not reasonably fit for the purpose for which they were required (Wong Kee’s signature dish "Typhoon Shelter Crab").
+   - The goods (baby mud crabs) are not of merchantable quality for Wong Kee’s specific use.
+   - Wong Kee may maintain an action against Neptune for damages for the breach of warranty.
+   - The measure of damages would be the estimated loss directly and naturally resulting from the breach of warranty, which includes financial losses and damage to reputation.
+   - Wong Kee did not fail to take reasonable steps to avoid further or consequential loss upon discovering the defect, as the defect was discovered only upon delivery and the crabs were unusable for the intended purpose.
+
+### Conclusion:
+
+Wing Tat Haberdashery Co Ltd v Elegance Development & Industrial Co Ltd applies, and Wong Kee may maintain an action against Neptune for damages for the breach of warranty. The measure of damages would be the estimated loss directly and naturally resulting from the breach of warranty, including financial losses and damage to reputation.
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant)
+In the case of HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant (precedent p), the plaintiff claimed for the price of goods sold and delivered to the defendant. The defendant claimed set-off and counterclaims, including faulty goods and poaching clients. The court ruled that the defendant should be allowed to defend conditionally on paying into court the sum owed to the plaintiff, while also allowing for the claim for breach of a separate contract.
+
+### Step 2: Shared Legal Concepts
+Both in HCA822/2004 and in our current case, we see the following legal concepts and fact patterns:
+- **Implied Terms of Quality and Fitness for Purpose**: In HCA822/2004, the defendant argued that the goods were faulty and did not meet the implied terms of merchantable quality and fitness for purpose under the Sale of Goods Ordinance. Similarly, in our current case, Wong Kee argues that the delivery of baby mud crabs breaches the implied terms regarding the quality and suitability of the goods supplied.
+- **Breach of Contract**: In HCA822/2004, the defendant claimed that the plaintiff breached a separate contract for the supply of goods. In our current case, Wong Kee contends that Neptune breached the contract by delivering baby mud crabs instead of the usual mix of sizes.
+- **Set-off and Counterclaims**: In HCA822/2004, the defendant raised set-off and counterclaims to extinguish the plaintiff’s claim. In our current case, Wong Kee may similarly argue that the financial losses and damage to reputation due to the delivery of unsuitable crabs should offset any claims Neptune might have.
+- **Course of Dealing and Established Practices**: In HCA822/2004, the court considered the established practices and course of dealing between the parties. In our current case, the long-standing informal arrangement and the norms of the seafood trade are relevant to determining the expectations and obligations of the parties.
+
+### Step 3: Extraction of Legal Rule from Precedent (HCA822/2004)
+This suggests a general rule that when we see a fact pattern involving the delivery of goods that do not meet the implied terms of quality and fitness for purpose, and there is a breach of contract, the court should allow the aggrieved party to defend or counterclaim conditionally. This rule was justified in HCA822/2004 because the positive effects (E+) of allowing the defendant to defend conditionally on paying into court the sum owed, while considering the breach of a separate contract, outweighed the negative effects (E-) of potentially delaying the plaintiff’s recovery of the debt. This approach ensures that both parties' claims and defenses are fairly considered, promoting justice and adherence to contractual obligations.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant) are present:
+
+- **Implied Terms of Quality and Fitness for Purpose**: In HCA822/2004, the defendant argued that the goods were faulty and did not meet the implied terms of merchantable quality and fitness for purpose under the Sale of Goods Ordinance. Similarly, in our current case, Wong Kee argues that the delivery of baby mud crabs breaches the implied terms regarding the quality and suitability of the goods supplied.
+- **Breach of Contract**: In HCA822/2004, the defendant claimed that the plaintiff breached a separate contract for the supply of goods. In our current case, Wong Kee contends that Neptune breached the contract by delivering baby mud crabs instead of the usual mix of sizes.
+- **Set-off and Counterclaims**: In HCA822/2004, the defendant raised set-off and counterclaims to extinguish the plaintiff’s claim. In our current case, Wong Kee may similarly argue that the financial losses and damage to reputation due to the delivery of unsuitable crabs should offset any claims Neptune might have.
+- **Course of Dealing and Established Practices**: In HCA822/2004, the court considered the established practices and course of dealing between the parties. In our current case, the long-standing informal arrangement and the norms of the seafood trade are relevant to determining the expectations and obligations of the parties.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach a similar outcome. Specifically, the court should allow Wong Kee to defend against any claims by Neptune conditionally, while also considering Wong Kee's counterclaims for financial losses and damage to reputation.
+
+This decision would be justified because, as in HCA822/2004, it would have the following positive effects:
+
+1. **Fair Consideration of Both Parties' Claims**: Allowing Wong Kee to defend conditionally ensures that both parties' claims and defenses are fairly considered, promoting justice and adherence to contractual obligations.
+2. **Adherence to Established Trade Practices**: Recognizing the norms and practices of the seafood trade in Hong Kong respects the established course of dealing between the parties and ensures that industry standards are upheld.
+3. **Protection of Implied Terms**: Enforcing the implied terms of quality and fitness for purpose under the Sale of Goods Ordinance protects buyers from receiving substandard goods and ensures that sellers meet their obligations.
+4. **Encouragement of Formal Agreements**: Highlighting the importance of formalizing agreements encourages businesses to document their arrangements clearly, reducing the likelihood of disputes and misunderstandings.
+
+Therefore, given the shared fact patterns and the positive effects on the underlying values and principles of the law, the court should reach the same outcome as in HCA822/2004.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+In the precedent case HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant, the court's decision was significantly influenced by the presence of a formal written guarantee provided by the defendant. This guarantee was key in ensuring that the benefits of the ruling, such as providing a clear basis for the plaintiff's claim and ensuring that the defendant had a formal obligation to pay, outweighed any potential drawbacks, such as delaying the defendant's ability to raise set-off and counterclaims. The formal guarantee provided a clear and unequivocal acknowledgment of the debt, which justified the court's decision to conditionally allow the defendant to defend upon payment into court.
+
+However, in our current case, this crucial factor of a formal written guarantee is notably absent. The dealings between Wong Kee and Neptune were conducted on an informal basis, and although there was a draft contract, it was never signed and returned by Wong Kee. This lack of a formal written agreement means that there is no clear and unequivocal acknowledgment of the terms and obligations, which complicates the determination of liability and the enforcement of any implied terms regarding the quality and suitability of the goods supplied.
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor, the long-standing informal arrangement and established trade practices, that was not present in HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant. This factor significantly alters the situation described by the shared fact pattern because the informal arrangement and established trade practices between Wong Kee and Neptune create an expectation and understanding of the quality and composition of the crabs to be supplied. Due to this long-standing informal arrangement and the norms of the seafood trade, applying the same outcome in our case would have more negative consequences, such as undermining the established trade practices and expectations, than positive ones, unlike in HCA822/2004. The informal but consistent dealings and the adherence to trade norms create an implied understanding that the crabs supplied would meet certain quality and size standards, which was not a consideration in the precedent case. Therefore, the absence of a formal written agreement in our current case should not preclude Wong Kee from defending against Neptune's claims and raising counterclaims for the financial losses and damage to reputation due to the delivery of unsuitable crabs.
+
+### Step 7: Argument from Undesirable Consequence
+We propose that the correct rule from HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant should be stated as: "When both [the delivery of goods that do not meet the implied terms of quality and fitness for purpose] and [the presence of a formal written guarantee or agreement] are present, the court should decide [to allow the aggrieved party to defend conditionally on paying into court the sum owed, while also considering the breach of a separate contract]." Omitting [the presence of a formal written guarantee or agreement] from this rule could lead to [undesirable consequence q], such as undermining the clarity and enforceability of contractual obligations, and potentially allowing parties to evade their responsibilities based on informal or ambiguous arrangements. Indeed, the opinion in HCA822/2004 explicitly states that the formal guarantee was crucial to their decision, as it provided a clear acknowledgment of the debt and justified the conditional leave to defend.
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+The rule established in HCA822/2004 was clearly designed to prevent the undesirable consequence of parties evading their contractual obligations by relying on informal or ambiguous arrangements. However, in our current case, there's no risk of this undesirable consequence occurring because the long-standing informal arrangement and established trade practices between Wong Kee and Neptune create a clear and mutual understanding of the quality and composition of the crabs to be supplied. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves is not relevant to our situation. The informal but consistent dealings and the adherence to trade norms provide sufficient clarity and enforceability of the parties' obligations, making the absence of a formal written agreement less critical in this context.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the formal written guarantee, which was present in the precedent case HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant, requiring this factor for all similar cases of implied terms regarding the quality and suitability of goods supplied would lead to an undesirable consequence. Specifically, it would undermine the established trade practices and expectations that have been built over years of consistent dealings. Conversely, not requiring a formal written guarantee would allow for the recognition of long-standing informal arrangements and established trade norms, which better aligns with the underlying principles of the law in this area. These principles include the protection of implied terms of quality and fitness for purpose, and the fair consideration of both parties' claims based on their established course of dealing.
+
+### Step 10: Feature Substitution
+Although our case lacks the formal written guarantee, which was present in HCA822/2004, we have the additional factor of a long-standing informal arrangement and established trade practices. This factor, when considered alongside the shared circumstances of implied terms of quality and fitness for purpose, serves a similar function to the formal written guarantee in the precedent case. Given the presence of this long-standing informal arrangement and adherence to trade norms, we submit that the reasoning in HCA822/2004 still applies. The positive effects on relevant legal values, such as the protection of implied terms, adherence to established trade practices, and fair consideration of both parties' claims, would still outweigh any potential negative consequences, just as they did in the precedent case.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to HCA822/2004 BETWEEN MYRIAD ELECTRONICS LIMITED Plaintiff and ENITY TECHNOLOGY LIMITED Defendant, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the implied terms of quality and fitness for purpose, breach of contract, set-off and counterclaims, and the course of dealing and established practices. However, it also differs in significant ways, particularly the absence of a formal written guarantee in the current case and the presence of a long-standing informal arrangement and established trade practices.
+
+The proposed legal rule of allowing the aggrieved party to defend conditionally on paying into court the sum owed, while also considering the breach of a separate contract, finds support in both cases. However, its broader implications must be considered, especially in light of the informal but consistent dealings and adherence to trade norms in the current case.
+
+We've weighed arguments from both sides, particularly the importance of a formal written guarantee in the precedent case and the significance of the long-standing informal arrangement and established trade practices in the current case. Considering the underlying legal principles of protecting implied terms of quality and fitness for purpose, adherence to established trade practices, and fair consideration of both parties' claims, we conclude that the court should allow Wong Kee to defend against any claims by Neptune conditionally, while also considering Wong Kee's counterclaims for financial losses and damage to reputation.
+
+This decision is justified because it ensures that both parties' claims and defenses are fairly considered, respects the established course of dealing and trade norms, and upholds the implied terms of quality and fitness for purpose under the Sale of Goods Ordinance. The absence of a formal written agreement in this context does not undermine the clarity and enforceability of the parties' obligations, given the long-standing informal arrangement and established trade practices.
+
+Therefore, the court should reach a similar outcome as in HCA822/2004, allowing Wong Kee to defend conditionally while also considering its counterclaims, thereby promoting justice and legal consistency.
+
+
+# Contract Law: Whether the course of dealings between Wong Kee and Neptune from June 2013 to June 2018 established an implied contract with specific terms
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Supply of Services (Implied Terms) Ordinance Cap. 457 Section 6 Subsection 1, Section 7 Subsection 1, and Section 8 Subsection 2
+
+### Major Premise:
+
+1. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 7 Subsection 1
+
+   Conditions:
+   - Under a contract for the supply of a service, the consideration for the service is not determined by the contract
+   - The consideration is not left to be determined in a manner agreed by the contract
+   - The consideration is not determined by the course of dealing between the parties
+
+   Consequences:
+   - There is an implied term that the party contracting with the supplier will pay a reasonable charge
+
+   Exceptions:
+   - None
+
+2. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 6 Subsection 1
+
+   Conditions:
+   - Under a contract for the supply of a service by a supplier acting in the course of a business, the time for the service to be carried out is not fixed by the contract
+   - The time is not left to be fixed in a manner agreed by the contract
+   - The time is not determined by the course of dealing between the parties
+
+   Consequences:
+   - There is an implied term that the supplier will carry out the service within a reasonable time
+
+   Exceptions:
+   - None
+
+3. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 8 Subsection 2
+
+   Conditions:
+   - A right, duty or liability would arise under a contract for the supply of a service by virtue of this Ordinance
+
+   Consequences:
+   - It may be negatived or varied by express agreement, or by the course of dealing between the parties, or by such usage as binds both parties to the contract
+
+   Exceptions:
+   - Subject to subsection (3) and the Control of Exemption Clauses Ordinance (Cap. 71)
+
+### Minor Premise:
+
+1. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 7 Subsection 1:
+   - Wong Kee and Neptune had an informal arrangement for the supply of crabs.
+   - The consideration (price) for the crabs was determined by the prevailing market price quoted over the phone.
+   - Therefore, the consideration was determined by the course of dealing between the parties.
+   - This section does not apply.
+
+2. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 6 Subsection 1:
+   - The time for the delivery of crabs was understood to be the next Monday following the order.
+   - The time for the service was determined by the course of dealing between the parties.
+   - This section does not apply.
+
+3. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 8 Subsection 2:
+   - The right, duty, or liability regarding the composition of the crabs would arise under the contract for the supply of a service by virtue of this Ordinance.
+   - The composition of the crabs was generally in accordance with the norms and practices of the seafood trade, which is a usage binding both parties.
+   - The "composition" clause in the draft contract, which reserved Neptune the absolute discretion to determine the size of mud crabs, was not formally agreed upon as the contract was not signed.
+   - The course of dealing and the usage in the seafood trade would imply that the composition should conform to the norms and practices.
+
+### Conclusion:
+
+The course of dealings between Wong Kee and Neptune from June 2013 to June 2018 established an implied contract with specific terms, including the composition of the crabs conforming to the norms and practices of the seafood trade. Neptune's delivery of only baby mud crabs in December 2020 breached this implied term, as it did not conform to the established norms and practices. Therefore, Wong Kee may have a valid claim for breach of contract against Neptune.
+
+## Deductive Reasoning: cfa
+
+### Relevant law:
+
+Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited
+
+### Major Premise:
+
+1. Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited
+
+   Conditions:
+   - The conduct of the parties is such that it objectively appears they have agreed in the same terms on the same subject-matter.
+   - The conduct is unequivocally referable to the contract sought to be inferred.
+   - The conduct is inconsistent with there being no contract made between the parties to the effect contended for.
+
+   Consequences:
+   - A legally binding contract may be inferred from the conduct of the parties.
+
+   Exceptions:
+   - The conduct is equally consistent with an intention not to contract.
+   - One party knows that the other party does not intend to contract on the terms alleged.
+
+### Minor Premise:
+
+1. The conduct of Wong Kee and Neptune from June 2013 to June 2018 objectively appears they have agreed in the same terms on the same subject-matter:
+   - Wong Kee consistently ordered crabs from Neptune on a weekly basis.
+   - Neptune consistently delivered the crabs as per the orders.
+   - Both parties followed the norms and practices of the seafood trade regarding the distribution of crab sizes.
+
+2. The conduct is unequivocally referable to the contract sought to be inferred:
+   - The regular and consistent ordering and delivery of crabs over a five-year period indicates a mutual understanding and agreement.
+   - The draft contract sent by Wong Kee in June 2018 and the subsequent amendments by Neptune further support the existence of an agreement.
+
+3. The conduct is inconsistent with there being no contract made between the parties to the effect contended for:
+   - The continuous and uninterrupted transactions between the parties, even after the draft contract was amended and accepted (though not signed), suggest that both parties acted as if a binding agreement was in place.
+
+### Conclusion:
+
+A legally binding contract may be inferred from the conduct of Wong Kee and Neptune from June 2013 to June 2018, as all conditions are satisfied and no exceptions apply. Therefore, the course of dealings between Wong Kee and Neptune established an implied contract with specific terms.
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (HCA012172/1996)
+In the case of HCA012172/1996 BETWEEN SAFE STEEL FURNITURE FACTORY LIMITED Plaintiff AND LAMEX TRADING COMPANY LIMITED Defendant (precedent p), the court ruled that the agreement between the parties was not for an indefinite term. The court found that the provisions of the agreement were only up to 1994 and were not capable of being extended beyond that period. The court also held that any implied term suggesting the agreement continued indefinitely would be void for uncertainty.
+
+### Step 2: Shared Legal Concepts
+Both in HCA012172/1996 and in our current case, we see the following legal concepts and fact patterns:
+
+- **Legal Concept 1: Duration of Agreement**
+  - **Fact Pattern 1 (p)**: The agreement did not specify a duration, leading to a dispute over whether it was for an indefinite term.
+  - **Fact Pattern 1 (c)**: The dealings between Wong Kee and Neptune were conducted on an informal basis without a formalized duration until the draft contract in June 2018.
+
+- **Legal Concept 2: Implied Terms**
+  - **Fact Pattern 2 (p)**: The plaintiff argued for an implied term that the agreement would continue indefinitely, which the court found void for uncertainty.
+  - **Fact Pattern 2 (c)**: Wong Kee and Neptune had an understanding of the delivery and pricing of crabs, but no formalized agreement until June 2018, raising the question of whether there was an implied contract with specific terms.
+
+- **Legal Concept 3: Course of Dealings**
+  - **Fact Pattern 3 (p)**: The court examined the course of dealings and the express terms of the agreement to determine its duration and obligations.
+  - **Fact Pattern 3 (c)**: The course of dealings between Wong Kee and Neptune from June 2013 to June 2018 involved regular orders and deliveries, suggesting an implied understanding of terms.
+
+- **Legal Concept 4: Uncertainty and Enforceability**
+  - **Fact Pattern 4 (p)**: The court found that any implied term for the agreement to continue indefinitely was void for uncertainty.
+  - **Fact Pattern 4 (c)**: The lack of a formalized agreement until June 2018 raises issues of uncertainty regarding the terms of the implied contract between Wong Kee and Neptune.
+
+### Step 3: Extraction of Legal Rule from Precedent (HCA012172/1996)
+This suggests a general rule that when we see a fact pattern where the duration and specific terms of an agreement are not clearly defined and are left to be implied, the court should decide that such an implied term is void for uncertainty. This rule was justified in HCA012172/1996 because the positive effects (E+) of outcome o on the underlying values and principles of the law, such as clarity, predictability, and enforceability of contracts, outweigh the negative effects (E-) in that case. The court emphasized the importance of having clear and definite terms in a contract to avoid disputes and ensure that both parties understand their obligations and rights.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (HCA012172/1996) are present:
+
+- **Legal Concept 1: Duration of Agreement**
+  - **Fact Pattern 1 (p)**: The agreement did not specify a duration, leading to a dispute over whether it was for an indefinite term.
+  - **Fact Pattern 1 (c)**: The dealings between Wong Kee and Neptune were conducted on an informal basis without a formalized duration until the draft contract in June 2018.
+
+- **Legal Concept 2: Implied Terms**
+  - **Fact Pattern 2 (p)**: The plaintiff argued for an implied term that the agreement would continue indefinitely, which the court found void for uncertainty.
+  - **Fact Pattern 2 (c)**: Wong Kee and Neptune had an understanding of the delivery and pricing of crabs, but no formalized agreement until June 2018, raising the question of whether there was an implied contract with specific terms.
+
+- **Legal Concept 3: Course of Dealings**
+  - **Fact Pattern 3 (p)**: The court examined the course of dealings and the express terms of the agreement to determine its duration and obligations.
+  - **Fact Pattern 3 (c)**: The course of dealings between Wong Kee and Neptune from June 2013 to June 2018 involved regular orders and deliveries, suggesting an implied understanding of terms.
+
+- **Legal Concept 4: Uncertainty and Enforceability**
+  - **Fact Pattern 4 (p)**: The court found that any implied term for the agreement to continue indefinitely was void for uncertainty.
+  - **Fact Pattern 4 (c)**: The lack of a formalized agreement until June 2018 raises issues of uncertainty regarding the terms of the implied contract between Wong Kee and Neptune.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in HCA012172/1996. This decision would be justified because, as in the precedent case, it would have the following positive effects:
+
+1. **Clarity and Predictability**: Enforcing a rule that requires clear and definite terms in a contract ensures that both parties understand their obligations and rights, reducing the likelihood of disputes.
+2. **Enforceability**: Contracts with uncertain terms are difficult to enforce, leading to potential injustices and inefficiencies. By requiring clear terms, the court promotes the enforceability of agreements.
+3. **Commercial Certainty**: Businesses can operate with greater confidence when they know that their agreements will be upheld only if they are clear and specific. This encourages better business practices and more reliable commercial relationships.
+4. **Fairness**: Both parties are protected from the risks associated with vague and indefinite agreements. This ensures that neither party can be unfairly bound by terms that were not clearly agreed upon.
+
+Therefore, applying the rule from HCA012172/1996 to the current case would uphold these underlying values and principles of contract law, ensuring that agreements are clear, predictable, and enforceable.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+Skipped
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor, the "Seller’s Liability" provision, that was not present in HCA012172/1996. This factor significantly alters the situation described by the shared fact pattern of "Uncertainty and Enforceability" because it explicitly limits Neptune's liability for any defects in the seafood supplied. Due to this "Seller’s Liability" provision, applying the same outcome in our case would have more negative consequences such as unfairly limiting Wong Kee's ability to claim damages for the defective baby crabs, unlike in HCA012172/1996 where no such liability limitation existed. This provision shifts the balance of obligations and protections between the parties, making the implied terms and course of dealings more critical to determining the enforceability and fairness of the agreement.
+
+### Step 7: Argument from Undesirable Consequence
+We propose that the correct rule from HCA012172/1996 should be stated as "When both the fact pattern of an agreement lacking a specified duration and the presence of a 'Seller’s Liability' provision are present, the court should decide that the implied terms are void for uncertainty." Omitting the 'Seller’s Liability' provision from this rule could lead to the undesirable consequence of unfairly limiting the buyer's ability to claim damages for defective goods, thereby creating an imbalance in the contractual obligations and protections between the parties. Indeed, the opinion in HCA012172/1996 explicitly states that the absence of clear terms and the resulting uncertainty were crucial to their decision. Including the 'Seller’s Liability' provision in the rule ensures that the court considers the full context of the agreement, including any clauses that might unfairly limit one party's rights.
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+The rule established in HCA012172/1996 was clearly designed to prevent the undesirable consequence of enforcing contracts with indefinite and uncertain terms, which could lead to disputes and unenforceability. However, in our current case, the presence of the 'Seller’s Liability' provision introduces a new dimension that was not present in the precedent case. This provision explicitly limits Neptune's liability for any defects in the seafood supplied, which shifts the balance of obligations and protections between the parties. Therefore, applying the precedent's rule without considering this provision would be misguided, as the very purpose it serves—to ensure clarity and enforceability—would not be fully relevant to our situation. The 'Seller’s Liability' provision necessitates a more nuanced approach to determine the fairness and enforceability of the implied terms in the agreement between Wong Kee and Neptune.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the explicit "Seller’s Liability" provision, which was present in the precedent case HCA012172/1996, requiring this factor for all similar cases of implied terms and course of dealings would lead to an undesirable consequence. Specifically, it would create a loophole where parties could avoid liability for defective goods simply by not including such a provision in their agreements. Conversely, not requiring the "Seller’s Liability" provision would allow for a more balanced and fair assessment of the implied terms and course of dealings, which better aligns with the underlying principles of contract law, such as fairness, predictability, and enforceability. This approach ensures that both parties are held to reasonable standards of performance and liability, even in the absence of an explicit liability clause.
+
+### Step 10: Feature Substitution
+Although our case lacks the explicit "Seller’s Liability" provision, which was present in HCA012172/1996, we have the additional factor of a long-standing course of dealings between Wong Kee and Neptune from June 2013 to June 2018. This course of dealings, when considered alongside the shared circumstances of informal agreements and implied terms, serves a similar function to the "Seller’s Liability" provision in the precedent case. Given the presence of this long-standing course of dealings, we submit that the reasoning in HCA012172/1996 still applies, as the positive effects on relevant legal values—such as clarity, predictability, and enforceability—would still outweigh any potential negative consequences, just as they did in the precedent case. This ensures that the implied terms are assessed fairly and that both parties are held to reasonable standards of performance and liability.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to HCA012172/1996, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the lack of a specified duration in the agreement and the reliance on implied terms and course of dealings to establish the contractual relationship. However, it also differs in significant ways, particularly the presence of a long-standing course of dealings between Wong Kee and Neptune from June 2013 to June 2018, and the absence of an explicit "Seller’s Liability" provision.
+
+The proposed legal rule from HCA012172/1996, which states that implied terms suggesting an agreement continues indefinitely are void for uncertainty, finds support in both cases. However, its broader implications must be considered, especially in light of the long-standing course of dealings between Wong Kee and Neptune, which suggests a more nuanced understanding of the parties' relationship and expectations.
+
+We've weighed arguments from both sides, particularly the strong point from the precedent case that contracts with indefinite and uncertain terms are difficult to enforce and lead to disputes, and the counterargument that the long-standing course of dealings between Wong Kee and Neptune provides a basis for implying certain terms with reasonable certainty.
+
+Considering the underlying legal principles of clarity, predictability, enforceability, and fairness, and the potential impact on future cases, we conclude that the course of dealings between Wong Kee and Neptune from June 2013 to June 2018 did establish an implied contract with specific terms. This conclusion is supported by the consistent and regular transactions between the parties, the mutual understanding of delivery and pricing, and the absence of significant disputes over the terms during this period.
+
+Therefore, the implied terms of the contract should include the regular delivery schedule, the prevailing market price, and the distribution of crab sizes according to industry norms. However, the "Seller’s Liability" provision proposed in the draft contract should not be considered part of the implied terms, as it was not explicitly agreed upon and would unfairly limit Wong Kee's ability to claim damages for defective goods.
+
+In conclusion, the decision reached aligns with legal precedent while also serving justice and legal consistency by recognizing the established course of dealings and the reasonable expectations of both parties.
+
+
+# Contract Law: Whether the 'composition' clause granting Neptune 'absolute discretion' to determine the size of crabs supplied is reasonable and enforceable
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Sale of Goods Ordinance Cap. 26 Section 16 Subsection 3, Section 16 Subsection 2(b), Section 16 Subsection 2(c), Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2, Section 11 Subsection 3
+
+### Major Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 3
+
+   Conditions:
+   - The seller sells goods in the course of a business
+   - The buyer, expressly or by implication, makes known to the seller any particular purpose for which the goods are being bought
+
+   Consequences:
+   - There is an implied condition that the goods supplied under the contract are reasonably fit for that purpose, whether or not that is a purpose for which such goods are commonly supplied
+
+   Exceptions:
+   - Where the circumstances show that the buyer does not rely, or that it is unreasonable for him to rely, on the seller's skill or judgment
+
+2. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 2(b)
+
+   Conditions:
+   - The seller sells goods in the course of a business
+   - The buyer examines the goods before the contract is made
+
+   Consequences:
+   - There is no implied condition that the goods supplied under the contract are of merchantable quality as regards defects which that examination ought to reveal
+
+   Exceptions:
+   - None
+
+3. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 2(c)
+
+   Conditions:
+   - The seller sells goods in the course of a business
+   - The contract is a contract for sale by sample
+
+   Consequences:
+   - There is no implied condition that the goods supplied under the contract are of merchantable quality as regards defects which would have been apparent on a reasonable examination of the sample
+
+   Exceptions:
+   - None
+
+4. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2
+
+   Conditions:
+   - The seller sells goods in the course of a business
+   - The buyer deals as consumer
+
+   Consequences:
+   - Liability for breach of the obligations arising from section 15, 16 or 17 of the Sale of Goods Ordinance (seller's implied undertakings as to conformity of goods with description or sample, or as to their quality or fitness for a particular purpose) cannot be excluded or restricted by reference to any contract term
+
+   Exceptions:
+   - None
+
+5. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 3
+
+   Conditions:
+   - The seller sells goods in the course of a business
+   - The buyer deals otherwise than as consumer
+
+   Consequences:
+   - Liability for breach of the obligations arising from section 15, 16 or 17 of the Sale of Goods Ordinance (seller's implied undertakings as to conformity of goods with description or sample, or as to their quality or fitness for a particular purpose) can be excluded or restricted by reference to a contract term
+
+   Exceptions:
+   - Only in so far as the term satisfies the requirement of reasonableness
+
+### Minor Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 3:
+   - Neptune sells crabs in the course of a business.
+   - Wong Kee, by implication, makes known to Neptune the particular purpose for which the crabs are being bought (for their signature dish "Typhoon Shelter Crab").
+   - There is an implied condition that the crabs supplied under the contract are reasonably fit for that purpose.
+   - The circumstances do not show that Wong Kee does not rely, or that it is unreasonable for Wong Kee to rely, on Neptune's skill or judgment.
+
+2. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 2(b):
+   - Neptune sells crabs in the course of a business.
+   - There is no indication that Wong Kee examines the crabs before the contract is made.
+   - Therefore, this section does not apply.
+
+3. Sale of Goods Ordinance Cap. 26 Section 16 Subsection 2(c):
+   - Neptune sells crabs in the course of a business.
+   - The contract is not a contract for sale by sample.
+   - Therefore, this section does not apply.
+
+4. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2:
+   - Neptune sells crabs in the course of a business.
+   - Wong Kee deals as a business, not as a consumer.
+   - Therefore, this section does not apply.
+
+5. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 3:
+   - Neptune sells crabs in the course of a business.
+   - Wong Kee deals otherwise than as a consumer.
+   - Liability for breach of the obligations arising from section 15, 16 or 17 of the Sale of Goods Ordinance can be excluded or restricted by reference to a contract term.
+   - The term must satisfy the requirement of reasonableness.
+
+### Conclusion:
+
+The "composition" clause granting Neptune "absolute discretion" to determine the size of crabs supplied is not reasonable and enforceable. The implied condition that the crabs supplied are reasonably fit for the particular purpose (i.e., for Wong Kee's signature dish) cannot be excluded or restricted by the "Seller’s Liability" provision, as it does not satisfy the requirement of reasonableness. Therefore, Wong Kee can claim that Neptune breached the implied condition of fitness for purpose.
+
+## Deductive Reasoning: ca
+
+### Relevant law:
+
+CACV 12/2015 Tadjudin Sunny v Bank of America, National Association
+
+### Major Premise:
+
+1. CACV 12/2015 Tadjudin Sunny v Bank of America, National Association
+
+   Conditions:
+   - A power or discretion is given to a party to a contract which on its face is unqualified
+   - The exercise of that power or discretion is not in good faith, rationally, or for a proper purpose
+   - The exercise of that power or discretion is arbitrary, capricious, or in a manner which is not bona fide
+
+   Consequences:
+   - The power or discretion is subject to implied restrictions and may be deemed unenforceable
+
+   Exceptions:
+   - The exercise of the power or discretion is in good faith, rationally, and for a proper purpose
+
+### Minor Premise:
+
+1. CACV 12/2015 Tadjudin Sunny v Bank of America, National Association:
+   - Neptune has been given the power or discretion to determine the size of mud crabs supplied under the Agreement, which on its face is unqualified.
+   - Neptune exercised this discretion by supplying only baby mud crabs, which was not in good faith, rationally, or for a proper purpose, as it knew Wong Kee required crabs suitable for its signature dish.
+   - The exercise of this discretion was arbitrary and capricious, as it deviated significantly from the established norms and practices of the seafood trade and was not bona fide, given the prior consistent supply of mixed sizes and the significant impact on Wong Kee's business.
+
+### Conclusion:
+
+The 'composition' clause granting Neptune 'absolute discretion' to determine the size of crabs supplied is not reasonable and enforceable because Neptune's exercise of this discretion was not in good faith, rationally, or for a proper purpose, and was arbitrary and capricious. Therefore, the power or discretion is subject to implied restrictions and may be deemed unenforceable.
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD)
+In the case of FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD (precedent p), the court dealt with the issue of whether the plaintiff's discretionary powers under the Indemnity Agreements were subject to an implied term of rationality. The court ruled that the plaintiff's discretion to demand additional security deposits must be exercised rationally, even though the contract used the term "absolute discretion." The court found that the plaintiff had not exercised its discretion rationally in demanding the cash deposit, and thus, summary judgment was inappropriate.
+
+### Step 2: Shared Legal Concepts
+Both in FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD and in our current case, we see the following legal concepts and fact patterns:
+
+- **Legal Concept 1: Discretionary Powers in Contracts**
+  - **Fact Pattern 1 (p)**: The plaintiff had discretionary powers to demand additional security under the Indemnity Agreements.
+  - **Fact Pattern 1 (c)**: Neptune has discretionary powers to determine the size of mud crabs supplied under the Agreement.
+
+- **Legal Concept 2: Implied Term of Rationality**
+  - **Fact Pattern 2 (p)**: The court implied a term that the plaintiff's discretion must be exercised rationally.
+  - **Fact Pattern 2 (c)**: The question arises whether Neptune's discretion to determine the size of crabs must also be exercised rationally.
+
+- **Legal Concept 3: Impact on Business Operations**
+  - **Fact Pattern 3 (p)**: The plaintiff's demand for a cash deposit had significant financial implications for the defendant.
+  - **Fact Pattern 3 (c)**: Neptune's supply of only baby mud crabs had significant financial implications for Wong Kee, affecting its ability to serve its signature dish.
+
+- **Legal Concept 4: Reasonableness and Enforceability of Contractual Clauses**
+  - **Fact Pattern 4 (p)**: The court examined whether the exercise of discretion was reasonable and enforceable.
+  - **Fact Pattern 4 (c)**: The court needs to examine whether Neptune's exercise of discretion in supplying only baby crabs was reasonable and enforceable.
+
+### Step 3: Extraction of Legal Rule from Precedent (FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD)
+This suggests a general rule that when we see a contractual clause granting one party discretionary powers, the court should decide that such discretion must be exercised rationally. This rule was justified in FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD because the positive effects (E+) of ensuring fairness and preventing abuse of discretion in contractual relationships outweigh the negative effects (E-) of potentially limiting the freedom of contract.
+
+In the current case, applying this rule would mean that Neptune's "absolute discretion" to determine the size of crabs supplied must be exercised rationally. Given the significant impact on Wong Kee's business operations and the established norms in the seafood trade, it is arguable that supplying only baby crabs was not a rational exercise of discretion. Therefore, the court should find that Neptune's discretion must be exercised in a manner that is reasonable and consistent with the expectations and practices of the industry.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD) are present:
+
+- **Legal Concept 1: Discretionary Powers in Contracts**
+  - **Fact Pattern 1 (p)**: The plaintiff had discretionary powers to demand additional security under the Indemnity Agreements.
+  - **Fact Pattern 1 (c)**: Neptune has discretionary powers to determine the size of mud crabs supplied under the Agreement.
+
+- **Legal Concept 2: Implied Term of Rationality**
+  - **Fact Pattern 2 (p)**: The court implied a term that the plaintiff's discretion must be exercised rationally.
+  - **Fact Pattern 2 (c)**: The question arises whether Neptune's discretion to determine the size of crabs must also be exercised rationally.
+
+- **Legal Concept 3: Impact on Business Operations**
+  - **Fact Pattern 3 (p)**: The plaintiff's demand for a cash deposit had significant financial implications for the defendant.
+  - **Fact Pattern 3 (c)**: Neptune's supply of only baby mud crabs had significant financial implications for Wong Kee, affecting its ability to serve its signature dish.
+
+- **Legal Concept 4: Reasonableness and Enforceability of Contractual Clauses**
+  - **Fact Pattern 4 (p)**: The court examined whether the exercise of discretion was reasonable and enforceable.
+  - **Fact Pattern 4 (c)**: The court needs to examine whether Neptune's exercise of discretion in supplying only baby crabs was reasonable and enforceable.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD. This decision would be justified because, as in the precedent case, it would have the following positive effects:
+
+1. **Ensuring Fairness**: Imposing an implied term of rationality ensures that Neptune cannot arbitrarily or capriciously exercise its discretion to the detriment of Wong Kee. This aligns with the principle of fairness in contractual relationships, especially where one party has significant discretionary power.
+
+2. **Preventing Abuse of Discretion**: By requiring Neptune to exercise its discretion rationally, the court would prevent potential abuse of power. This is particularly important in commercial contracts where one party's actions can have significant financial implications for the other.
+
+3. **Consistency with Industry Norms**: The seafood trade in Hong Kong has established norms and practices regarding the distribution of crab sizes. Requiring Neptune to adhere to these norms ensures predictability and stability in the market, which benefits all parties involved.
+
+4. **Business Efficacy**: Imposing a rationality requirement ensures that the contract works effectively for both parties. Wong Kee relies on a predictable supply of crabs to maintain its business operations. Arbitrary decisions by Neptune undermine this predictability and can cause significant business disruptions.
+
+Therefore, the court should find that Neptune's "absolute discretion" to determine the size of crabs supplied must be exercised rationally. Given the significant impact on Wong Kee's business operations and the established norms in the seafood trade, it is arguable that supplying only baby crabs was not a rational exercise of discretion. This decision would be justified because it would ensure fairness, prevent abuse of discretion, maintain consistency with industry norms, and uphold the business efficacy of the contract.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+In the precedent case **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD**, the court's decision was significantly influenced by the presence of **explicit financial disclosures and assurances** made by the 1st Defendant. These disclosures and assurances were key in ensuring that the benefits of the ruling (ensuring rational exercise of discretion) outweighed any potential drawbacks because they provided a clear basis for assessing the financial impact and rationality of the plaintiff's demand for additional security. However, in our current case, this crucial factor of **explicit financial disclosures and assurances** is notably absent. Neptune did not provide any specific financial disclosures or assurances regarding the supply of crabs, which makes it more challenging to assess whether their discretion was exercised rationally.
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor **(established industry norms and practices regarding crab sizes)** that was not present in **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD**. This factor significantly alters the situation described by the shared fact pattern because the seafood trade in Hong Kong has well-established norms and practices regarding the distribution of crab sizes, which are regarded as binding by all crab restaurants and suppliers. Due to these established norms, applying the same outcome (implying a term of rationality) in our case would have more positive consequences such as **ensuring consistency with industry standards and maintaining business efficacy** than negative ones, unlike in **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD**. The presence of these industry norms provides a clear benchmark for assessing the rationality of Neptune's discretion, thereby justifying the need for an implied term of rationality in the current case.
+
+### Step 7: Argument from Undesirable Consequence
+
+We propose that the correct rule from **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD** should be stated as: "When both [discretionary powers in contracts] and [explicit financial disclosures and assurances] are present, the court should decide [that the discretion must be exercised rationally]." Omitting [explicit financial disclosures and assurances] from this rule could lead to [undesirable consequence q], which is the potential for arbitrary or capricious exercise of discretion without a clear benchmark for rationality. Indeed, the opinion in **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD** explicitly states that the financial disclosures and assurances were crucial to their decision, as they provided a clear basis for assessing the rationality of the plaintiff's demand for additional security.
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+
+The rule established in **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD** was clearly designed to prevent [the undesirable consequence of arbitrary or capricious exercise of discretion without a clear benchmark for rationality]. However, in our current case, there's no risk of [arbitrary or capricious exercise of discretion without a clear benchmark for rationality] occurring because the seafood trade in Hong Kong has well-established norms and practices regarding the distribution of crab sizes. These industry norms provide a clear benchmark for assessing the rationality of Neptune's discretion. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. Instead, the court should find that Neptune's "absolute discretion" to determine the size of crabs supplied must be exercised rationally, given the significant impact on Wong Kee's business operations and the established norms in the seafood trade.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the explicit financial disclosures and assurances, which were present in the precedent case **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD**, requiring this factor for all similar cases of discretionary powers in contracts would lead to an undesirable consequence. Specifically, it would allow parties with discretionary powers to act arbitrarily or capriciously in the absence of explicit financial disclosures, thereby undermining the principle of fairness in contractual relationships. Conversely, not requiring explicit financial disclosures and assurances would allow for a more flexible and equitable application of the implied term of rationality, which better aligns with the underlying principles of the law in this area. This approach ensures that discretionary powers are exercised fairly and reasonably, preventing potential abuse and maintaining the integrity of contractual relationships.
+
+### Step 10: Feature Substitution
+Although our case lacks the explicit financial disclosures and assurances, which were present in **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD**, we have the additional factor of established industry norms and practices regarding crab sizes. This factor, when considered alongside the shared circumstances of discretionary powers in contracts, serves a similar function to the explicit financial disclosures in the precedent case. Given the presence of established industry norms, we submit that the reasoning in **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD** still applies, as the positive effects on ensuring fairness, preventing abuse of discretion, and maintaining consistency with industry standards would still outweigh any potential negative consequences, just as they did in the precedent case.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to **FALCON INSURANCE CO (HONG KONG) LTD v. ISP HOLDINGS LTD**, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, particularly in the context of discretionary powers in contracts and the potential for an implied term of rationality. However, it also differs in significant ways, notably the absence of explicit financial disclosures and assurances in the current case and the presence of established industry norms and practices regarding crab sizes.
+
+The proposed legal rule that discretionary powers in contracts must be exercised rationally finds support in both cases, but its broader implications must be considered. We've weighed arguments from both sides, particularly the importance of ensuring fairness and preventing abuse of discretion (as argued in favor of implying a term of rationality) and the potential for arbitrary or capricious exercise of discretion without a clear benchmark for rationality (as argued against implying such a term without explicit financial disclosures).
+
+Considering the underlying legal principles of fairness, prevention of abuse of discretion, and consistency with industry norms, we conclude that Neptune's "absolute discretion" to determine the size of crabs supplied must be exercised rationally. The established industry norms and practices regarding crab sizes provide a clear benchmark for assessing the rationality of Neptune's discretion, similar to the role played by explicit financial disclosures in the precedent case.
+
+Therefore, the court should find that Neptune's exercise of discretion in supplying only baby crabs was not a rational exercise of discretion, given the significant impact on Wong Kee's business operations and the established norms in the seafood trade. This decision ensures fairness, prevents abuse of discretion, maintains consistency with industry standards, and upholds the business efficacy of the contract.
+
+
+# Contract Law: Whether Wong Kee's acceptance of smaller crabs on one previous occasion affects its ability to claim breach of contract for the delivery of baby crabs in December 2020
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Sale of Goods Ordinance Cap. 26 Section 32 Subsection 2 and 3, Section 37 Subsections 4, 5, and 6, and Section 13 Subsection 3
+
+### Major Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 2
+
+   Conditions:
+   - The seller delivers to the buyer a quantity of goods larger than he contracted to sell
+   - The buyer accepts the whole of the goods so delivered
+
+   Consequences:
+   - The buyer must pay for them at the contract rate
+
+   Exceptions:
+   - The provisions of this section are subject to any usage of trade, special agreement, or course of dealing between the parties
+
+2. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 3
+
+   Conditions:
+   - The seller delivers to the buyer the goods he contracted to sell mixed with goods of a different description not included in the contract
+   - The buyer accepts the goods which are in accordance with the contract
+
+   Consequences:
+   - The buyer may reject the rest, or he may reject the whole
+
+   Exceptions:
+   - The provisions of this section are subject to any usage of trade, special agreement, or course of dealing between the parties
+
+3. Sale of Goods Ordinance Cap. 26 Section 37 Subsections 4, 5, and 6
+
+   Conditions:
+   - The buyer is deemed to have accepted the goods
+   - The buyer retains the goods without intimating to the seller that he has rejected them after the lapse of a reasonable time
+
+   Consequences:
+   - The buyer is deemed to have accepted the goods
+
+   Exceptions:
+   - The buyer has had a reasonable opportunity of examining the goods for the purpose of ascertaining whether they are in conformity with the contract
+   - The buyer is not by virtue of this section deemed to have accepted the goods merely because the goods are delivered to another under a sub-sale or other disposition
+
+4. Sale of Goods Ordinance Cap. 26 Section 13 Subsection 3
+
+   Conditions:
+   - The buyer has accepted the goods or part thereof
+   - The contract of sale is not severable
+   - There is a breach of any condition to be fulfilled by the seller
+
+   Consequences:
+   - The breach of any condition to be fulfilled by the seller can only be treated as a breach of warranty, and not as a ground for rejecting the goods and treating the contract as repudiated
+
+   Exceptions:
+   - There is a term of the contract, express or implied, to that effect
+
+### Minor Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 2:
+   - Neptune did not deliver a quantity of goods larger than contracted; hence, this section does not apply.
+
+2. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 3:
+   - Neptune delivered goods (baby mud crabs) not included in the contract.
+   - Wong Kee did not accept the baby mud crabs.
+   - Therefore, Wong Kee may reject the baby mud crabs or reject the whole delivery.
+   - The provisions are subject to any usage of trade, special agreement, or course of dealing between the parties. The previous acceptance of smaller crabs on one occasion does not establish a course of dealing that would bind Wong Kee to accept baby crabs.
+
+3. Sale of Goods Ordinance Cap. 26 Section 37 Subsections 4, 5, and 6:
+   - Wong Kee did not retain the baby crabs without intimating rejection; hence, this section does not apply.
+
+4. Sale of Goods Ordinance Cap. 26 Section 13 Subsection 3:
+   - Wong Kee did not accept the baby crabs.
+   - The contract of sale is not severable.
+   - There is a breach of the condition regarding the size of crabs.
+   - There is no term in the contract, express or implied, that would treat the breach as a breach of warranty only.
+
+### Conclusion:
+
+Sale of Goods Ordinance Cap. 26 Section 32 Subsection 3 applies, and Wong Kee may reject the baby mud crabs or reject the whole delivery. The previous acceptance of smaller crabs on one occasion does not affect Wong Kee's ability to claim breach of contract for the delivery of baby crabs in December 2020.
+
+## Deductive Reasoning: ca
+
+### Relevant law:
+
+Samsung Hong Kong Limited v Keen Time Trading Limited
+
+### Major Premise:
+
+1. Samsung Hong Kong Limited v Keen Time Trading Limited
+
+   Conditions:
+   - The plaintiff tenders a performance that does not correspond with the terms of the contract.
+   - The defendant is entitled to reject such performance under the contract.
+   - There is no evidence to rebut the presumption that the defendant would act reasonably and in protection of its own interest.
+
+   Consequences:
+   - The defendant is presumed to reject the non-conforming goods.
+   - The plaintiff is entitled to only nominal damages.
+
+   Exceptions:
+   - There is clear and unequivocal evidence showing that the defendant would not have exercised this right of rejection.
+
+### Minor Premise:
+
+1. The plaintiff (Neptune) tendered a performance (delivery of baby mud crabs) that does not correspond with the terms of the contract (the usual mix of sizes, ranging from medium to jumbo).
+2. The defendant (Wong Kee) is entitled to reject such performance under the contract, as the delivery of baby mud crabs does not conform to the norms and practices of the seafood trade, which are binding.
+3. There is no evidence to rebut the presumption that Wong Kee would act reasonably and in protection of its own interest, as Wong Kee's business relies on the quality and size of the crabs for its signature dish.
+
+### Conclusion:
+
+The conditions of the major premise are satisfied. Therefore, Wong Kee is presumed to reject the non-conforming goods (baby mud crabs), and Neptune is entitled to only nominal damages. Wong Kee's acceptance of smaller crabs on one previous occasion does not affect its ability to claim breach of contract for the delivery of baby crabs in December 2020, as there is no clear and unequivocal evidence showing that Wong Kee would not have exercised this right of rejection.
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant)
+In the case of HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant (precedent p), the Plaintiff, a garment manufacturer, delivered blouses to the Defendant, who did not pay for them, claiming the blouses were not made in Hong Kong as required. The court ruled that the Defendant had waived its right to reject the goods by accepting them and not informing the Plaintiff of any rejection. The court also found that the blouses were indeed made in Hong Kong based on the Plaintiff's internal documents. The Plaintiff was awarded the price of the blouses plus interest, but the claim for damages due to defamation was withdrawn.
+
+### Step 2: Shared Legal Concepts
+Both in HCA011705A/1996 and in our current case, we see the following legal concepts and fact patterns:
+- **Waiver of Rights**: In HCA011705A/1996, the Defendant waived its right to reject the blouses by accepting them and not informing the Plaintiff of any rejection. Similarly, in our current case, Wong Kee accepted smaller crabs on one previous occasion without complaint.
+- **Acceptance of Goods**: In HCA011705A/1996, the Defendant accepted the blouses despite suspecting they were not made in Hong Kong. In our current case, Wong Kee accepted the smaller crabs without complaint on one occasion.
+- **Breach of Contract**: In HCA011705A/1996, the issue was whether the blouses were made in Hong Kong as per the contract. In our current case, the issue is whether the delivery of baby crabs constitutes a breach of the informal agreement regarding the size distribution of crabs.
+- **Evidence of Compliance**: In HCA011705A/1996, the Plaintiff provided internal documents to prove compliance with the contract. In our current case, the consistent delivery of crabs conforming to the norms and practices of the seafood trade serves as evidence of compliance.
+
+### Step 3: Extraction of Legal Rule from Precedent (HCA011705A/1996)
+This suggests a general rule that when we see a fact pattern where a party accepts goods without complaint despite a potential breach of contract, the court should decide that the party has waived its right to claim a breach of contract. This rule was justified in HCA011705A/1996 because the positive effects (E+) of outcome o on the underlying values and principles of the law, such as promoting certainty and fairness in commercial transactions, outweigh the negative effects (E-) in that case. Specifically, it prevents parties from accepting goods and later claiming a breach, which would create uncertainty and potential unfairness in commercial dealings.
+
+In our current case, applying this rule would mean that Wong Kee's acceptance of smaller crabs on one previous occasion without complaint affects its ability to claim breach of contract for the delivery of baby crabs in December 2020. This promotes the principle that parties should raise issues promptly and not remain silent, only to later claim a breach when it suits them.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant) are present:
+
+- **Waiver of Rights**: In HCA011705A/1996, the Defendant waived its right to reject the blouses by accepting them and not informing the Plaintiff of any rejection. Similarly, in our current case, Wong Kee accepted smaller crabs on one previous occasion without complaint.
+- **Acceptance of Goods**: In HCA011705A/1996, the Defendant accepted the blouses despite suspecting they were not made in Hong Kong. In our current case, Wong Kee accepted the smaller crabs without complaint on one occasion.
+- **Breach of Contract**: In HCA011705A/1996, the issue was whether the blouses were made in Hong Kong as per the contract. In our current case, the issue is whether the delivery of baby crabs constitutes a breach of the informal agreement regarding the size distribution of crabs.
+- **Evidence of Compliance**: In HCA011705A/1996, the Plaintiff provided internal documents to prove compliance with the contract. In our current case, the consistent delivery of crabs conforming to the norms and practices of the seafood trade serves as evidence of compliance.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in HCA011705A/1996, it would have the following positive effects:
+
+1. **Promoting Certainty in Commercial Transactions**: By holding that Wong Kee's acceptance of smaller crabs on one previous occasion without complaint affects its ability to claim breach of contract for the delivery of baby crabs in December 2020, the court would promote certainty in commercial transactions. Parties would be encouraged to raise issues promptly, thereby avoiding uncertainty and potential unfairness in commercial dealings.
+
+2. **Encouraging Prompt Communication**: This outcome would encourage parties to communicate any issues or breaches promptly. In the precedent case, the Defendant's failure to promptly reject the blouses led to a waiver of its rights. Similarly, Wong Kee's failure to complain about the smaller crabs on the previous occasion should be seen as a waiver of its right to claim a breach for the delivery of baby crabs.
+
+3. **Fairness and Consistency**: Applying the same rule ensures fairness and consistency in the application of the law. It prevents parties from accepting goods and later claiming a breach when it suits them, which would create uncertainty and potential unfairness in commercial dealings.
+
+4. **Reliance on Established Practices**: The decision would reinforce the importance of established practices and norms in the industry. In both cases, the parties had an understanding of the norms and practices governing their transactions. By upholding these practices, the court would ensure that parties can rely on them in their commercial dealings.
+
+Given these positive effects, we submit that the court should reach the same outcome as in HCA011705A/1996. This decision would be justified because it promotes certainty, encourages prompt communication, ensures fairness and consistency, and reinforces reliance on established practices in commercial transactions.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+In the precedent case HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant, the court's decision was significantly influenced by the presence of clear internal documentation and records provided by the Plaintiff. These documents were key in ensuring that the benefits of the ruling—promoting certainty and fairness in commercial transactions—outweighed any potential drawbacks because they provided concrete evidence that the blouses were made in Hong Kong, thereby justifying the Plaintiff's claim and the court's decision.
+
+However, in our current case, this crucial factor of clear internal documentation and records is notably absent. Wong Kee does not have similar internal records or documentation to prove that the size distribution of crabs delivered by Neptune consistently conformed to the norms and practices of the seafood trade. The absence of such documentation makes it difficult to establish a clear pattern of compliance or non-compliance with the informal agreement regarding the size distribution of crabs.
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor—the presence of an informal but consistent practice of ordering and delivering crabs based on established norms and practices in the seafood trade—that was not present in HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant. This factor significantly alters the situation described by the shared fact pattern because the informal agreement and established norms in the seafood trade create an expectation of consistency in the size distribution of crabs.
+
+Due to this established practice, applying the same outcome in our case would have more negative consequences such as undermining the reliability of informal but consistent commercial practices and creating uncertainty in the seafood trade. Unlike in HCA011705A/1996, where clear documentation provided a basis for the court's decision, the reliance on informal practices in our current case means that Wong Kee's acceptance of smaller crabs on one previous occasion should not necessarily be seen as a waiver of its right to claim a breach for the delivery of baby crabs. The negative consequences of undermining established trade practices and creating uncertainty outweigh the benefits of promoting prompt communication and fairness in this context.
+
+### Step 7: Argument from Undesirable Consequence
+We propose that the correct rule from HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant should be stated as "When both the acceptance of goods without complaint and the presence of clear internal documentation proving compliance with the contract are present, the court should decide that the party has waived its right to claim a breach of contract." Omitting the presence of clear internal documentation from this rule could lead to the undesirable consequence of undermining the reliability of informal but consistent commercial practices and creating uncertainty in trade. Indeed, the opinion in HCA011705A/1996 explicitly states that the internal documents provided by the Plaintiff were crucial to their decision, as they provided concrete evidence that the blouses were made in Hong Kong, thereby justifying the Plaintiff's claim and the court's decision.
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+The rule established in HCA011705A/1996 was clearly designed to prevent the undesirable consequence of parties accepting goods and later claiming a breach when it suits them, thereby creating uncertainty and potential unfairness in commercial dealings. However, in our current case, there's no risk of this specific undesirable consequence occurring because the informal but consistent practice of ordering and delivering crabs based on established norms and practices in the seafood trade creates an expectation of consistency in the size distribution of crabs. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves is not relevant to our situation. The absence of clear internal documentation in our case means that Wong Kee's acceptance of smaller crabs on one previous occasion should not necessarily be seen as a waiver of its right to claim a breach for the delivery of baby crabs, as this would undermine established trade practices and create uncertainty.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the clear internal documentation and records (factor m) that were present in the precedent case HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant, requiring this factor for all similar cases of waiver of rights and acceptance of goods would lead to an undesirable consequence. Specifically, it would undermine the reliability of informal but consistent commercial practices and create uncertainty in trade. Conversely, not requiring clear internal documentation would allow for the recognition and enforcement of established norms and practices in the seafood trade, which better aligns with the underlying principles of the law in this area, such as promoting fairness, consistency, and predictability in commercial transactions.
+
+### Step 10: Feature Substitution
+Although our case lacks the clear internal documentation and records (factor m) that were present in HCA011705A/1996, we have the additional factor of an established informal practice and norms in the seafood trade (factor n). This established practice, when considered alongside the shared circumstances of acceptance of goods without complaint (i*), serves a similar function to the internal documentation in the precedent case. Given the presence of this established practice, we submit that the reasoning in HCA011705A/1996 still applies, as the positive effects on relevant legal values, such as promoting certainty, fairness, and consistency in commercial transactions, would still outweigh any potential negative consequences, just as they did in the precedent case.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to HCA011705A/1996 BETWEEN PRECIEUX GARMENT FACTORY LIMITED Plaintiff AND THE RALPH LAUREN WOMENSWEAR CO. L.P. Defendant, the distinctions raised, and the counterarguments offered, we make the following observations.
+
+**Key Similarities:**
+1. **Waiver of Rights:** Both cases involve a party accepting goods without immediate complaint, which could be interpreted as a waiver of the right to claim a breach of contract.
+2. **Acceptance of Goods:** In both cases, the goods were accepted despite potential non-compliance with the terms of the agreement.
+3. **Breach of Contract:** Both cases hinge on whether the delivered goods met the contractual requirements.
+
+**Key Differences:**
+1. **Internal Documentation:** In HCA011705A/1996, the Plaintiff provided clear internal documentation proving compliance with the contract, which was crucial to the court's decision. In the current case, such documentation is absent.
+2. **Established Informal Practices:** The current case involves an established informal practice and norms in the seafood trade, which were not present in the precedent case.
+
+**Proposed Legal Rule:**
+The rule from HCA011705A/1996 suggests that when a party accepts goods without complaint and there is clear internal documentation proving compliance with the contract, the party has waived its right to claim a breach of contract.
+
+**Weighing Arguments:**
+- **For Applying the Rule:** The initial argument suggests that Wong Kee's acceptance of smaller crabs on one previous occasion without complaint should be seen as a waiver of its right to claim a breach for the delivery of baby crabs. This promotes certainty and fairness in commercial transactions.
+- **Against Applying the Rule:** The rebuttal argues that the absence of clear internal documentation in the current case and the reliance on established informal practices in the seafood trade create a different context. Applying the same rule would undermine the reliability of these practices and create uncertainty in the trade.
+
+**Decision:**
+Considering the underlying legal principles of promoting certainty, fairness, and consistency in commercial transactions, and the potential impact on future cases, we conclude that the rule from HCA011705A/1996 should not be applied rigidly to the current case. The absence of clear internal documentation and the presence of established informal practices in the seafood trade significantly alter the context.
+
+**Final Decision:**
+Wong Kee's acceptance of smaller crabs on one previous occasion without complaint should not be seen as a waiver of its right to claim a breach of contract for the delivery of baby crabs in December 2020. The established informal practices and norms in the seafood trade create an expectation of consistency in the size distribution of crabs, and undermining these practices would create uncertainty and potential unfairness in commercial dealings.
+
+This decision aligns with legal precedent while also serving justice and legal consistency by recognizing the importance of established trade practices and the need for clear documentation in proving compliance with contractual terms.
+
+
+# Contract Law: Whether the exclusion clause in the 'Seller’s Liability' provision is valid under the Unfair Contract Terms Ordinance (Cap. 71) in Hong Kong
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 1, 2, and 3; Section 11 Subsection 2; Section 12 Subsection 2
 
 ### Major Premise:
 
 1. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 1 and 2
 
    Conditions:
-   - A person cannot by reference to any contract term or notice exclude or restrict his liability for death or personal injury resulting from negligence.
-   - In the case of other loss or damage, a person cannot exclude or restrict his liability for negligence except in so far as the term or notice satisfies the requirement of reasonableness.
+   - A person seeks to exclude or restrict liability for negligence.
+   - The exclusion or restriction is by reference to any contract term or notice given to persons generally or to particular persons.
 
    Consequences:
-   - The exclusion or restriction of liability for negligence is not enforceable unless it satisfies the requirement of reasonableness.
+   - The person cannot exclude or restrict liability for death or personal injury resulting from negligence.
+   - In the case of other loss or damage, the person cannot exclude or restrict liability for negligence except in so far as the term or notice satisfies the requirement of reasonableness.
 
    Exceptions:
    - None
@@ -879,34 +1562,34 @@ Control of Exemption Clauses Ordinance Cap. 71 Sections 7 and 12
 
    Conditions:
    - A contract term or notice purports to exclude or restrict liability for negligence.
-   - A person’s agreement to or awareness of it is not of itself to be taken as indicating his voluntary acceptance of any risk.
+   - A person’s agreement to or awareness of it is considered.
 
    Consequences:
-   - The exclusion or restriction of liability for negligence is not enforceable solely based on the person's agreement or awareness.
+   - The person’s agreement to or awareness of it is not of itself to be taken as indicating his voluntary acceptance of any risk.
 
    Exceptions:
    - None
 
-3. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 2
+3. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2
 
    Conditions:
-   - A person deals as a consumer.
-   - A contract term excludes or restricts liability for breach of obligation arising by implication of law from the nature of the contract.
+   - A person deals as consumer.
+   - The other party to the contract seeks to exclude or restrict liability for breach of the obligations arising from section 15, 16, or 17 of the Sale of Goods Ordinance (Cap. 26) (seller’s implied undertakings as to conformity of goods with description or sample, or as to their quality or fitness for a particular purpose).
 
    Consequences:
-   - The exclusion or restriction of liability is not enforceable.
+   - The other party cannot exclude or restrict liability by reference to any contract term.
 
    Exceptions:
    - None
 
-4. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 3
+4. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 2
 
    Conditions:
-   - A person deals otherwise than as a consumer.
-   - A contract term excludes or restricts liability for breach of obligation arising by implication of law from the nature of the contract.
+   - A person deals as consumer.
+   - The other party to the contract seeks to exclude or restrict liability in respect of the goods’ correspondence with description or sample, or their quality or fitness for any particular purpose.
 
    Consequences:
-   - The exclusion or restriction of liability is enforceable only if the term satisfies the requirement of reasonableness.
+   - The other party cannot exclude or restrict liability by reference to any contract term.
 
    Exceptions:
    - None
@@ -914,341 +1597,26 @@ Control of Exemption Clauses Ordinance Cap. 71 Sections 7 and 12
 ### Minor Premise:
 
 1. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 1 and 2:
-   - Care 2 U Ltd is attempting to exclude or restrict its liability for damage to the scanner during transportation.
-   - The exclusion clause must satisfy the requirement of reasonableness to be enforceable.
-   - The clause requires the user to undertake a systems check and present the results in writing to both Care 2 U Ltd and M-Scan Ltd.
-   - Vulcanicity Ltd failed to undertake the systems check before the scanner was collected.
+- Neptune seeks to exclude liability for any loss or damage arising from any defect in any seafood product supplied, however caused.
+- The exclusion is by reference to a contract term in the "Seller’s Liability" provision.
+- The loss or damage in question is financial loss due to the supply of baby mud crabs instead of the usual mix.
+- The exclusion clause must satisfy the requirement of reasonableness to be valid.
 
 2. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 3:
-   - The exclusion clause purports to exclude or restrict liability for negligence.
-   - Vulcanicity Ltd’s agreement to or awareness of the clause is not of itself to be taken as indicating its voluntary acceptance of any risk.
+- The "Seller’s Liability" provision purports to exclude liability for negligence.
+- Wong Kee’s agreement to or awareness of the exclusion clause is not of itself to be taken as indicating its voluntary acceptance of any risk.
 
-3. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 3:
-   - Vulcanicity Ltd deals otherwise than as a consumer.
-   - The exclusion clause restricts liability for breach of obligation arising by implication of law from the nature of the contract.
-   - The exclusion clause is enforceable only if it satisfies the requirement of reasonableness.
+3. Control of Exemption Clauses Ordinance Cap. 71 Section 11 Subsection 2:
+- Wong Kee is not dealing as a consumer but as a business entity.
+- Therefore, this section does not apply.
+
+4. Control of Exemption Clauses Ordinance Cap. 71 Section 12 Subsection 2:
+- Wong Kee is not dealing as a consumer but as a business entity.
+- Therefore, this section does not apply.
 
 ### Conclusion:
 
-Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 1 and 2, Section 7 Subsection 3, and Section 12 Subsection 3 apply. The exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd is enforceable only if it satisfies the requirement of reasonableness. Given that Vulcanicity Ltd failed to undertake the systems check, the clause may be considered reasonable. Therefore, Care 2 U Ltd can rely on the exclusion clause to avoid liability for the damage to the scanner, provided the clause is deemed reasonable under the circumstances.
-
-## Reasoning by analogy: cases
-
-### Step 1: Outcome of Precedent (HCA007939/1997)
-In the case of HCA007939/1997 (precedent p), the court dealt with the issue of whether an indemnity clause in a contract could be interpreted to cover negligence and other liabilities. The court ruled that the indemnity clause did not extend to cover the negligence of the party seeking indemnity unless explicitly stated. The court also emphasized the importance of clear and unequivocal language in contractual clauses to avoid ambiguity.
-
-### Step 2: Shared Legal Concepts
-Both in HCA007939/1997 and in our current case, we see the following legal concepts and fact patterns:
-
-- **Legal Concept 1: Interpretation of Contractual Clauses**
-  - **Fact Pattern 1:** In HCA007939/1997, the court interpreted the indemnity clause to determine its scope and applicability. Similarly, in our current case, the exclusion clause in the contract between M-Scan Ltd and Vulcanicity Ltd needs to be interpreted to determine its applicability.
-
-- **Legal Concept 2: Exclusion of Liability**
-  - **Fact Pattern 2:** In HCA007939/1997, the court examined whether the indemnity clause excluded liability for negligence. In our current case, the exclusion clause aims to exclude liability for damages during transportation if certain conditions are not met.
-
-- **Legal Concept 3: Requirement of Clear and Unequivocal Language**
-  - **Fact Pattern 3:** The court in HCA007939/1997 emphasized the need for clear and unequivocal language in contractual clauses to avoid ambiguity. Similarly, the exclusion clause in our current case must be clear and unequivocal to be enforceable.
-
-- **Legal Concept 4: Allocation of Responsibility**
-  - **Fact Pattern 4:** In HCA007939/1997, the court discussed the allocation of responsibility between parties based on the contractual terms. In our current case, the allocation of responsibility for damages to the scanner during transportation hinges on the interpretation of the exclusion clause.
-
-### Step 3: Extraction of Legal Rule from Precedent (HCA007939/1997)
-This suggests a general rule that when we see a contractual clause that aims to exclude or limit liability (fact pattern i*), the court should decide that such a clause is enforceable only if it is clear and unequivocal in its language and scope (outcome o). This rule was justified in HCA007939/1997 because the positive effects (E+) of requiring clear and unequivocal language in exclusion or indemnity clauses ensure that parties are fully aware of their rights and obligations, thereby reducing the likelihood of disputes and promoting fairness in contractual relationships. The negative effects (E-) of not enforcing ambiguous clauses are outweighed by the need for clarity and certainty in contractual dealings.
-
-### Step 4: Applying the Rule to the Current Case
-
-In the current case, the same legal concepts and fact patterns as the precedent (HCA007939/1997) are present:
-
-- **Legal Concept 1: Interpretation of Contractual Clauses**
-  - **Fact Pattern 1:** In HCA007939/1997, the court interpreted the indemnity clause to determine its scope and applicability. Similarly, in our current case, the exclusion clause in the contract between M-Scan Ltd and Vulcanicity Ltd needs to be interpreted to determine its applicability.
-
-- **Legal Concept 2: Exclusion of Liability**
-  - **Fact Pattern 2:** In HCA007939/1997, the court examined whether the indemnity clause excluded liability for negligence. In our current case, the exclusion clause aims to exclude liability for damages during transportation if certain conditions are not met.
-
-- **Legal Concept 3: Requirement of Clear and Unequivocal Language**
-  - **Fact Pattern 3:** The court in HCA007939/1997 emphasized the need for clear and unequivocal language in contractual clauses to avoid ambiguity. Similarly, the exclusion clause in our current case must be clear and unequivocal to be enforceable.
-
-- **Legal Concept 4: Allocation of Responsibility**
-  - **Fact Pattern 4:** In HCA007939/1997, the court discussed the allocation of responsibility between parties based on the contractual terms. In our current case, the allocation of responsibility for damages to the scanner during transportation hinges on the interpretation of the exclusion clause.
-
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in HCA007939/1997, it would have the following positive effects:
-
-1. **Clarity and Certainty in Contractual Relationships:** Requiring clear and unequivocal language in exclusion clauses ensures that all parties are fully aware of their rights and obligations. This reduces the likelihood of disputes and promotes fairness in contractual dealings.
-
-2. **Fair Allocation of Risk:** By enforcing only those exclusion clauses that are clear and unequivocal, the court ensures that the allocation of risk between parties is fair and transparent. This prevents one party from unfairly shifting the burden of liability onto another party without their explicit agreement.
-
-3. **Encouragement of Diligence:** Clear and unequivocal exclusion clauses encourage parties to be diligent in their contractual obligations. In this case, it would encourage Vulcanicity Ltd to undertake the recommended systems check and present the results in writing, thereby ensuring the equipment is in good working order before transportation.
-
-4. **Consistency in Legal Precedents:** Applying the same rule as in HCA007939/1997 promotes consistency in legal precedents, which is a fundamental principle of common law systems. This consistency helps in predicting legal outcomes and provides a stable legal environment for businesses to operate.
-
-Therefore, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in HCA007939/1997, it would have the positive effects of promoting clarity, fairness, diligence, and consistency in contractual relationships.
-
-### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case HCA007939/1997, the court's decision was significantly influenced by the presence of a clear and unequivocal indemnity clause. This clear indemnity clause was key in ensuring that the benefits of the ruling, such as promoting clarity and certainty in contractual relationships, outweighed any potential drawbacks because it provided a straightforward interpretation of the parties' obligations and liabilities. However, in our current case, this crucial clear and unequivocal indemnity clause is notably absent as the exclusion clause in the contract between M-Scan Ltd and Vulcanicity Ltd is not as clear and unequivocal. The clause requires the user to undertake a systems check and present the results in writing, but it does not explicitly state the consequences of failing to do so in a manner that is as clear and unequivocal as the indemnity clause in HCA007939/1997.
-
-### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the administrative burden of the 1 per cent donation to the Albright Cancer Research Foundation, that was not present in HCA007939/1997. This factor significantly alters the situation described by the shared fact pattern because it introduces an additional layer of complexity regarding the contractual obligations and the impact on third parties. Due to this administrative burden, applying the same outcome in our case would have more negative consequences, such as potential financial instability for the Albright Cancer Research Foundation and a breach of trust with existing customers, than positive ones, unlike in HCA007939/1997. The precedent case did not involve third-party beneficiaries or the administrative complexities associated with ongoing charitable donations, which significantly impacts the balance of positive and negative effects in our current case.
-
-### Step 7: Argument from Undesirable Consequence
-We propose that the correct rule from HCA007939/1997 should be stated as: "When both the shared fact pattern of a contractual clause aiming to exclude or limit liability (i*) and the presence of a clear and unequivocal indemnity clause (m) are present, the court should decide that such a clause is enforceable only if it is clear and unequivocal in its language and scope (o)." Omitting the presence of a clear and unequivocal indemnity clause (m) from this rule could lead to the undesirable consequence (q) of parties being unfairly bound by ambiguous exclusion clauses, which could result in unjust outcomes and increased litigation due to the lack of clarity in contractual obligations. Indeed, the opinion in HCA007939/1997 explicitly states that the clear and unequivocal language in the indemnity clause was crucial to their decision, as it provided a straightforward interpretation of the parties' obligations and liabilities.
-
-### Step 8: Distinction from Non-occurring Undesirable Consequence
-The rule established in HCA007939/1997 was clearly designed to prevent the undesirable consequence (u) of parties being unfairly bound by ambiguous indemnity or exclusion clauses, which could lead to unjust outcomes and increased litigation. However, in our current case, there's no risk of this specific undesirable consequence occurring because the exclusion clause in the contract between M-Scan Ltd and Vulcanicity Ltd is not as clear and unequivocal as the indemnity clause in HCA007939/1997. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves—to ensure clarity and fairness in contractual obligations—is not relevant to our situation due to the lack of a clear and unequivocal indemnity clause.
-
-### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the clear and unequivocal indemnity clause (factor m), which was present in the precedent case HCA007939/1997, requiring this factor for all similar cases of interpreting exclusion or indemnity clauses (fact pattern i*) would lead to the undesirable consequence of parties being unfairly bound by ambiguous exclusion clauses. This could result in unjust outcomes and increased litigation due to the lack of clarity in contractual obligations. Conversely, not requiring the clear and unequivocal indemnity clause (m) would allow for a more flexible interpretation of exclusion clauses, which better aligns with the underlying principles of contract law, such as fairness and the intention of the parties. This approach ensures that parties are not unfairly disadvantaged by overly rigid interpretations and promotes a more equitable resolution of disputes.
-
-### Step 10: Feature Substitution
-Although our case lacks the clear and unequivocal indemnity clause (factor m), which was present in HCA007939/1997, we have the additional factor of the administrative burden of the 1 per cent donation to the Albright Cancer Research Foundation (factor n). This factor n, when considered alongside the shared circumstances of interpreting exclusion clauses (i*), serves a similar function to the clear and unequivocal indemnity clause (m) in the precedent case. Given the presence of the administrative burden (n), we submit that the reasoning in HCA007939/1997 still applies, as the positive effects on legal values such as fairness, clarity, and the intention of the parties would still outweigh any potential negative consequences, just as they did in the precedent case. This ensures that the exclusion clause is interpreted in a manner that is fair and equitable, taking into account the practical realities and the intentions of the parties involved.
-
-### Step 11: Conclusion
-
-After careful consideration of all arguments presented, including the initial analogy to HCA007939/1997, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, particularly in the interpretation of contractual clauses and the requirement for clear and unequivocal language to exclude or limit liability. However, it also differs in significant ways, such as the absence of a clear and unequivocal indemnity clause and the additional factor of the administrative burden of the 1 per cent donation to the Albright Cancer Research Foundation.
-
-The proposed legal rule from HCA007939/1997—that exclusion or indemnity clauses are enforceable only if they are clear and unequivocal in their language and scope—finds support in both cases. However, its broader implications must be considered, especially in light of the unique circumstances of the current case.
-
-We've weighed arguments from both sides, particularly the need for clear and unequivocal language in exclusion clauses to ensure fairness and the practical realities of the administrative burden faced by M-Scan Ltd. The argument that the exclusion clause in the current case is not as clear and unequivocal as the indemnity clause in HCA007939/1997 is compelling. This lack of clarity could lead to unjust outcomes and increased litigation, which the precedent aimed to avoid.
-
-Considering the underlying legal principles of fairness, clarity, and the intention of the parties, and the potential impact on future cases, we conclude that Care 2 U Ltd cannot rely on the exclusion clause to avoid liability for the damage to the scanner. The exclusion clause in the contract between M-Scan Ltd and Vulcanicity Ltd is not sufficiently clear and unequivocal to exclude liability, especially given the administrative burden and the potential impact on third parties like the Albright Cancer Research Foundation.
-
-Therefore, the decision reached is that the exclusion clause is not enforceable in this instance, and Care 2 U Ltd may be held liable for the damage to the scanner. This decision aligns with legal precedent while also serving justice and legal consistency by ensuring that exclusion clauses are interpreted in a manner that is fair and equitable, taking into account the practical realities and the intentions of the parties involved.
-
-
-# Contract Law: Whether the driver from Care 2 U Ltd's failure to recognize the paperwork affects the enforceability of the exclusion clause
-
-## Reasoning by analogy: cases
-
-### Step 1: Outcome of Precedent (CACV 426/2000)
-In the case of CACV 426/2000 BETWEEN AU KWOK HUNG Applicant AND THE APPEAL PANEL APPOINTED UNDER SECTION 7A(1) OF THE HOUSING ORDINANCE (CAP. 283) Respondent (precedent p), the facts were as follows: Mr. Au Kwok Hung, a tenant, failed to pay rent due to illness and absence from Hong Kong. The Housing Authority terminated his tenancy and served a notice to quit. Mr. Au did not appeal within the statutory 15-day period due to his absence and ill-health. The appeal panel refused to entertain his late appeal, and this decision was upheld by the Court of Appeal. The court ruled that the statutory time limit for lodging an appeal was imperative and not capable of being waived, thus barring Mr. Au's appeal (outcome o).
-
-### Step 2: Shared Legal Concepts
-Both in CACV 426/2000 and in our current case, we see the following legal concepts and fact patterns:
-
-- **Legal Concept 1: Statutory Time Limits and Compliance**
-  - **Fact Pattern 1**: In CACV 426/2000, the statutory time limit for lodging an appeal was strictly enforced, and non-compliance barred the appeal. In the current case, the exclusion clause requires a systems check to be performed and documented before transportation.
-
-- **Legal Concept 2: Contractual Obligations and Exclusion Clauses**
-  - **Fact Pattern 2**: In CACV 426/2000, the Housing Authority's right to terminate the tenancy was exercised according to the terms of the lease and statutory provisions. In the current case, the exclusion clause in the contract between M-Scan Ltd and its customers outlines specific conditions under which liability is excluded.
-
-- **Legal Concept 3: Procedural Requirements and Consequences of Non-Compliance**
-  - **Fact Pattern 3**: In CACV 426/2000, the failure to comply with the procedural requirement (lodging an appeal within 15 days) resulted in the loss of the right to appeal. In the current case, Vulcanicity Ltd's failure to perform the required systems check before transportation may affect the enforceability of the exclusion clause.
-
-- **Legal Concept 4: Interpretation of Legislative and Contractual Provisions**
-  - **Fact Pattern 4**: In CACV 426/2000, the court interpreted the legislative provisions strictly, emphasizing the importance of compliance with statutory requirements. In the current case, the interpretation of the exclusion clause will determine whether Care 2 U Ltd can rely on it to exclude liability for damages.
-
-### Step 3: Extraction of Legal Rule from Precedent (CACV 426/2000)
-This suggests a general rule that when we see a fact pattern involving a failure to comply with a procedural requirement that is explicitly stated as imperative in a contract or statute, the court should decide that non-compliance results in the loss of the associated right or benefit (outcome o). This rule was justified in CACV 426/2000 because the strict enforcement of procedural requirements ensures clarity, predictability, and fairness in legal and contractual relationships. The positive effects (E+) of outcome o include upholding the integrity of statutory and contractual provisions, promoting adherence to agreed-upon terms, and preventing potential abuses or uncertainties that could arise from non-compliance. The negative effects (E-) are outweighed by these benefits, as the rule provides a clear and enforceable standard for all parties involved.
-
-Applying this rule to the current case, Care 2 U Ltd can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, provided that the procedural requirement (the systems check) was not complied with by Vulcanicity Ltd. The failure to perform the systems check as stipulated in the contract would bar Vulcanicity Ltd from claiming damages for any issues that arose during transportation, as the exclusion clause would be enforceable under the established legal rule.
-
-### Step 4: Applying the Rule to the Current Case
-
-In the current case, the same legal concepts and fact patterns as the precedent (CACV 426/2000) are present:
-
-- **Legal Concept 1: Statutory Time Limits and Compliance**
-  - **Fact Pattern 1**: In CACV 426/2000, the statutory time limit for lodging an appeal was strictly enforced, and non-compliance barred the appeal. In the current case, the exclusion clause requires a systems check to be performed and documented before transportation.
-
-- **Legal Concept 2: Contractual Obligations and Exclusion Clauses**
-  - **Fact Pattern 2**: In CACV 426/2000, the Housing Authority's right to terminate the tenancy was exercised according to the terms of the lease and statutory provisions. In the current case, the exclusion clause in the contract between M-Scan Ltd and its customers outlines specific conditions under which liability is excluded.
-
-- **Legal Concept 3: Procedural Requirements and Consequences of Non-Compliance**
-  - **Fact Pattern 3**: In CACV 426/2000, the failure to comply with the procedural requirement (lodging an appeal within 15 days) resulted in the loss of the right to appeal. In the current case, Vulcanicity Ltd's failure to perform the required systems check before transportation may affect the enforceability of the exclusion clause.
-
-- **Legal Concept 4: Interpretation of Legislative and Contractual Provisions**
-  - **Fact Pattern 4**: In CACV 426/2000, the court interpreted the legislative provisions strictly, emphasizing the importance of compliance with statutory requirements. In the current case, the interpretation of the exclusion clause will determine whether Care 2 U Ltd can rely on it to exclude liability for damages.
-
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in CACV 426/2000. This decision would be justified because, as in CACV 426/2000, it would have the following positive effects:
-
-1. **Upholding Contractual Integrity**: Enforcing the exclusion clause as written ensures that the terms agreed upon by the parties are respected and upheld. This promotes certainty and predictability in contractual relationships, which is fundamental to commercial transactions.
-
-2. **Encouraging Compliance with Procedural Requirements**: By strictly enforcing the requirement for a systems check, the court would encourage parties to adhere to procedural obligations, thereby reducing disputes and potential liabilities.
-
-3. **Preventing Potential Abuses**: Allowing exceptions to the exclusion clause could lead to abuses where parties might neglect procedural requirements and still seek to hold others liable. Strict enforcement prevents such scenarios and maintains fairness.
-
-4. **Efficiency in Legal and Commercial Practices**: Clear and enforceable standards reduce the need for litigation and administrative burdens, promoting efficiency in both legal and commercial practices.
-
-Therefore, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in CACV 426/2000, it would uphold the integrity of contractual provisions, encourage compliance with procedural requirements, prevent potential abuses, and promote efficiency in legal and commercial practices.
-
-### Step 5: Distinction Due to Missing Feature in Current Case
-Skipped
-
-### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the exclusion clause's specific procedural requirement for a systems check, that was not present in CACV 426/2000. This factor significantly alters the situation described by the shared fact pattern of procedural requirements and consequences of non-compliance. In CACV 426/2000, the procedural requirement was a statutory time limit for lodging an appeal, which was strictly enforced to maintain legal certainty and efficiency. However, in our current case, the procedural requirement is a contractual obligation to perform a systems check before transportation.
-
-Due to the presence of this specific procedural requirement in the exclusion clause, applying the same outcome (strict enforcement of procedural requirements) in our case would have more negative consequences than positive ones. The negative consequences include potentially unjustly absolving Care 2 U Ltd of liability for damages that may have occurred during transportation, despite the procedural oversight by a new driver who did not recognize the paperwork. This could lead to an unfair outcome for Vulcanicity Ltd, who may have genuinely handed over the equipment in good condition.
-
-Unlike in CACV 426/2000, where the strict enforcement of the statutory time limit was justified to uphold legal certainty and prevent abuses, the strict enforcement of the exclusion clause in our case could result in an inequitable situation. The balance of positive and negative effects is significantly altered due to the specific context and nature of the procedural requirement in the exclusion clause. Therefore, the court should consider the unique circumstances of the current case and potentially allow for some flexibility in interpreting the exclusion clause to ensure a fair and just outcome.
-
-### Step 7: Argument from Undesirable Consequence
-
-We propose that the correct rule from CACV 426/2000 should be stated as: "When both a statutory or contractual procedural requirement and the specific context of the procedural requirement being related to a systems check are present, the court should decide that non-compliance results in the loss of the associated right or benefit." Omitting the specific context of the procedural requirement being related to a systems check from this rule could lead to the undesirable consequence of unjustly absolving a party of liability for damages that may have occurred during transportation, despite procedural oversights. Indeed, the opinion in CACV 426/2000 explicitly states that strict compliance with procedural requirements is crucial to maintain legal certainty and efficiency. However, this strict compliance was in the context of a statutory time limit, not a contractual systems check.
-
-### Step 8: Distinction from Non-occurring Undesirable Consequence
-
-The rule established in CACV 426/2000 was clearly designed to prevent the undesirable consequence of legal uncertainty and inefficiency that could arise from allowing late appeals. However, in our current case, there's no risk of such legal uncertainty or inefficiency occurring. The procedural requirement in question is a contractual obligation to perform a systems check before transportation, which is fundamentally different from a statutory time limit for lodging an appeal. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves—maintaining legal certainty and efficiency in the context of statutory time limits—is not relevant to our situation. Instead, the court should consider the unique circumstances of the current case and potentially allow for some flexibility in interpreting the exclusion clause to ensure a fair and just outcome.
-
-### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the specific context of a statutory time limit, which was present in the precedent case CACV 426/2000, requiring this factor for all similar cases of procedural requirements and consequences of non-compliance would lead to an undesirable consequence. Specifically, it would unjustly absolve parties of liability for damages that may have occurred due to procedural oversights, even when those oversights are minor or understandable. Conversely, not requiring the specific context of a statutory time limit would allow for a more nuanced and fair interpretation of exclusion clauses in contracts, which better aligns with the underlying principles of contract law, such as fairness, equity, and the intention of the parties.
-
-### Step 10: Feature Substitution
-Although our case lacks the specific context of a statutory time limit, which was present in CACV 426/2000, we have the additional factor of the exclusion clause's specific procedural requirement for a systems check. This factor, when considered alongside the shared circumstances of procedural requirements and consequences of non-compliance, serves a similar function to the statutory time limit in the precedent case. Given the presence of this specific procedural requirement, we submit that the reasoning in CACV 426/2000 still applies, as the positive effects on contractual integrity, encouraging compliance with procedural requirements, and preventing potential abuses would still outweigh any potential negative consequences, just as they did in the precedent case.
-
-### Step 11: Conclusion
-
-After careful consideration of all arguments presented, including the initial analogy to CACV 426/2000, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, particularly in terms of the importance of procedural compliance and the consequences of non-compliance. Both cases involve strict adherence to procedural requirements—statutory time limits in CACV 426/2000 and contractual obligations in the current case.
-
-However, the key difference lies in the nature of the procedural requirement. In CACV 426/2000, the procedural requirement was a statutory time limit for lodging an appeal, which was strictly enforced to maintain legal certainty and efficiency. In the current case, the procedural requirement is a contractual obligation to perform a systems check before transportation, which serves a different function and context.
-
-The proposed legal rule from CACV 426/2000—that non-compliance with a procedural requirement results in the loss of the associated right or benefit—finds support in both cases. However, its broader implications must be considered. We've weighed arguments from both sides, particularly the need for strict compliance to uphold contractual integrity and the potential for unjust outcomes if minor procedural oversights lead to significant consequences.
-
-Considering the underlying legal principles of fairness, equity, and the intention of the parties, and the potential impact on future cases, we conclude that the exclusion clause in the contract between M-Scan Ltd and its customers should be interpreted with some flexibility. While procedural requirements are important, the specific context and nature of the requirement in this case—performing a systems check—warrant a more nuanced approach.
-
-Therefore, Care 2 U Ltd cannot solely rely on the exclusion clause to absolve itself of liability for damages during transportation if Vulcanicity Ltd can provide evidence that the equipment was in working order when handed over. This decision aligns with legal precedent while also serving justice and legal consistency, ensuring that procedural requirements are respected without leading to unjust outcomes.
-
-In conclusion, the exclusion clause should be enforced with consideration of the specific circumstances, and Care 2 U Ltd's liability should be assessed based on the evidence of the equipment's condition at the time of handover. This approach balances the need for procedural compliance with the principles of fairness and equity.
-
-
-# Contract Law: Whether the exclusion clause is reasonable under the Unfair Contract Terms Ordinance (UCTO) in Hong Kong
-
-## Deductive reasoning: legislation
-
-### Relevant law:
-
-Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 2 and 3, Section 3 Subsection 1, 2, 4, 5, and 6
-
-### Major Premise:
-
-1. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 2
-
-   Conditions:
-   - A contract term or notice seeks to exclude or restrict liability for negligence
-   - The exclusion or restriction is for other loss or damage (not death or personal injury)
-   - The term or notice satisfies the requirement of reasonableness
-
-   Consequences:
-   - The exclusion or restriction of liability for negligence is valid
-
-   Exceptions:
-   - The term or notice does not satisfy the requirement of reasonableness
-
-2. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 3
-
-   Conditions:
-   - A contract term or notice seeks to exclude or restrict liability for negligence
-   - A person’s agreement to or awareness of the term or notice is present
-
-   Consequences:
-   - The agreement to or awareness of the term or notice is not of itself to be taken as indicating voluntary acceptance of any risk
-
-   Exceptions:
-   - None
-
-3. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 1
-
-   Conditions:
-   - A contract term or notice seeks to exclude or restrict liability
-   - The term or notice satisfies the requirement of reasonableness
-
-   Consequences:
-   - The court or arbitrator shall determine that the term was fair and reasonable to be included having regard to the circumstances known or ought reasonably to have been known to or in the contemplation of the parties when the contract was made
-
-   Exceptions:
-   - None
-
-4. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 2
-
-   Conditions:
-   - A contract term or notice seeks to exclude or restrict liability
-   - The term or notice satisfies the requirement of reasonableness
-
-   Consequences:
-   - The court or arbitrator shall have regard to the matters specified in Schedule 2
-
-   Exceptions:
-   - The court or arbitrator holds, in accordance with any rule of law, that the term is not a term of the contract
-
-5. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 4
-
-   Conditions:
-   - A contract term or notice seeks to exclude or restrict liability
-   - The term or notice satisfies the requirement of reasonableness
-
-   Consequences:
-   - The court or arbitrator shall have regard to the language in which the term or notice is expressed and whether it is understood by the person against whom it is sought to be relied upon
-
-   Exceptions:
-   - None
-
-6. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 5
-
-   Conditions:
-   - A contract term or notice seeks to restrict liability to a specified sum of money
-   - The term or notice satisfies the requirement of reasonableness
-
-   Consequences:
-   - The court or arbitrator shall have regard in particular to the resources available to meet the liability and the possibility of covering the liability by insurance
-
-   Exceptions:
-   - None
-
-7. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 6
-
-   Conditions:
-   - A contract term or notice seeks to exclude or restrict liability
-   - The term or notice satisfies the requirement of reasonableness
-
-   Consequences:
-   - The person claiming that the term or notice satisfies the requirement of reasonableness must prove that it does
-
-   Exceptions:
-   - None
-
-### Minor Premise:
-
-1. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 2:
-   - The contract term in question seeks to exclude or restrict liability for negligence (Care 2 U Ltd not liable for damages during transportation if the user has not undertaken the recommended systems check).
-   - The exclusion or restriction is for other loss or damage (not death or personal injury).
-   - The term must satisfy the requirement of reasonableness.
-   - The term does not satisfy the requirement of reasonableness because the driver from Care 2 U Ltd was new and did not recognize the difference in paperwork, which indicates a lack of proper communication and understanding.
-
-2. Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 3:
-   - The contract term seeks to exclude or restrict liability for negligence.
-   - Vulcanicity Ltd’s agreement to or awareness of the term is present.
-   - The agreement to or awareness of the term is not of itself to be taken as indicating voluntary acceptance of any risk.
-
-3. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 1:
-   - The contract term seeks to exclude or restrict liability.
-   - The term must satisfy the requirement of reasonableness.
-   - The court or arbitrator shall determine that the term was fair and reasonable to be included having regard to the circumstances known or ought reasonably to have been known to or in the contemplation of the parties when the contract was made.
-   - Given the new driver’s lack of recognition of the paperwork, the term may not be considered fair and reasonable.
-
-4. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 2:
-   - The contract term seeks to exclude or restrict liability.
-   - The term must satisfy the requirement of reasonableness.
-   - The court or arbitrator shall have regard to the matters specified in Schedule 2.
-   - The term may not satisfy the requirement of reasonableness due to the lack of proper communication and understanding.
-
-5. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 4:
-   - The contract term seeks to exclude or restrict liability.
-   - The term must satisfy the requirement of reasonableness.
-   - The court or arbitrator shall have regard to the language in which the term or notice is expressed and whether it is understood by the person against whom it is sought to be relied upon.
-   - The term may not be understood by the new driver, indicating a lack of reasonableness.
-
-6. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 5:
-   - The contract term seeks to restrict liability to a specified sum of money.
-   - The term must satisfy the requirement of reasonableness.
-   - The court or arbitrator shall have regard in particular to the resources available to meet the liability and the possibility of covering the liability by insurance.
-   - The term may not satisfy the requirement of reasonableness due to the lack of proper communication and understanding.
-
-7. Control of Exemption Clauses Ordinance Cap. 71 Section 3 Subsection 6:
-   - The contract term seeks to exclude or restrict liability.
-   - The term must satisfy the requirement of reasonableness.
-   - The person claiming that the term or notice satisfies the requirement of reasonableness must prove that it does.
-   - Care 2 U Ltd must prove that the term satisfies the requirement of reasonableness, which may be difficult given the new driver’s lack of recognition of the paperwork.
-
-### Conclusion:
-
-The exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd does not satisfy the requirement of reasonableness under the Control of Exemption Clauses Ordinance Cap. 71. Therefore, Care 2 U Ltd cannot rely on the exclusion clause to avoid liability for the damages claimed by Vulcanicity Ltd.
+Control of Exemption Clauses Ordinance Cap. 71 Section 7 Subsection 1 and 2 applies. The exclusion clause in the "Seller’s Liability" provision must satisfy the requirement of reasonableness to be valid. Given the circumstances, including the long-standing business relationship and the sudden change in the quality of the crabs supplied, it is likely that a court would find the exclusion clause unreasonable and therefore invalid. Consequently, Neptune cannot exclude liability for the financial losses suffered by Wong Kee due to the supply of baby mud crabs.
 
 ## Deductive Reasoning: cfa
 
@@ -1276,850 +1644,1104 @@ Control of Exemption Clauses Ordinance, Cap. 71
 ### Minor Premise:
 
 1. Control of Exemption Clauses Ordinance, Cap. 71:
-- The standard form contract between M-Scan Ltd and its customers contains an exclusion clause that restricts the liability of Care 2 U Ltd for any damages done during transportation, delivery, or return, where the user of the equipment has not undertaken the recommended systems check and presented the results in writing to both Care 2 U Ltd and M-Scan Ltd.
-- Vulcanicity Ltd failed to undertake the systems check before the scanner was collected.
-- The driver from Care 2 U Ltd did not recognize the difference in the paperwork and accepted the equipment.
-- Vulcanicity Ltd claims the equipment was in working order when given to Care 2 U Ltd and that the damage must have happened in transit.
+- The contract between Wong Kee and Neptune contains a "Seller’s Liability" provision that excludes all liability for any loss or damage arising from any defect in any seafood product supplied, however caused.
+- Wong Kee suffered financial losses due to Neptune supplying only baby mud crabs, which were unsuitable for Wong Kee's signature dish.
+- The exclusion clause in the "Seller’s Liability" provision would restrict Neptune's liability for the loss suffered by Wong Kee due to the defective product (baby mud crabs).
+- According to the Control of Exemption Clauses Ordinance, Cap. 71, such a term shall be of no effect unless it satisfies the requirement of reasonableness.
 
 ### Conclusion:
 
-The exclusion clause in the contract between M-Scan Ltd and its customers, including Vulcanicity Ltd, would be of no effect unless it satisfies the requirement of reasonableness as stated in section 3(1) of the Control of Exemption Clauses Ordinance, Cap.71. Given that the clause places a significant burden on the customer to perform a systems check and provide written results, its reasonableness may be questioned. Therefore, Care 2 U Ltd may not be able to rely on the exclusion clause to avoid liability for the damage to the equipment.
-
-### Relevant law:
-
-Contract Law principles on variation of contract terms
-
-### Major Premise:
-
-1. Contract Law principles on variation of contract terms
-
-   Conditions:
-   - A contract term is varied unilaterally by one party
-   - The variation affects the obligations or benefits of the other party
-
-   Consequences:
-   - The variation may be considered a breach of contract unless agreed upon by both parties
-
-   Exceptions:
-   - Unless the contract allows for such unilateral variation or the other party consents to the variation
-
-### Minor Premise:
-
-1. Contract Law principles on variation of contract terms:
-- M-Scan Ltd unilaterally decided to cease the 1 per cent donation to the Albright Cancer Research Foundation and reduce the annual donation from 10 per cent to 5 per cent.
-- This variation affects the benefits that the Albright Cancer Research Foundation was expecting under the original contract terms.
-- The existing customer base agreed to the new arrangements, but the Albright Cancer Research Foundation did not consent to this change and claims it will have severe funding implications.
-
-### Conclusion:
-
-The unilateral variation of the donation terms by M-Scan Ltd may be considered a breach of contract with respect to the Albright Cancer Research Foundation, as the Foundation did not consent to the change and the original contract did not allow for such unilateral variation. Therefore, the Albright Cancer Research Foundation may have a valid claim for the promised revenue from M-Scan Ltd.
+The exclusion clause in the "Seller’s Liability" provision is not valid under the Control of Exemption Clauses Ordinance, Cap. 71, unless Neptune can prove that the clause satisfies the requirement of reasonableness. Given the significant financial loss and the deviation from the expected product quality, it is unlikely that the clause would be deemed reasonable. Therefore, the exclusion clause is likely to be of no effect, and Neptune may be liable for the losses suffered by Wong Kee.
 
 ## Reasoning by analogy: cases
 
-### Step 1: Outcome of Precedent (CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD)
-
-In the case of CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD (precedent p), the court ruled that the exclusion clauses in the contract were enforceable because the plaintiff failed to plead and prove the reasonableness of the clauses under the Control of Exemption Clauses Ordinance (Cap 71). The court emphasized that the party seeking to rely on an exclusion clause must plead and prove its reasonableness, and failure to do so would preclude reliance on the clause.
+### Step 1: Outcome of Precedent (INVEST GAIN LTD v. NOVEL GOOD LTD)
+In the case of INVEST GAIN LTD v. NOVEL GOOD LTD [2019] HKCFI 1633; HCA 939/2013 (precedent p), the court dealt with the issue of whether a notice clause in a contract was a "bald notification" clause or required specific details to be provided. The court ruled that the clause in question was a "bald notification" clause, meaning that a general notice of a claim was sufficient without the need to specify the details of the claim or the basis of such claim.
 
 ### Step 2: Shared Legal Concepts
+Both in INVEST GAIN LTD v. NOVEL GOOD LTD and in our current case, we see the following legal concepts and fact patterns:
+- **Legal Concept 1: Interpretation of Contractual Clauses**
+  - **Fact Pattern 1**: In both cases, the interpretation of specific clauses within a contract is at issue. In INVEST GAIN LTD v. NOVEL GOOD LTD, it was the interpretation of a notice clause. In our current case, it is the interpretation of an exclusion clause.
+- **Legal Concept 2: Exclusion Clauses**
+  - **Fact Pattern 2**: Both cases involve clauses that potentially limit or exclude liability. In INVEST GAIN LTD v. NOVEL GOOD LTD, the clause in question was argued to be a limitation clause but was found to be an exclusion clause. In our current case, the "Seller’s Liability" provision is an exclusion clause.
+- **Legal Concept 3: Business Common Sense**
+  - **Fact Pattern 3**: The court in INVEST GAIN LTD v. NOVEL GOOD LTD considered whether the natural and ordinary meaning of the clause flouted business common sense. Similarly, in our current case, the interpretation of the exclusion clause should be examined in light of business common sense.
+- **Legal Concept 4: Contractual Time-Bar**
+  - **Fact Pattern 4**: In INVEST GAIN LTD v. NOVEL GOOD LTD, the clause imposed a contractual time-bar for claims. In our current case, while not a time-bar, the exclusion clause aims to limit the seller's liability, which has a similar effect of limiting the scope of potential claims.
 
-Both in CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD and in our current case, we see the following legal concepts and fact patterns:
-
-- **Legal Concept 1: Exclusion Clauses**: 
-  - **Fact Pattern 1**: In both cases, the contracts contain exclusion clauses that limit the liability of one party for certain types of damages.
-  
-- **Legal Concept 2: Reasonableness under Control of Exemption Clauses Ordinance (Cap 71)**:
-  - **Fact Pattern 2**: In both cases, the reasonableness of the exclusion clauses is challenged under the Control of Exemption Clauses Ordinance (Cap 71).
-
-- **Legal Concept 3: Pleading and Proving Reasonableness**:
-  - **Fact Pattern 3**: In both cases, the party seeking to rely on the exclusion clause must plead and prove its reasonableness.
-
-- **Legal Concept 4: Consequences of Failure to Plead Reasonableness**:
-  - **Fact Pattern 4**: In both cases, failure to plead and prove the reasonableness of the exclusion clause results in the clause being unenforceable.
-
-### Step 3: Extraction of Legal Rule from Precedent (CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD)
-
-This suggests a general rule that when we see a fact pattern where an exclusion clause is challenged under the Control of Exemption Clauses Ordinance (Cap 71), the court should decide that the party seeking to rely on the exclusion clause must plead and prove its reasonableness. This rule was justified in CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD because the positive effects (E+) of ensuring that exclusion clauses are reasonable and fair outweigh the negative effects (E-) of potentially invalidating contractual terms that have not been properly justified. This approach upholds the underlying values and principles of contract law, which include fairness, transparency, and the protection of parties from unreasonable and unfair contractual terms.
+### Step 3: Extraction of Legal Rule from Precedent (INVEST GAIN LTD v. NOVEL GOOD LTD)
+This suggests a general rule that when we see a clause that aims to limit or exclude liability (fact pattern i*), the court should decide based on the natural and ordinary meaning of the clause, considering business common sense and the context of the agreement (outcome o). This rule was justified in INVEST GAIN LTD v. NOVEL GOOD LTD because the positive effects (E+) of providing clarity and predictability in business transactions outweighed the negative effects (E-) of potentially limiting the scope of claims. The court emphasized the importance of interpreting contractual clauses in a way that aligns with the reasonable expectations of the parties and the commercial context in which the agreement was made.
 
 ### Step 4: Applying the Rule to the Current Case
 
-In the current case, the same legal concepts and fact patterns as the precedent (CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD) are present:
+In the current case, the same legal concepts and fact patterns as the precedent (INVEST GAIN LTD v. NOVEL GOOD LTD) are present:
 
-- **Legal Concept 1: Exclusion Clauses**:
-  - **Fact Pattern 1**: The contract between M-Scan Ltd and its customers contains an exclusion clause that limits the liability of Care 2 U Ltd for damages during transportation, delivery, or return if the user has not undertaken the recommended systems check and presented the results in writing.
+- **Legal Concept 1: Interpretation of Contractual Clauses**
+  - **Fact Pattern 1**: In both cases, the interpretation of specific clauses within a contract is at issue. In INVEST GAIN LTD v. NOVEL GOOD LTD, it was the interpretation of a notice clause. In our current case, it is the interpretation of an exclusion clause.
+- **Legal Concept 2: Exclusion Clauses**
+  - **Fact Pattern 2**: Both cases involve clauses that potentially limit or exclude liability. In INVEST GAIN LTD v. NOVEL GOOD LTD, the clause in question was argued to be a limitation clause but was found to be an exclusion clause. In our current case, the "Seller’s Liability" provision is an exclusion clause.
+- **Legal Concept 3: Business Common Sense**
+  - **Fact Pattern 3**: The court in INVEST GAIN LTD v. NOVEL GOOD LTD considered whether the natural and ordinary meaning of the clause flouted business common sense. Similarly, in our current case, the interpretation of the exclusion clause should be examined in light of business common sense.
+- **Legal Concept 4: Contractual Time-Bar**
+  - **Fact Pattern 4**: In INVEST GAIN LTD v. NOVEL GOOD LTD, the clause imposed a contractual time-bar for claims. In our current case, while not a time-bar, the exclusion clause aims to limit the seller's liability, which has a similar effect of limiting the scope of potential claims.
 
-- **Legal Concept 2: Reasonableness under Control of Exemption Clauses Ordinance (Cap 71)**:
-  - **Fact Pattern 2**: The reasonableness of the exclusion clause in the contract between M-Scan Ltd and its customers is challenged under the Control of Exemption Clauses Ordinance (Cap 71).
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in INVEST GAIN LTD v. NOVEL GOOD LTD, it would have the following positive effects:
 
-- **Legal Concept 3: Pleading and Proving Reasonableness**:
-  - **Fact Pattern 3**: Care 2 U Ltd, seeking to rely on the exclusion clause, must plead and prove its reasonableness.
+1. **Clarity and Predictability in Business Transactions**: Just as in the precedent case, interpreting the exclusion clause in a way that aligns with its natural and ordinary meaning would provide clarity and predictability for both parties. This is crucial in commercial relationships where parties need to understand their rights and obligations clearly to make informed business decisions.
 
-- **Legal Concept 4: Consequences of Failure to Plead Reasonableness**:
-  - **Fact Pattern 4**: Failure to plead and prove the reasonableness of the exclusion clause would result in the clause being unenforceable.
+2. **Alignment with Business Common Sense**: The court in the precedent case emphasized the importance of business common sense in interpreting contractual clauses. In our current case, interpreting the exclusion clause to mean that Neptune is not liable for any defects in the seafood supplied, as long as the clause is clear and unambiguous, aligns with the commercial reality that suppliers often seek to limit their liability to manage risks effectively.
 
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD. This decision would be justified because, as in the precedent case, it would have the following positive effects:
+3. **Respect for Contractual Autonomy**: Both cases involve sophisticated commercial parties who negotiated the terms of their agreements. Upholding the exclusion clause respects the parties' autonomy to allocate risks as they see fit. This is particularly important in commercial contracts where parties are presumed to have equal bargaining power and the ability to negotiate terms that reflect their respective interests.
 
-1. **Ensuring Fairness and Transparency**: By requiring Care 2 U Ltd to plead and prove the reasonableness of the exclusion clause, the court ensures that the clause is fair and transparent, protecting the interests of the customers, including Vulcanicity Ltd.
+4. **Consistency with Legal Principles**: The precedent case established that exclusion clauses should be interpreted based on their natural and ordinary meaning, considering the context and purpose of the agreement. Applying this principle consistently ensures that similar cases are treated alike, promoting fairness and legal certainty.
 
-2. **Protection from Unreasonable Terms**: This approach protects parties from being bound by unreasonable and unfair contractual terms, which is a fundamental principle of contract law.
-
-3. **Encouraging Proper Pleading and Evidence**: It encourages parties to properly plead and provide evidence for the reasonableness of exclusion clauses, promoting thorough and well-supported legal arguments.
-
-4. **Consistency in Legal Application**: Applying the same rule ensures consistency in the application of the law, providing predictability and stability in contractual relationships.
-
-Therefore, the court should require Care 2 U Ltd to plead and prove the reasonableness of the exclusion clause. If Care 2 U Ltd fails to do so, the exclusion clause should be deemed unenforceable, and Vulcanicity Ltd should not be precluded from claiming damages for the alleged damage to the equipment during transit.
+Given these positive effects, we submit that the court should interpret the "Seller’s Liability" provision in the current case as a valid exclusion clause under the Unfair Contract Terms Ordinance (Cap. 71) in Hong Kong. This interpretation would provide clarity, align with business common sense, respect contractual autonomy, and ensure consistency with established legal principles.
 
 ### Step 5: Distinction Due to Missing Feature in Current Case
-Skipped
+In the precedent case **INVEST GAIN LTD v. NOVEL GOOD LTD**, the court's decision was significantly influenced by the presence of a **"bald notification" clause**. This concept was key in ensuring that the benefits of the ruling, such as providing clarity and predictability in business transactions, outweighed any potential drawbacks because it allowed for a general notice of a claim without the need for specific details, which aligned with business common sense and the commercial context of the agreement.
+
+However, in our current case, this crucial **"bald notification" clause** is notably absent. Instead, we are dealing with an **exclusion clause** in the "Seller’s Liability" provision, which explicitly seeks to exclude all liability for any loss or damage arising from any defect in any seafood product supplied. The absence of a "bald notification" clause means that the same rationale used in the precedent case cannot be directly applied here, as the exclusion clause in our case is more stringent and specific in its intent to limit liability.
 
 ### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the charitable donation to the Albright Cancer Research Foundation, that was not present in [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD]. This factor significantly alters the situation described by [i*] because it introduces an element of public interest and reliance on promised funds for charitable purposes. Due to this factor, applying the same outcome in our case would have more negative consequences such as undermining public trust in contractual commitments to charitable donations and potentially harming the financial stability of the charity, unlike in [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD] because that case did not involve any public interest or reliance on charitable donations.
+Our current case involves an important factor **(the Unfair Contract Terms Ordinance (Cap. 71))** that was not present in **INVEST GAIN LTD v. NOVEL GOOD LTD**. This factor significantly alters the situation described by the shared fact pattern because the Unfair Contract Terms Ordinance (UCTO) imposes statutory controls on exclusion clauses, particularly in consumer and commercial contracts, to prevent unfair terms.
+
+Due to the presence of the UCTO, applying the same outcome in our case would have more negative consequences such as potentially upholding an unfair exclusion clause that could leave Wong Kee without any remedy for the defective crabs supplied by Neptune. Unlike in **INVEST GAIN LTD v. NOVEL GOOD LTD**, where the focus was on the sufficiency of notice under a "bald notification" clause, the current case requires a careful examination of the fairness and reasonableness of the exclusion clause under the UCTO. This statutory framework aims to protect parties from unfair contractual terms, and thus, the exclusion clause in our case must be scrutinized to ensure it does not contravene the principles of fairness and reasonableness mandated by the UCTO.
 
 ### Step 7: Argument from Undesirable Consequence
-
-We propose that the correct rule from [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD] should be stated as 'When both [the presence of an exclusion clause in a contract] and [the need to plead and prove the reasonableness of the clause under the Control of Exemption Clauses Ordinance (Cap 71)] are present, the court should decide [that the party seeking to rely on the exclusion clause must plead and prove its reasonableness].' Omitting [the need to consider the public interest and reliance on charitable donations] from this rule could lead to [undesirable consequence q, such as undermining public trust in contractual commitments to charitable donations and potentially harming the financial stability of the charity]. Indeed, the opinion in [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD] explicitly states that [the reasonableness of the exclusion clause must be pleaded and proved, which is crucial to ensuring fairness and transparency in contractual relationships].
+We propose that the correct rule from **INVEST GAIN LTD v. NOVEL GOOD LTD** should be stated as: "When both [the interpretation of contractual clauses] and [the presence of a statutory framework like the Unfair Contract Terms Ordinance (Cap. 71)] are present, the court should decide [based on the fairness and reasonableness of the clause under the statutory framework]." Omitting [the presence of a statutory framework like the Unfair Contract Terms Ordinance (Cap. 71)] from this rule could lead to [the undesirable consequence of upholding unfair exclusion clauses that leave one party without any remedy for defects, thus contravening the principles of fairness and reasonableness mandated by the UCTO].
 
 ### Step 8: Distinction from Non-occurring Undesirable Consequence
-
-The rule established in [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD] was clearly designed to prevent [the undesirable consequence of parties being bound by unreasonable and unfair contractual terms without proper justification]. However, in our current case, there's an additional risk of [undermining public trust in contractual commitments to charitable donations and potentially harming the financial stability of the charity, which was not a concern in the precedent case]. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not fully relevant to our situation. Instead, the court should consider the public interest and reliance on charitable donations when determining the enforceability of the exclusion clause and the modification of the donation terms.
+The rule established in **INVEST GAIN LTD v. NOVEL GOOD LTD** was clearly designed to prevent [the undesirable consequence of parties being unable to rely on general notices of claims, thus ensuring clarity and predictability in business transactions]. However, in our current case, there's no risk of [parties being unable to rely on general notices of claims] occurring. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. Instead, the focus should be on ensuring that the exclusion clause complies with the fairness and reasonableness requirements of the Unfair Contract Terms Ordinance (Cap. 71).
 
 ### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the specific factor of the plaintiff's failure to plead and prove the reasonableness of the exclusion clause, which was present in the precedent case [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD], requiring this factor for all similar cases of exclusion clauses being challenged under the Control of Exemption Clauses Ordinance (Cap 71) would lead to an undesirable consequence. Specifically, it would undermine the enforcement of reasonable exclusion clauses that have been implicitly accepted by both parties through their conduct and the terms of the contract. Conversely, not requiring the explicit pleading and proof of reasonableness in every case would allow for the enforcement of exclusion clauses that are industry-standard and have been implicitly agreed upon, which better aligns with the underlying principles of contract law, such as the freedom to contract and the enforcement of mutually agreed terms.
+While it's true that our case lacks the "bald notification" clause, which was present in the precedent case **INVEST GAIN LTD v. NOVEL GOOD LTD**, requiring this factor for all similar cases of interpreting exclusion clauses would lead to the undesirable consequence of potentially upholding unfair exclusion clauses that leave one party without any remedy for defects. Conversely, not requiring the "bald notification" clause would allow for a more nuanced and fair assessment of exclusion clauses under the Unfair Contract Terms Ordinance (Cap. 71), which better aligns with the underlying principles of fairness and reasonableness in contract law. This approach ensures that exclusion clauses are scrutinized to prevent unfair terms, thereby protecting the interests of both parties in a commercial contract.
 
 ### Step 10: Feature Substitution
-Although our case lacks the specific factor of the plaintiff's failure to plead and prove the reasonableness of the exclusion clause, which was present in [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD], we have the additional factor of the public interest and reliance on charitable donations. This factor, when considered alongside the shared circumstances of the exclusion clause being challenged under the Control of Exemption Clauses Ordinance (Cap 71), serves a similar function to the need for explicit pleading and proof of reasonableness in the precedent case. Given the presence of the public interest and reliance on charitable donations, we submit that the reasoning in [CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD] still applies, as the positive effects on legal values, such as fairness, transparency, and the protection of public trust in contractual commitments, would still outweigh any potential negative consequences, just as they did in the precedent case.
+Although our case lacks the "bald notification" clause, which was present in **INVEST GAIN LTD v. NOVEL GOOD LTD**, we have the additional factor of the Unfair Contract Terms Ordinance (Cap. 71). This statutory framework, when considered alongside the shared circumstances of interpreting exclusion clauses, serves a similar function to the "bald notification" clause in the precedent case. Given the presence of the UCTO, we submit that the reasoning in **INVEST GAIN LTD v. NOVEL GOOD LTD** still applies, as the positive effects on legal values such as fairness, reasonableness, and protection against unfair contractual terms would still outweigh any potential negative consequences, just as they did in the precedent case. The UCTO ensures that exclusion clauses are not enforced if they are found to be unfair or unreasonable, thereby providing a balanced and just outcome in line with the principles of contract law.
 
 ### Step 11: Conclusion
 
-After careful consideration of all arguments presented, including the initial analogy to CHIMBUSCO PAN NATION PETRO CHEMICAL CO LTD V. ARKSTAR SHIP MANAGEMENT PTE LTD, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, particularly in the presence of exclusion clauses and the requirement to plead and prove their reasonableness under the Control of Exemption Clauses Ordinance (Cap 71). However, it also differs significantly in the additional factor of public interest and reliance on charitable donations.
+After careful consideration of all arguments presented, including the initial analogy to **INVEST GAIN LTD v. NOVEL GOOD LTD**, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the interpretation of contractual clauses and the presence of exclusion clauses. However, it also differs significantly in the absence of a "bald notification" clause and the presence of the Unfair Contract Terms Ordinance (UCTO) in Hong Kong.
 
-The proposed legal rule that the party seeking to rely on an exclusion clause must plead and prove its reasonableness finds support in both cases. However, the broader implications of this rule must be considered, especially in light of the public interest and reliance on charitable donations in the current case.
+The proposed legal rule from the precedent case, which emphasizes the natural and ordinary meaning of the clause considering business common sense and the context of the agreement, finds support in both cases. However, its broader implications must be considered, especially in light of the UCTO, which imposes statutory controls on exclusion clauses to prevent unfair terms.
 
-We've weighed arguments from both sides, particularly the need for fairness and transparency in contractual relationships (as argued in the precedent) and the potential harm to public trust and the financial stability of the charity (as argued in the current case).
+We've weighed arguments from both sides, particularly the strong point from the initial analogy that clarity and predictability in business transactions are crucial, and the counterargument that the UCTO requires a careful examination of the fairness and reasonableness of the exclusion clause.
 
-Considering the underlying legal principles of fairness, transparency, and the protection of parties from unreasonable and unfair contractual terms, as well as the public interest in maintaining trust in charitable commitments, we conclude that the court should require Care 2 U Ltd to plead and prove the reasonableness of the exclusion clause. If Care 2 U Ltd fails to do so, the exclusion clause should be deemed unenforceable, and Vulcanicity Ltd should not be precluded from claiming damages for the alleged damage to the equipment during transit.
+Considering the underlying legal principles of fairness, reasonableness, and the protection against unfair contractual terms mandated by the UCTO, and the potential impact on future cases, we conclude that the exclusion clause in the "Seller’s Liability" provision should be scrutinized under the UCTO. This ensures that the clause does not contravene the principles of fairness and reasonableness.
 
-Additionally, M-Scan Ltd should be held accountable for the promised donations to the Albright Cancer Research Foundation, as the charity has relied on these funds for its projects. The reduction in the donation percentage and the administrative burden argument do not outweigh the public interest and reliance on the promised funds.
+Therefore, the exclusion clause in the current case should not be automatically upheld. Instead, it should be examined to determine whether it is fair and reasonable under the UCTO. This approach aligns with legal precedent while also serving justice and legal consistency, ensuring that exclusion clauses are not enforced if they are found to be unfair or unreasonable.
 
-Therefore, the final decision is that Care 2 U Ltd must plead and prove the reasonableness of the exclusion clause, and M-Scan Ltd must honor its original donation commitments to the Albright Cancer Research Foundation. This decision aligns with legal precedent while also serving justice and legal consistency, particularly in protecting public trust and reliance on charitable commitments.
+In conclusion, the court should interpret the "Seller’s Liability" provision in the current case in light of the Unfair Contract Terms Ordinance (Cap. 71) in Hong Kong, ensuring that the exclusion clause complies with the statutory requirements of fairness and reasonableness. This decision is reached by balancing the need for clarity and predictability in business transactions with the statutory protections against unfair contractual terms, thereby providing a just and legally consistent outcome.
 
 
-# Contract Law: Whether the reduction in the annual fee by M-Scan Ltd constitutes sufficient consideration for the change in the donation terms
+# Contract Law: Whether Wong Kee can claim damages for financial losses and reputational damage due to the delivery of unsuitable crabs
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Sale of Goods Ordinance Cap. 26 Sections 32, 53, and 55
+
+### Major Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 32
+
+   Conditions:
+   - The seller delivers to the buyer a quantity of goods less than he contracted to sell
+   - The seller delivers to the buyer a quantity of goods larger than he contracted to sell
+   - The seller delivers to the buyer the goods he contracted to sell mixed with goods of a different description not included in the contract
+
+   Consequences:
+   - The buyer may reject them, but if the buyer accepts the goods so delivered, he must pay for them at the contract rate
+   - The buyer may accept the goods included in the contract and reject the rest, or he may reject the whole
+   - The buyer may accept the goods which are in accordance with the contract and reject the rest, or he may reject the whole
+
+   Exceptions:
+   - The provisions of this section are subject to any usage of trade, special agreement, or course of dealing between the parties
+
+2. Sale of Goods Ordinance Cap. 26 Section 53
+
+   Conditions:
+   - The seller wrongfully neglects or refuses to deliver the goods to the buyer
+   - The buyer maintains an action against the seller for damages for non-delivery
+
+   Consequences:
+   - The measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of events, from the seller’s breach of contract
+   - Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered, or, if no time was fixed for delivery, then at the time of the neglect or refusal to deliver
+
+   Exceptions:
+   - None
+
+3. Sale of Goods Ordinance Cap. 26 Section 55
+
+   Conditions:
+   - There is a breach of warranty by the seller
+   - The buyer elects, or is compelled, to treat any breach of a condition on the part of the seller as a breach of warranty
+
+   Consequences:
+   - The buyer is not entitled to reject the goods by reason only of such breach of warranty
+   - The buyer may set up against the seller the breach of warranty in diminution or extinction of the price
+   - The buyer may maintain an action against the seller for damages for the breach of warranty
+   - The measure of damages for breach of warranty is the estimated loss directly and naturally resulting, in the ordinary course of events, from the breach of warranty
+   - In the case of breach of warranty of quality, such loss is prima facie the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty
+   - The fact that the buyer has set up the breach of warranty in diminution or extinction of the price does not prevent him from maintaining an action for the same breach of warranty if he has suffered further damage
+
+   Exceptions:
+   - None
+
+### Minor Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 32:
+   - Neptune delivered to Wong Kee a quantity of goods (baby mud crabs) that did not conform to the usual mix of sizes expected and required for the "Typhoon Shelter Crab" dish.
+   - Wong Kee did not reject the goods upon delivery but later found them unsuitable for their signature dish.
+   - The course of dealing between Wong Kee and Neptune, including the informal agreement and the draft contract, indicates that the mix of sizes should conform to the norms and practices of the seafood trade.
+
+2. Sale of Goods Ordinance Cap. 26 Section 53:
+   - Neptune did not wrongfully neglect or refuse to deliver the goods; they delivered baby mud crabs instead of the usual mix.
+   - Wong Kee is not maintaining an action for non-delivery but for the delivery of unsuitable goods.
+
+3. Sale of Goods Ordinance Cap. 26 Section 55:
+   - There is a breach of warranty by Neptune as the crabs delivered did not meet the expected quality and size mix.
+   - Wong Kee may maintain an action against Neptune for damages for the breach of warranty.
+   - The measure of damages for breach of warranty is the estimated loss directly and naturally resulting from the breach, which includes financial losses and reputational damage due to the inability to serve the signature dish.
+
+### Conclusion:
+
+Sale of Goods Ordinance Cap. 26 Section 55 applies, and Wong Kee can claim damages for financial losses and reputational damage due to the delivery of unsuitable crabs by Neptune.
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (CACV 126/2011)
+In the case of CACV 126/2011 between Wing Tat Haberdashery Company Limited (Plaintiff) and Elegance Development & Industrial Co. Limited (Defendant) (precedent p), the plaintiff claimed for the balance of the price of goods sold and delivered, while the defendant counterclaimed for damages due to defective goods. The court ruled that the defendant was entitled to its counterclaim in full because the judge had not properly quantified the damages and had arbitrarily halved the counterclaim without sufficient evidential basis. The final judgment was in favor of the defendant for the sum of $127,596.78.
+
+### Step 2: Shared Legal Concepts
+Both in CACV 126/2011 and in our current case, we see the following legal concepts and fact patterns:
+
+- **Legal Concept 1: Breach of Contract**: 
+  - *Fact Pattern 1*: In CACV 126/2011, the defendant claimed that the goods supplied were defective and did not conform to the contract. In the current case, Wong Kee claims that the crabs supplied were unsuitable and did not conform to the expected quality and size distribution norms.
+  
+- **Legal Concept 2: Measure of Damages**:
+  - *Fact Pattern 2*: In CACV 126/2011, the court discussed the measure of damages for breach of warranty under the Sale of Goods Ordinance, focusing on the direct and natural loss resulting from the breach. In the current case, Wong Kee seeks damages for financial losses and reputational damage due to the delivery of unsuitable crabs.
+  
+- **Legal Concept 3: Duty to Mitigate Loss**:
+  - *Fact Pattern 3*: In CACV 126/2011, the court considered whether the defendant had taken reasonable steps to mitigate its loss. In the current case, the issue may arise as to whether Wong Kee took reasonable steps to mitigate its losses upon receiving the unsuitable crabs.
+  
+- **Legal Concept 4: Exclusion Clauses**:
+  - *Fact Pattern 4*: In CACV 126/2011, the court did not specifically address exclusion clauses, but the principle of whether such clauses can exclude liability for defective goods is relevant. In the current case, Neptune included a "Seller’s Liability" provision attempting to exclude liability for any loss or damage arising from defects.
+
+### Step 3: Extraction of Legal Rule from Precedent (CACV 126/2011)
+This suggests a general rule that when we see the fact pattern of a breach of contract involving the supply of defective goods (i*), the court should decide in favor of the party suffering the loss for the full measure of damages directly and naturally resulting from the breach (outcome o). This rule was justified in CACV 126/2011 because the positive effects (E+) of ensuring that parties are compensated for their actual losses and that damages are properly quantified outweigh the negative effects (E-) of potentially encouraging frivolous claims. This rule upholds the underlying values of fairness and proper compensation in contract law.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (CACV 126/2011) are present:
+
+- **Legal Concept 1: Breach of Contract**:
+  - *Fact Pattern 1*: In CACV 126/2011, the defendant claimed that the goods supplied were defective and did not conform to the contract. In the current case, Wong Kee claims that the crabs supplied were unsuitable and did not conform to the expected quality and size distribution norms.
+
+- **Legal Concept 2: Measure of Damages**:
+  - *Fact Pattern 2*: In CACV 126/2011, the court discussed the measure of damages for breach of warranty under the Sale of Goods Ordinance, focusing on the direct and natural loss resulting from the breach. In the current case, Wong Kee seeks damages for financial losses and reputational damage due to the delivery of unsuitable crabs.
+
+- **Legal Concept 3: Duty to Mitigate Loss**:
+  - *Fact Pattern 3*: In CACV 126/2011, the court considered whether the defendant had taken reasonable steps to mitigate its loss. In the current case, the issue may arise as to whether Wong Kee took reasonable steps to mitigate its losses upon receiving the unsuitable crabs.
+
+- **Legal Concept 4: Exclusion Clauses**:
+  - *Fact Pattern 4*: In CACV 126/2011, the court did not specifically address exclusion clauses, but the principle of whether such clauses can exclude liability for defective goods is relevant. In the current case, Neptune included a "Seller’s Liability" provision attempting to exclude liability for any loss or damage arising from defects.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in CACV 126/2011. This decision would be justified because, as in CACV 126/2011, it would have the following positive effects:
+
+1. **Ensuring Proper Compensation**: Just as in CACV 126/2011, awarding damages to Wong Kee for the financial losses and reputational damage directly and naturally resulting from the breach would ensure that Wong Kee is properly compensated for its actual losses. This upholds the principle of fairness in contract law.
+
+2. **Encouraging Compliance with Contractual Obligations**: By holding Neptune accountable for supplying unsuitable crabs, the court would reinforce the importance of adhering to contractual obligations. This would deter suppliers from delivering substandard goods and encourage them to meet the agreed-upon standards.
+
+3. **Clarifying the Limits of Exclusion Clauses**: Addressing the "Seller’s Liability" provision in Neptune's contract would clarify the limits of exclusion clauses in similar cases. This would provide guidance to businesses on the enforceability of such clauses and ensure that they do not unfairly absolve suppliers from liability for defective goods.
+
+4. **Promoting Reasonable Mitigation Efforts**: By considering whether Wong Kee took reasonable steps to mitigate its losses, the court would promote the principle that parties should act reasonably to minimize their damages. This would encourage businesses to take proactive measures when faced with defective goods, thereby reducing overall losses.
+
+In conclusion, given that our current case shares the same crucial fact patterns as CACV 126/2011, we submit that the court should reach the same outcome. This decision would be justified because, as in CACV 126/2011, it would ensure proper compensation, encourage compliance with contractual obligations, clarify the limits of exclusion clauses, and promote reasonable mitigation efforts.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+In the precedent case CACV 126/2011, the court's decision was significantly influenced by the fact that the judge had not properly quantified the damages and had arbitrarily halved the counterclaim without sufficient evidential basis. This factor was key in ensuring that the benefits of the ruling—proper compensation for actual losses and the encouragement of accurate damage quantification—outweighed any potential drawbacks because it upheld the principles of fairness and proper compensation in contract law. However, in our current case, this crucial factor of arbitrary damage quantification is notably absent as the issue revolves around the suitability of the crabs delivered and the presence of an exclusion clause, rather than an arbitrary reduction of damages.
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor—the presence of an exclusion clause in the contract—that was not present in CACV 126/2011. This factor significantly alters the situation described by the shared fact pattern of breach of contract involving the supply of defective goods. Because of the exclusion clause, applying the same outcome in our case would have more negative consequences than positive ones, unlike in CACV 126/2011. The exclusion clause attempts to absolve Neptune of liability for any loss or damage arising from defects, which could potentially limit Wong Kee's ability to claim damages. This clause introduces a significant legal consideration that was not addressed in the precedent case, thereby altering the balance of positive and negative effects. The court must now consider the enforceability and scope of the exclusion clause, which could lead to a different outcome than simply awarding damages for the breach.
+
+### Step 7: Argument from Undesirable Consequence
+We propose that the correct rule from CACV 126/2011 should be stated as "When both [i*] (breach of contract involving the supply of defective goods) and [m] (the presence of an exclusion clause) are present, the court should decide [o] (to carefully evaluate the enforceability of the exclusion clause and the extent of damages recoverable)." Omitting [m] from this rule could lead to [undesirable consequence q] (unfairly absolving suppliers from liability for defective goods, thereby encouraging the supply of substandard products). Indeed, the opinion in CACV 126/2011 implicitly highlights the importance of properly quantifying damages and ensuring that parties are compensated for their actual losses, which would be undermined if exclusion clauses were allowed to blanketly absolve liability without scrutiny.
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+The rule established in CACV 126/2011 was clearly designed to prevent [undesirable consequence u] (arbitrary reduction of damages without sufficient evidential basis, leading to unfair compensation). However, in our current case, there's no risk of [u] occurring because the issue revolves around the suitability of the crabs delivered and the presence of an exclusion clause, rather than an arbitrary reduction of damages. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves is not relevant to our situation. Instead, the court should focus on the enforceability of the exclusion clause and whether it unfairly limits Wong Kee's ability to claim damages for the unsuitable crabs.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the factor of arbitrary damage quantification (m), which was present in the precedent case CACV 126/2011, requiring this factor for all similar cases of breach of contract involving the supply of defective goods (i*) would lead to an undesirable consequence. Specifically, it would mean that courts could only award full damages in cases where there was an arbitrary reduction of damages, thereby ignoring other significant factors such as the presence of exclusion clauses that attempt to limit liability. Conversely, not requiring the arbitrary damage quantification factor (m) would allow for a more comprehensive evaluation of the circumstances, including the enforceability of exclusion clauses. This better aligns with the underlying principles of contract law, which aim to ensure fairness and proper compensation for actual losses while also scrutinizing the validity and scope of exclusion clauses to prevent unjust outcomes.
+
+### Step 10: Feature Substitution
+Although our case lacks the factor of arbitrary damage quantification (m), which was present in CACV 126/2011, we have the additional factor of an exclusion clause (n). This exclusion clause, when considered alongside the shared circumstances of breach of contract involving the supply of defective goods (i*), serves a similar function to the arbitrary damage quantification factor (m) in the precedent case. Given the presence of the exclusion clause (n), we submit that the reasoning in CACV 126/2011 still applies, as the positive effects on relevant legal values—such as ensuring proper compensation, encouraging compliance with contractual obligations, and promoting reasonable mitigation efforts—would still outweigh any potential negative consequences, just as they did in the precedent case. The court should carefully evaluate the enforceability of the exclusion clause and the extent of damages recoverable, ensuring that Wong Kee is fairly compensated for its actual losses while maintaining the integrity of contractual obligations.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to CACV 126/2011, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the breach of contract involving the supply of defective goods and the measure of damages for such breaches. However, it also differs in significant ways, particularly the presence of an exclusion clause in the current case, which was not a factor in CACV 126/2011.
+
+The proposed legal rule from CACV 126/2011—that the court should decide in favor of the party suffering the loss for the full measure of damages directly and naturally resulting from the breach—finds support in both cases. However, its broader implications must be considered, especially in light of the exclusion clause in the current case.
+
+We've weighed arguments from both sides, particularly the strong point that the exclusion clause introduces a significant legal consideration that could limit Wong Kee's ability to claim damages (raised in the rebuttal), and the counterargument that the exclusion clause should be carefully evaluated for its enforceability and fairness (raised in the surrebuttal).
+
+Considering the underlying legal principles of fairness, proper compensation, and the enforceability of contractual terms, we conclude that the court should carefully evaluate the enforceability of the exclusion clause in Neptune's contract. This evaluation should determine whether the clause unfairly limits Wong Kee's ability to claim damages for the unsuitable crabs. If the exclusion clause is found to be enforceable and fair, Wong Kee's claim for damages may be limited. However, if the clause is deemed unfair or overly broad, Wong Kee should be entitled to full compensation for its financial losses and reputational damage.
+
+In conclusion, the decision reached is that the court should:
+
+1. Evaluate the enforceability and fairness of the exclusion clause in Neptune's contract.
+2. Determine the extent of damages recoverable by Wong Kee based on this evaluation.
+3. Ensure that Wong Kee is fairly compensated for its actual losses while maintaining the integrity of contractual obligations.
+
+This decision aligns with legal precedent while also serving justice and legal consistency, taking into account the unique factors present in the current case.
+
+
+# Contract Law: Whether the 'minimum quantity' clause requiring Wong Kee to order at least 1000 kilograms per week is enforceable
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (HCA012172/1996)
+In the case of HCA012172/1996 between Safe Steel Furniture Factory Limited (Plaintiff) and Lamex Trading Company Limited (Defendant) (precedent p), the court ruled that the agreement between the parties was not for an indefinite term. The court found that the provisions for the obligations and rights of the parties were only up to 1994, and there was no mechanism in place to extend these provisions beyond that period. The court also held that any implied term that the quantity of goods to be ordered after 1994 would be subject to negotiation was void for uncertainty.
+
+### Step 2: Shared Legal Concepts
+Both in HCA012172/1996 and in our current case, we see the following legal concepts and fact patterns:
+
+- **Legal Concept 1: Duration of Agreement**
+  - **Fact Pattern 1 (p)**: The agreement did not specify a duration, leading to a dispute over whether it was for an indefinite term.
+  - **Fact Pattern 1 (c)**: The dealings between Wong Kee and Neptune were conducted on an informal basis without a formalized contract specifying the duration until June 2018.
+
+- **Legal Concept 2: Minimum Quantity Clause**
+  - **Fact Pattern 2 (p)**: The agreement specified minimum quantities for the years 1992 to 1994, but there was no provision for quantities beyond 1994.
+  - **Fact Pattern 2 (c)**: Neptune added a "minimum quantity" clause requiring Wong Kee to order at least 1000 kilograms per week.
+
+- **Legal Concept 3: Implied Terms and Uncertainty**
+  - **Fact Pattern 3 (p)**: The court found that any implied term regarding the quantity of goods to be ordered after 1994 was void for uncertainty.
+  - **Fact Pattern 3 (c)**: The amended agreement proposed by Neptune included specific terms, but the formal contract was not signed, leading to potential uncertainty about the enforceability of the "minimum quantity" clause.
+
+- **Legal Concept 4: Exclusivity and Supply**
+  - **Fact Pattern 4 (p)**: The agreement did not require the Defendant to obtain goods exclusively from the Plaintiff.
+  - **Fact Pattern 4 (c)**: Wong Kee had been purchasing crabs exclusively from Neptune since June 2013, but this exclusivity was not formalized in a signed contract.
+
+### Step 3: Extraction of Legal Rule from Precedent (HCA012172/1996)
+This suggests a general rule that when we see a fact pattern where an agreement does not specify a duration and includes terms that are subject to future negotiation, the court should decide that such terms are void for uncertainty. This rule was justified in HCA012172/1996 because the positive effects (E+) of outcome o on the underlying values and principles of the law, such as contractual certainty and enforceability, outweigh the negative effects (E-) in that case. The court emphasized the importance of having clear and definite terms in a contract to avoid disputes and ensure that both parties understand their obligations and rights.
+
+Applying this rule to the current case, the "minimum quantity" clause requiring Wong Kee to order at least 1000 kilograms per week may be considered void for uncertainty if the formal contract was not signed and there was no clear agreement on this term. The informal nature of the dealings and the lack of a signed contract could lead to the conclusion that the clause is not enforceable, similar to the outcome in HCA012172/1996.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (HCA012172/1996) are present:
+
+- **Legal Concept 1: Duration of Agreement**
+  - **Fact Pattern 1 (p)**: The agreement did not specify a duration, leading to a dispute over whether it was for an indefinite term.
+  - **Fact Pattern 1 (c)**: The dealings between Wong Kee and Neptune were conducted on an informal basis without a formalized contract specifying the duration until June 2018.
+
+- **Legal Concept 2: Minimum Quantity Clause**
+  - **Fact Pattern 2 (p)**: The agreement specified minimum quantities for the years 1992 to 1994, but there was no provision for quantities beyond 1994.
+  - **Fact Pattern 2 (c)**: Neptune added a "minimum quantity" clause requiring Wong Kee to order at least 1000 kilograms per week.
+
+- **Legal Concept 3: Implied Terms and Uncertainty**
+  - **Fact Pattern 3 (p)**: The court found that any implied term regarding the quantity of goods to be ordered after 1994 was void for uncertainty.
+  - **Fact Pattern 3 (c)**: The amended agreement proposed by Neptune included specific terms, but the formal contract was not signed, leading to potential uncertainty about the enforceability of the "minimum quantity" clause.
+
+- **Legal Concept 4: Exclusivity and Supply**
+  - **Fact Pattern 4 (p)**: The agreement did not require the Defendant to obtain goods exclusively from the Plaintiff.
+  - **Fact Pattern 4 (c)**: Wong Kee had been purchasing crabs exclusively from Neptune since June 2013, but this exclusivity was not formalized in a signed contract.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in HCA012172/1996. This decision would be justified because, as in the precedent case, it would have the following positive effects:
+
+1. **Contractual Certainty**: Enforcing the rule that terms subject to future negotiation are void for uncertainty ensures that contracts are clear and definite. This helps both parties understand their obligations and rights, reducing the likelihood of disputes.
+
+2. **Enforceability**: By requiring that essential terms such as minimum quantities and duration be clearly defined, the court upholds the principle that contracts must be enforceable. This protects the integrity of contractual agreements and ensures that parties cannot be held to vague or indefinite terms.
+
+3. **Fairness**: Applying this rule prevents one party from being unfairly bound by terms that were not clearly agreed upon. In this case, Wong Kee should not be held to a "minimum quantity" clause that was never formalized in a signed contract, especially given the informal nature of their dealings.
+
+4. **Commercial Reasonableness**: The decision promotes commercial reasonableness by ensuring that parties cannot rely on informal understandings to impose significant obligations. This encourages businesses to formalize their agreements, leading to more predictable and stable commercial relationships.
+
+Given these positive effects, we submit that the court should find the "minimum quantity" clause requiring Wong Kee to order at least 1000 kilograms per week to be void for uncertainty, just as it did in HCA012172/1996. This would uphold the underlying values and principles of contract law, ensuring clarity, enforceability, fairness, and commercial reasonableness.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+In the precedent case HCA012172/1996, the court's decision was significantly influenced by the fact that the agreement explicitly specified minimum quantities for the years 1992 to 1994, but there was no provision for quantities beyond 1994. This explicit specification of quantities was key in ensuring that the benefits of the ruling—such as contractual certainty and enforceability—outweighed any potential drawbacks because it provided a clear framework for the parties' obligations and rights up to a certain point. However, in our current case, this crucial factor of explicitly specified quantities for a defined period is notably absent. The dealings between Wong Kee and Neptune were conducted on an informal basis without a formalized contract specifying the duration or minimum quantities until June 2018. This lack of explicit specification creates a different context for assessing the enforceability of the "minimum quantity" clause.
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor—the continuous and uninterrupted transactions between Wong Kee and Neptune from June 2013 to November 2020—that was not present in HCA012172/1996. This factor significantly alters the situation described by the shared fact pattern because it demonstrates a long-standing and consistent business relationship, which could imply a mutual understanding and acceptance of certain terms, even if not formally documented. Due to this continuous relationship, applying the same outcome in our case would have more negative consequences, such as undermining the stability and predictability of long-term business relationships, than positive ones, unlike in HCA012172/1996. The precedent case did not involve such an extended period of consistent dealings, which makes the context of our current case unique and necessitates a different legal consideration.
+
+### Step 7: Argument from Undesirable Consequence
+We propose that the correct rule from HCA012172/1996 should be stated as: "When both the agreement does not specify a duration and includes terms that are subject to future negotiation, and there is no continuous and uninterrupted business relationship demonstrating mutual understanding and acceptance of terms, the court should decide that such terms are void for uncertainty." Omitting the continuous and uninterrupted business relationship from this rule could lead to the undesirable consequence of undermining the stability and predictability of long-term business relationships. Indeed, the opinion in HCA012172/1996 explicitly states that the lack of a mechanism to extend the provisions beyond 1994 was crucial to their decision, highlighting the importance of clear and definite terms in the absence of a long-standing business relationship.
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+The rule established in HCA012172/1996 was clearly designed to prevent the undesirable consequence of contractual uncertainty and unenforceability due to vague or indefinite terms. However, in our current case, there's no risk of this undesirable consequence occurring because the continuous and uninterrupted transactions between Wong Kee and Neptune from June 2013 to November 2020 demonstrate a mutual understanding and acceptance of certain terms, even if not formally documented. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves—preventing uncertainty and unenforceability—is not relevant to our situation given the long-standing and consistent business relationship between the parties.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the explicit specification of minimum quantities for a defined period, which was present in the precedent case HCA012172/1996, requiring this factor for all similar cases of informal agreements would lead to the undesirable consequence of undermining long-standing business relationships that have operated smoothly and predictably over time. Conversely, not requiring the explicit specification of minimum quantities would allow for the recognition of mutual understandings and established practices in long-term business relationships, which better aligns with the underlying principles of contract law, such as the intention of the parties and the stability of commercial dealings.
+
+### Step 10: Feature Substitution
+Although our case lacks the explicit specification of minimum quantities for a defined period, which was present in HCA012172/1996, we have the additional factor of continuous and uninterrupted transactions between Wong Kee and Neptune from June 2013 to November 2020. This continuous relationship, when considered alongside the shared circumstances of informal dealings and mutual understandings, serves a similar function to the explicit specification of quantities in the precedent case. Given the presence of this long-standing business relationship, we submit that the reasoning in HCA012172/1996 still applies, as the positive effects on relevant legal values, such as contractual certainty, enforceability, and the recognition of established commercial practices, would still outweigh any potential negative consequences, just as they did in the precedent case.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to HCA012172/1996, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the informal nature of the dealings and the lack of a formalized contract specifying the duration or minimum quantities. However, it also differs significantly in that there was a continuous and uninterrupted business relationship between Wong Kee and Neptune from June 2013 to November 2020, which demonstrates a mutual understanding and acceptance of certain terms, even if not formally documented.
+
+The proposed legal rule from HCA012172/1996, which states that terms subject to future negotiation are void for uncertainty, finds support in both cases. However, its broader implications must be considered, especially in the context of long-standing business relationships. We've weighed arguments from both sides, particularly the importance of contractual certainty and enforceability (as emphasized in the precedent) and the need to recognize established commercial practices and mutual understandings in long-term business relationships (as argued in the current case).
+
+Considering the underlying legal principles of contractual certainty, enforceability, and the recognition of established commercial practices, we conclude that the "minimum quantity" clause requiring Wong Kee to order at least 1000 kilograms per week should not be considered void for uncertainty. The continuous and uninterrupted transactions between Wong Kee and Neptune provide sufficient evidence of a mutual understanding and acceptance of this term, even in the absence of a formalized contract.
+
+Therefore, the decision reached is that the "minimum quantity" clause is enforceable, given the long-standing and consistent business relationship between the parties, which aligns with the principles of fairness and commercial reasonableness. This decision serves justice and legal consistency by recognizing the practical realities of long-term business dealings while upholding the importance of clear and definite terms in contractual agreements.
+
+
+# Contract Law: Whether the 'sole and only agreement' clause in the draft contract supersedes the prior informal agreement and course of dealings
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1 and 2
+Supply of Services (Implied Terms) Ordinance Cap. 457 Section 8 Subsection 2 and 3
+
+### Major Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1
+
+   Conditions:
+   - Any right, duty or liability would arise under a contract of sale of goods by implication of law
+   - There is an express agreement, or a course of dealing between the parties, or a usage that binds both parties to the contract
+
+   Consequences:
+   - The implied right, duty or liability may be negatived or varied
+
+   Exceptions:
+   - Subject to the Control of Exemption Clauses Ordinance (Cap. 71)
+
+2. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 2
+
+   Conditions:
+   - An express condition or warranty exists
+   - There is a condition or warranty implied by the Sale of Goods Ordinance
+
+   Consequences:
+   - The express condition or warranty does not negative the implied condition or warranty
+
+   Exceptions:
+   - Unless the express condition or warranty is inconsistent with the implied condition or warranty
+
+3. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 8 Subsection 2
+
+   Conditions:
+   - A right, duty or liability would arise under a contract for the supply of a service by virtue of the Supply of Services (Implied Terms) Ordinance
+   - There is an express agreement, or a course of dealing between the parties, or a usage that binds both parties to the contract
+
+   Consequences:
+   - The implied right, duty or liability may be negatived or varied
+
+   Exceptions:
+   - Subject to subsection (3) and the Control of Exemption Clauses Ordinance (Cap. 71)
+
+4. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 8 Subsection 3
+
+   Conditions:
+   - An express term exists
+   - There is a term implied by the Supply of Services (Implied Terms) Ordinance
+
+   Consequences:
+   - The express term does not negative the implied term
+
+   Exceptions:
+   - Unless the express term is inconsistent with the implied term
+
+### Minor Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1:
+- A right, duty or liability would arise under the contract of sale of crabs by implication of law.
+- There is a course of dealing between Wong Kee and Neptune, and a usage that binds both parties to the contract regarding the distribution of crab sizes.
+- Therefore, the implied right, duty or liability may be negatived or varied, subject to the Control of Exemption Clauses Ordinance (Cap. 71).
+
+2. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 2:
+- An express condition exists in the draft contract (Neptune's absolute discretion to determine the size of mud crabs).
+- There is an implied condition by the Sale of Goods Ordinance regarding the distribution of crab sizes.
+- The express condition (Neptune's discretion) is inconsistent with the implied condition (distribution norms).
+- Therefore, the express condition negatives the implied condition.
+
+3. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 8 Subsection 2:
+- A right, duty or liability would arise under the contract for the supply of crabs by virtue of the Supply of Services (Implied Terms) Ordinance.
+- There is a course of dealing between Wong Kee and Neptune, and a usage that binds both parties to the contract regarding the distribution of crab sizes.
+- Therefore, the implied right, duty or liability may be negatived or varied, subject to subsection (3) and the Control of Exemption Clauses Ordinance (Cap. 71).
+
+4. Supply of Services (Implied Terms) Ordinance Cap. 457 Section 8 Subsection 3:
+- An express term exists in the draft contract (Neptune's absolute discretion to determine the size of mud crabs).
+- There is a term implied by the Supply of Services (Implied Terms) Ordinance regarding the distribution of crab sizes.
+- The express term (Neptune's discretion) is inconsistent with the implied term (distribution norms).
+- Therefore, the express term negatives the implied term.
+
+### Conclusion:
+
+The 'sole and only agreement' clause in the draft contract, which includes Neptune's absolute discretion to determine the size of mud crabs, supersedes the prior informal agreement and course of dealings. The express terms in the draft contract are inconsistent with the implied terms regarding the distribution of crab sizes, and thus, the express terms negative the implied terms. Therefore, Wong Kee cannot rely on the prior course of dealings or implied terms to claim a breach of contract by Neptune.
 
 ## Deductive Reasoning: ca
 
 ### Relevant law:
 
-CACV 170/2017 [2018] HKCA 107
+Glory Gold Limited v Star Play Development Limited
 
 ### Major Premise:
 
-1. CACV 170/2017 [2018] HKCA 107
+1. Glory Gold Limited v Star Play Development Limited
 
    Conditions:
-   - There is a variation of terms of employment.
-   - The employee continues with the employment.
-   - The continuance in employment provides a real benefit to the employer.
+   - The agreement contains an 'entire agreement clause' that states the agreement constitutes the sole and only agreement of the parties and supersedes any prior understandings or agreements, whether oral or written, between the parties respecting the subject matter.
+   - The clause is intended to ensure that the full contractual terms to which the parties agreed to bind themselves are to be found in the agreement itself and nowhere else such as in a side agreement or a collateral warranty.
 
    Consequences:
-   - The continuance in employment can provide consideration for the variation of terms of employment.
+   - The full contractual terms are to be found in the document containing the clauses and not elsewhere.
+   - Any promises or assurances made in the course of negotiation shall have no contractual force, save insofar as they are reflected and given effect in that document.
 
    Exceptions:
-   - The continuance in employment does not provide a real benefit to the employer.
+   - The claim is based on misrepresentation, as the entire agreement clause does not preclude a claim in misrepresentation.
 
 ### Minor Premise:
 
-1. CACV 170/2017 [2018] HKCA 107:
-- There is a variation of terms of the contract between M-Scan Ltd and its customers, specifically the reduction in the donation to the Albright Cancer Research Foundation and the corresponding reduction in the annual fee.
-- The existing customer base continues with the contract under the new terms.
-- The continuance of the contract under the new terms provides a real benefit to M-Scan Ltd, as it reduces the administrative burden and potentially increases customer satisfaction.
+1. The draft contract between Wong Kee and Neptune contains an 'entire agreement clause' that states the agreement constitutes the sole and only agreement of the parties and supersedes any prior understandings or agreements, whether oral or written, between the parties respecting the subject matter.
+2. The clause is intended to ensure that the full contractual terms to which Wong Kee and Neptune agreed to bind themselves are to be found in the agreement itself and nowhere else such as in a side agreement or a collateral warranty.
+3. The full contractual terms are to be found in the document containing the clauses and not elsewhere.
+4. Any promises or assurances made in the course of negotiation shall have no contractual force, save insofar as they are reflected and given effect in that document.
+5. The claim is not based on misrepresentation.
 
 ### Conclusion:
 
-CACV 170/2017 [2018] HKCA 107 applies, and the reduction in the annual fee by M-Scan Ltd constitutes sufficient consideration for the change in the donation terms. Therefore, the Albright Cancer Research Foundation cannot claim the promised revenue from M-Scan Ltd.
-
-### Relevant law:
-
-Common law principles on exclusion clauses
-
-### Major Premise:
-
-1. Common law principles on exclusion clauses
-
-   Conditions:
-   - An exclusion clause is included in the contract.
-   - The exclusion clause is clear and unambiguous.
-   - The exclusion clause has been properly incorporated into the contract.
-
-   Consequences:
-   - The exclusion clause will be enforceable.
-
-   Exceptions:
-   - The exclusion clause is not clear and unambiguous.
-   - The exclusion clause has not been properly incorporated into the contract.
-   - The exclusion clause is deemed unreasonable under the Unfair Contract Terms Ordinance (Cap. 71).
-
-### Minor Premise:
-
-1. Common law principles on exclusion clauses:
-- An exclusion clause is included in the contract between M-Scan Ltd and its customers, stating that the carriers (Care 2 U Ltd) will not be liable for any damages during transportation if the user has not undertaken the recommended systems check and presented the results in writing.
-- The exclusion clause is clear and unambiguous.
-- The exclusion clause has been properly incorporated into the contract.
-- Vulcanicity Ltd failed to undertake the recommended systems check before the scanner was collected.
-- The exclusion clause is not deemed unreasonable under the Unfair Contract Terms Ordinance (Cap. 71).
-
-### Conclusion:
-
-The exclusion clause in the contract between M-Scan Ltd and its customers is enforceable. Therefore, Care 2 U Ltd can rely on the exclusion clause, and Vulcanicity Ltd cannot hold Care 2 U Ltd responsible for the damage discovered in transit.
+The 'sole and only agreement' clause in the draft contract supersedes the prior informal agreement and course of dealings between Wong Kee and Neptune. Therefore, the full contractual terms are to be found in the draft contract, and any prior promises or assurances made during negotiations have no contractual force unless they are reflected in the draft contract.
 
 ## Reasoning by analogy: cases
 
-### Step 1: Outcome of Precedent (KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK)
+### Step 1: Outcome of Precedent (YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM)
 
-In the case of KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK [2021] HKCFI 2529; HCA 1254/2020 (precedent p), the court dealt with a breach of a consultancy service agreement. The plaintiff (P) sought summary judgment for outstanding service fees and future income loss. The defendant (D) opposed, claiming poor performance and repudiatory breach by P. The court ruled that summary judgment should only be granted in clear cases where there is no real or bona fide defence or triable issue. The court found that there were factual disputes and triable issues, thus denying the summary judgment.
+In the case of YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM [2021] HKCFI 435; HCA 1415/2017 (22 February 2021) (precedent p), the court ruled that the "entire agreement" clause in the Independent Contractor Agreement (ICA) did not supersede the Guarantee. The court found that the Guarantee and the ICA were part of a composite transaction and intended to co-exist, each having its own effect. The court emphasized that the context and purpose of the contractual terms, as well as the factual matrix and commercial object, should be considered in the construction of the "entire agreement" clause.
 
 ### Step 2: Shared Legal Concepts
 
-Both in KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK and in our current case, we see the following legal concepts and fact patterns:
+Both in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM and in our current case, we see the following legal concepts and fact patterns:
 
-- **Legal Concept 1: Breach of Contract**
-  - **Fact Pattern 1**: In both cases, there is an alleged breach of contract. In precedent p, P alleged that D breached the consultancy service agreement by not paying the service fees. In the current case, the Albright Cancer Research Foundation alleges that M-Scan Ltd breached the contract by unilaterally reducing the donation percentage.
+- **Legal Concept 1: Entire Agreement Clause**
+  - **Fact Pattern 1:** In both cases, there is an "entire agreement" clause that purports to supersede prior agreements. In YUANTA, the clause was in the ICA, and in the current case, it is in the draft contract between Wong Kee and Neptune.
 
-- **Legal Concept 2: Consideration**
-  - **Fact Pattern 2**: The issue of whether the reduction in fees constitutes sufficient consideration. In precedent p, the court examined whether the reduction in service fees was justified. In the current case, M-Scan Ltd reduced the annual fee by 5% in recognition of the change in donation terms.
+- **Legal Concept 2: Composite Transaction**
+  - **Fact Pattern 2:** Both cases involve multiple documents or agreements that were intended to be part of a composite transaction. In YUANTA, the Guarantee and the ICA were part of a composite transaction. In the current case, the informal agreement and the draft contract are part of the ongoing business relationship between Wong Kee and Neptune.
 
-- **Legal Concept 3: Triable Issues**
-  - **Fact Pattern 3**: The presence of factual disputes that require a trial. In precedent p, the court identified several factual disputes and triable issues, such as the quality of P's performance and the terms of the agreement. In the current case, there are factual disputes regarding the promised revenue to the Albright Cancer Research Foundation and the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd.
+- **Legal Concept 3: Course of Dealings**
+  - **Fact Pattern 3:** Both cases involve a history of dealings between the parties that inform the interpretation of the contractual terms. In YUANTA, the history of dealings was between Ms. Ng and Yuanta. In the current case, the history of dealings is between Wong Kee and Neptune.
 
-- **Legal Concept 4: Exclusion Clauses**
-  - **Fact Pattern 4**: The enforceability of exclusion clauses. In precedent p, the court did not directly address exclusion clauses, but the principle of examining the terms of the contract is relevant. In the current case, Care 2 U Ltd relies on an exclusion clause to deny liability for damages during transportation.
+- **Legal Concept 4: Commercial Purpose and Context**
+  - **Fact Pattern 4:** In both cases, the court considers the commercial purpose and context of the agreements. In YUANTA, the court looked at the purpose of the Guarantee and the ICA. In the current case, the court would consider the purpose of the informal agreement and the draft contract in ensuring a steady supply of crabs to Wong Kee.
 
-### Step 3: Extraction of Legal Rule from Precedent (KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK)
+### Step 3: Extraction of Legal Rule from Precedent (YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM)
 
-This suggests a general rule that when we see **fact pattern i*** (presence of factual disputes and triable issues), the court should decide **outcome o** (deny summary judgment and proceed to trial). This rule was justified in KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK because the positive effects (E+) of outcome o on the underlying values and principles of the law, such as ensuring a fair trial and thorough examination of all factual disputes, outweigh the negative effects (E-) of potentially delaying the resolution of the case.
-
-In the current case, applying this rule means that the Albright Cancer Research Foundation can argue that the reduction in the annual fee by M-Scan Ltd does not constitute sufficient consideration for the change in donation terms, and that there are factual disputes and triable issues that require a trial. Similarly, Care 2 U Ltd can rely on the exclusion clause, but the enforceability of this clause should be examined in a trial due to the factual disputes regarding the systems check and the condition of the equipment.
+This suggests a general rule that when we see a fact pattern involving an "entire agreement" clause, a composite transaction, a course of dealings, and the commercial purpose and context, the court should decide that the "entire agreement" clause does not necessarily supersede prior informal agreements or course of dealings. This rule was justified in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM because the positive effects (E+) of ensuring that the true commercial intent and context of the parties' agreements are honored outweigh the negative effects (E-) of potentially undermining the literal wording of the "entire agreement" clause. The court's decision in YUANTA emphasized the importance of understanding the full context and purpose behind the agreements, which is crucial for achieving fair and just outcomes in commercial disputes.
 
 ### Step 4: Applying the Rule to the Current Case
 
-In the current case, the same legal concepts and fact patterns as the precedent (KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK) are present:
+In the current case, the same legal concepts and fact patterns as the precedent (YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM) are present:
 
-- **Legal Concept 1: Breach of Contract**
-  - **Fact Pattern 1**: In both cases, there is an alleged breach of contract. In precedent p, P alleged that D breached the consultancy service agreement by not paying the service fees. In the current case, the Albright Cancer Research Foundation alleges that M-Scan Ltd breached the contract by unilaterally reducing the donation percentage.
+- **Legal Concept 1: Entire Agreement Clause**
+  - **Fact Pattern 1:** In both cases, there is an "entire agreement" clause that purports to supersede prior agreements. In YUANTA, the clause was in the ICA, and in the current case, it is in the draft contract between Wong Kee and Neptune.
 
-- **Legal Concept 2: Consideration**
-  - **Fact Pattern 2**: The issue of whether the reduction in fees constitutes sufficient consideration. In precedent p, the court examined whether the reduction in service fees was justified. In the current case, M-Scan Ltd reduced the annual fee by 5% in recognition of the change in donation terms.
+- **Legal Concept 2: Composite Transaction**
+  - **Fact Pattern 2:** Both cases involve multiple documents or agreements that were intended to be part of a composite transaction. In YUANTA, the Guarantee and the ICA were part of a composite transaction. In the current case, the informal agreement and the draft contract are part of the ongoing business relationship between Wong Kee and Neptune.
 
-- **Legal Concept 3: Triable Issues**
-  - **Fact Pattern 3**: The presence of factual disputes that require a trial. In precedent p, the court identified several factual disputes and triable issues, such as the quality of P's performance and the terms of the agreement. In the current case, there are factual disputes regarding the promised revenue to the Albright Cancer Research Foundation and the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd.
+- **Legal Concept 3: Course of Dealings**
+  - **Fact Pattern 3:** Both cases involve a history of dealings between the parties that inform the interpretation of the contractual terms. In YUANTA, the history of dealings was between Ms. Ng and Yuanta. In the current case, the history of dealings is between Wong Kee and Neptune.
 
-- **Legal Concept 4: Exclusion Clauses**
-  - **Fact Pattern 4**: The enforceability of exclusion clauses. In precedent p, the court did not directly address exclusion clauses, but the principle of examining the terms of the contract is relevant. In the current case, Care 2 U Ltd relies on an exclusion clause to deny liability for damages during transportation.
+- **Legal Concept 4: Commercial Purpose and Context**
+  - **Fact Pattern 4:** In both cases, the court considers the commercial purpose and context of the agreements. In YUANTA, the court looked at the purpose of the Guarantee and the ICA. In the current case, the court would consider the purpose of the informal agreement and the draft contract in ensuring a steady supply of crabs to Wong Kee.
 
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome of denying summary judgment and proceeding to trial. This decision would be justified because, as in KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK, it would have the following positive effects:
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM. This decision would be justified because, as in YUANTA, it would have the following positive effects:
 
-1. **Ensuring a Fair Trial**: By allowing the case to proceed to trial, the court ensures that all factual disputes and triable issues are thoroughly examined, providing both parties with a fair opportunity to present their case.
+1. **Honoring True Commercial Intent and Context:** By recognizing that the informal agreement and the draft contract are part of a composite transaction, the court would ensure that the true commercial intent and context of the parties' agreements are honored. This respects the ongoing business relationship and the mutual understanding that has developed over time.
 
-2. **Thorough Examination of Factual Disputes**: The presence of factual disputes regarding the promised revenue to the Albright Cancer Research Foundation and the enforceability of the exclusion clause necessitates a detailed examination that can only be achieved through a trial.
+2. **Ensuring Fairness and Predictability:** Allowing the informal agreement and course of dealings to inform the interpretation of the "entire agreement" clause would ensure fairness and predictability in commercial transactions. Businesses can rely on their established practices and understandings, even if not formally documented, which is crucial for maintaining trust and stability in commercial relationships.
 
-3. **Upholding Contractual Obligations**: By scrutinizing the terms of the contract and the consideration provided, the court upholds the principle that contractual obligations should not be unilaterally altered without sufficient justification.
+3. **Avoiding Unjust Outcomes:** Strictly enforcing the "entire agreement" clause to the exclusion of the prior informal agreement and course of dealings could lead to unjust outcomes, such as Wong Kee being unfairly penalized for Neptune's sudden change in the composition of crabs supplied. This would undermine the principles of equity and good faith in commercial dealings.
 
-4. **Clarifying Legal Principles**: A trial would provide clarity on the enforceability of exclusion clauses and the sufficiency of consideration in contractual modifications, contributing to the development of contract law.
+4. **Promoting Commercial Efficiency:** Recognizing the composite nature of the transaction and the course of dealings would promote commercial efficiency by reducing the need for overly formalistic documentation of every aspect of a business relationship. This is particularly important in industries where informal agreements and practices are common and necessary for operational flexibility.
 
-Given these positive effects, we submit that the court should deny summary judgment and allow the case to proceed to trial, ensuring a just and thorough resolution of the disputes.
+Therefore, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome as in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM. This decision would be justified because, as in YUANTA, it would have the positive effects of honoring the true commercial intent and context, ensuring fairness and predictability, avoiding unjust outcomes, and promoting commercial efficiency.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+In the precedent case YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM, the court's decision was significantly influenced by the fact that the Guarantee and the ICA were part of a composite transaction. This composite transaction was key in ensuring that the benefits of the ruling—honoring the true commercial intent and context of the parties' agreements—outweighed any potential drawbacks because it recognized the interconnected nature of the agreements and the mutual understanding between the parties. However, in our current case, this crucial composite transaction factor is notably absent as the draft contract between Wong Kee and Neptune was never formally executed and returned, and the informal agreement was not explicitly tied to the draft contract in the same manner as the Guarantee and ICA were in YUANTA.
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor—the ongoing and uninterrupted course of dealings between Wong Kee and Neptune—that was not present in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM. This factor significantly alters the situation described by the shared fact pattern because the continuous and consistent transactions between Wong Kee and Neptune, even after the draft contract was sent but not signed, indicate a mutual understanding and acceptance of the terms proposed in the draft contract. Due to this ongoing course of dealings, applying the same outcome in our case would have more negative consequences such as undermining the established business practices and expectations between the parties than positive ones, unlike in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM. This is because the continuous transactions suggest that both parties were operating under the assumption that the terms of the draft contract were in effect, even without formal execution.
+
+### Step 7: Argument from Undesirable Consequence
+We propose that the correct rule from **YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM** should be stated as: "When both [the presence of an 'entire agreement' clause] and [the existence of a composite transaction] are present, the court should decide [that the 'entire agreement' clause does not supersede prior informal agreements or course of dealings]." Omitting [the existence of a composite transaction] from this rule could lead to [the undesirable consequence of disregarding the true commercial intent and context of the parties' agreements, thereby undermining established business practices and expectations]. Indeed, the opinion in **YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM** explicitly states that [the composite nature of the transaction was crucial to their decision, as it ensured that the true commercial intent and context of the parties' agreements were honored].
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+The rule established in **YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM** was clearly designed to prevent [the undesirable consequence of disregarding the true commercial intent and context of the parties' agreements, thereby undermining established business practices and expectations]. However, in our current case, there's no risk of [disregarding the true commercial intent and context] occurring because the continuous and consistent transactions between Wong Kee and Neptune, even after the draft contract was sent but not signed, indicate a mutual understanding and acceptance of the terms proposed in the draft contract. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the formal execution of the draft contract, which was present in the precedent case YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM, requiring this factor for all similar cases of informal agreements and course of dealings would lead to the undesirable consequence of disregarding the established business practices and mutual understandings that have developed over time between parties. Conversely, not requiring the formal execution would allow for the recognition of the true commercial intent and context of the parties' agreements, which better aligns with the underlying principles of contract law, such as honoring the parties' intentions and ensuring fairness in commercial transactions.
+
+### Step 10: Feature Substitution
+Although our case lacks the formal execution of the draft contract, which was present in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM, we have the additional factor of an ongoing and uninterrupted course of dealings between Wong Kee and Neptune. This ongoing course of dealings, when considered alongside the shared circumstances of the informal agreement and the draft contract, serves a similar function to the formal execution in the precedent case. Given the presence of this ongoing course of dealings, we submit that the reasoning in YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM still applies, as the positive effects on honoring the true commercial intent and context, ensuring fairness and predictability, and promoting commercial efficiency would still outweigh any potential negative consequences, just as they did in the precedent case.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to **YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM**, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of an "entire agreement" clause, a history of dealings between the parties, and the commercial purpose and context of the agreements. However, it also differs in significant ways, particularly the absence of a formally executed contract in the current case and the ongoing and uninterrupted course of dealings between Wong Kee and Neptune.
+
+The proposed legal rule from **YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM** suggests that an "entire agreement" clause does not necessarily supersede prior informal agreements or course of dealings when part of a composite transaction. This rule finds support in both cases, but its broader implications must be considered.
+
+We've weighed arguments from both sides, particularly the strong point that the continuous and consistent transactions between Wong Kee and Neptune indicate a mutual understanding and acceptance of the terms proposed in the draft contract, even without formal execution. On the other hand, the absence of a composite transaction in the current case, as emphasized in the rebuttal, is a notable distinction.
+
+Considering the underlying legal principles of honoring the true commercial intent and context, ensuring fairness and predictability, and promoting commercial efficiency, we conclude that the "entire agreement" clause in the draft contract between Wong Kee and Neptune does not supersede the prior informal agreement and course of dealings. This decision aligns with the precedent set in **YUANTA SECURITIES (HONG KONG) CO LTD v. NG YIN LAM** and serves justice by recognizing the established business practices and mutual understandings that have developed over time between the parties.
+
+Therefore, the court should decide that the "entire agreement" clause does not supersede the prior informal agreement and course of dealings between Wong Kee and Neptune. This decision is justified because it honors the true commercial intent and context, ensures fairness and predictability, avoids unjust outcomes, and promotes commercial efficiency.
+
+
+# Contract Law: Whether Neptune's failure to supply crabs conforming to the norms and practices of the seafood trade constitutes a breach of contract
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Sale of Goods Ordinance Cap. 26 Sections 32, 53, and 55
+
+### Major Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 32
+
+   Conditions:
+   - The seller delivers to the buyer a quantity of goods less than he contracted to sell
+   - The seller delivers to the buyer a quantity of goods larger than he contracted to sell
+   - The seller delivers to the buyer the goods he contracted to sell mixed with goods of a different description not included in the contract
+
+   Consequences:
+   - The buyer may reject them, but if the buyer accepts the goods so delivered, he must pay for them at the contract rate
+   - The buyer may accept the goods included in the contract and reject the rest, or he may reject the whole. If the buyer accepts the whole of the goods so delivered he must pay for them at the contract rate
+   - The buyer may accept the goods which are in accordance with the contract and reject the rest, or he may reject the whole
+
+   Exceptions:
+   - The provisions of this section are subject to any usage of trade, special agreement, or course of dealing between the parties
+
+2. Sale of Goods Ordinance Cap. 26 Section 53
+
+   Conditions:
+   - The seller wrongfully neglects or refuses to deliver the goods to the buyer
+   - The buyer maintains an action against the seller for damages for non-delivery
+
+   Consequences:
+   - The measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of events, from the seller’s breach of contract
+   - Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered, or, if no time was fixed for delivery, then at the time of the neglect or refusal to deliver
+
+   Exceptions:
+   - None
+
+3. Sale of Goods Ordinance Cap. 26 Section 55
+
+   Conditions:
+   - There is a breach of warranty by the seller
+   - The buyer elects, or is compelled, to treat any breach of a condition on the part of the seller as a breach of warranty
+
+   Consequences:
+   - The buyer is not, by reason only of such breach of warranty, entitled to reject the goods
+   - He may set up against the seller the breach of warranty in diminution or extinction of the price
+   - Maintain an action against the seller for damages for the breach of warranty
+   - The measure of damages for breach of warranty is the estimated loss directly and naturally resulting, in the ordinary course of events, from the breach of warranty
+   - In the case of breach of warranty of quality, such loss is prima facie the difference between the value of the goods at the time of delivery to the buyer and the value they would have had if they had answered to the warranty
+
+   Exceptions:
+   - The buyer has set up the breach of warranty in diminution or extinction of the price, which does not prevent him from maintaining an action for the same breach of warranty if he has suffered further damage
+
+### Minor Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 32:
+- Neptune delivered to Wong Kee a quantity of goods (baby mud crabs) that did not conform to the norms and practices of the seafood trade.
+- The goods delivered (baby mud crabs) were of a different description than what was typically supplied and expected (adult crabs).
+- Wong Kee did not accept the baby mud crabs and suffered financial losses as a result.
+
+2. Sale of Goods Ordinance Cap. 26 Section 53:
+- Neptune wrongfully neglected to deliver the goods (adult crabs) as per the usual trade norms and practices.
+- Wong Kee can maintain an action against Neptune for damages for non-delivery of the expected goods.
+- The measure of damages would be the estimated loss directly and naturally resulting from Neptune’s breach of contract.
+
+3. Sale of Goods Ordinance Cap. 26 Section 55:
+- Neptune’s delivery of baby mud crabs instead of adult crabs can be treated as a breach of warranty of quality.
+- Wong Kee is not entitled to reject the goods solely based on the breach of warranty but can maintain an action for damages.
+- The measure of damages for the breach of warranty is the difference between the value of the baby crabs delivered and the value they would have had if they had answered to the warranty (adult crabs).
+
+### Conclusion:
+
+Neptune's failure to supply crabs conforming to the norms and practices of the seafood trade constitutes a breach of contract under the Sale of Goods Ordinance Cap. 26 Sections 32, 53, and 55. Wong Kee is entitled to maintain an action for damages for non-delivery and breach of warranty, with the measure of damages being the estimated loss directly and naturally resulting from Neptune’s breach of contract.
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (HCCT 40/2014)
+In the case of HCCT 40/2014 (precedent p), the court dealt with an application to set aside an arbitral award on the basis that it would be contrary to public policy to enforce the award. The plaintiff, A, argued that the arbitrator had failed to address a key defence (the Limitation Defence) which was central to the dispute. The court ruled that the failure to address this key issue constituted a serious procedural irregularity and a denial of due process, leading to the setting aside of the arbitral award and its remission to the arbitrator for reconsideration.
+
+### Step 2: Shared Legal Concepts
+Both in HCCT 40/2014 and in our current case, we see the following legal concepts and fact patterns:
+- **Legal Concept 1: Contractual Obligations and Breach**
+  - **Fact Pattern 1:** In HCCT 40/2014, A was found to have failed to deliver products that met the contractual standards. In our current case, Neptune failed to deliver crabs that conformed to the norms and practices of the seafood trade.
+- **Legal Concept 2: Implied Terms and Trade Practices**
+  - **Fact Pattern 2:** In HCCT 40/2014, the agreement included specific standards that the products had to meet. In our current case, the distribution of crab sizes generally conformed to the norms and practices of the seafood trade, which can be considered an implied term.
+- **Legal Concept 3: Failure to Address Key Issues**
+  - **Fact Pattern 3:** In HCCT 40/2014, the arbitrator failed to address the Limitation Defence, a key issue. In our current case, Neptune's failure to supply crabs conforming to trade norms is a key issue that needs to be addressed.
+- **Legal Concept 4: Public Policy and Fairness**
+  - **Fact Pattern 4:** In HCCT 40/2014, the court emphasized the importance of fairness and due process in arbitration. In our current case, fairness and adherence to trade norms are crucial for maintaining trust and predictability in commercial transactions.
+
+### Step 3: Extraction of Legal Rule from Precedent (HCCT 40/2014)
+This suggests a general rule that when we see a failure to address key contractual obligations and implied terms based on trade practices, the court should decide that there has been a breach of contract. This rule was justified in HCCT 40/2014 because the positive effects (E+) of ensuring fairness, due process, and adherence to contractual and trade norms outweigh the negative effects (E-) of setting aside an arbitral award. Ensuring that key issues are addressed and that trade practices are respected upholds the integrity of commercial transactions and promotes trust in the legal system.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (HCCT 40/2014) are present:
+
+- **Legal Concept 1: Contractual Obligations and Breach**
+  - **Fact Pattern 1:** In HCCT 40/2014, A was found to have failed to deliver products that met the contractual standards. In our current case, Neptune failed to deliver crabs that conformed to the norms and practices of the seafood trade.
+- **Legal Concept 2: Implied Terms and Trade Practices**
+  - **Fact Pattern 2:** In HCCT 40/2014, the agreement included specific standards that the products had to meet. In our current case, the distribution of crab sizes generally conformed to the norms and practices of the seafood trade, which can be considered an implied term.
+- **Legal Concept 3: Failure to Address Key Issues**
+  - **Fact Pattern 3:** In HCCT 40/2014, the arbitrator failed to address the Limitation Defence, a key issue. In our current case, Neptune's failure to supply crabs conforming to trade norms is a key issue that needs to be addressed.
+- **Legal Concept 4: Public Policy and Fairness**
+  - **Fact Pattern 4:** In HCCT 40/2014, the court emphasized the importance of fairness and due process in arbitration. In our current case, fairness and adherence to trade norms are crucial for maintaining trust and predictability in commercial transactions.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome: finding that Neptune's failure to supply crabs conforming to the norms and practices of the seafood trade constitutes a breach of contract. This decision would be justified because, as in HCCT 40/2014, it would have the following positive effects:
+
+1. **Ensuring Fairness and Due Process:** Just as in HCCT 40/2014, addressing the key issue of conformity to trade norms ensures that both parties are treated fairly and that their expectations based on industry standards are met.
+2. **Upholding Contractual and Trade Norms:** By recognizing the implied terms based on trade practices, the court would reinforce the importance of adhering to established norms, which is crucial for the predictability and stability of commercial transactions.
+3. **Promoting Trust in the Legal System:** Ensuring that key issues are addressed and that trade practices are respected upholds the integrity of commercial transactions and promotes trust in the legal system, similar to the precedent case.
+4. **Preventing Substantial Injustice:** As in HCCT 40/2014, failing to address a key issue like the conformity to trade norms would result in substantial injustice and unfairness to Wong Kee, who relied on these norms for its business operations.
+
+Therefore, the court should find that Neptune's failure to supply crabs conforming to the norms and practices of the seafood trade constitutes a breach of contract, ensuring fairness, adherence to trade norms, and trust in the legal system.
 
 ### Step 5: Distinction Due to Missing Feature in Current Case
 Skipped
 
 ### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, namely the specific exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, that was not present in [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK]. This factor significantly alters the situation described by the shared fact pattern of triable issues and factual disputes.
-
-In the precedent case, the court focused on the factual disputes and triable issues related to the performance and terms of the consultancy service agreement. However, in our current case, the exclusion clause specifically addresses the liability for damages during transportation, contingent upon the user undertaking the recommended systems check and presenting the results in writing.
-
-Due to the presence of this exclusion clause, applying the same outcome of denying summary judgment and proceeding to trial would have more negative consequences, such as undermining the enforceability of clearly stipulated contractual terms. Unlike in [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK], where the terms were broad and vague, the exclusion clause in our current case is specific and clear, providing a defined condition for liability.
-
-Therefore, the presence of this exclusion clause significantly alters the balance of positive and negative effects, making it inappropriate to apply the same outcome as in the precedent case. The court should instead focus on the enforceability of the exclusion clause and whether Vulcanicity Ltd complied with the stipulated conditions, which may not necessitate a full trial if the clause is found to be clear and enforceable.
+Our current case involves an important factor, the "Seller’s Liability" provision, that was not present in HCCT 40/2014. This factor significantly alters the situation described by the shared fact pattern of implied terms and trade practices. The "Seller’s Liability" provision in the current case explicitly excludes all liability for any loss or damage arising from any defect in any seafood product supplied, however caused. Due to this provision, applying the same outcome of finding a breach of contract in our case would have more negative consequences such as undermining the explicit terms agreed upon by the parties and potentially disregarding the principle of freedom of contract. Unlike in HCCT 40/2014, where the focus was on procedural fairness and addressing key issues, the presence of the "Seller’s Liability" provision in our case introduces a clear contractual term that limits Neptune's liability, which must be considered to avoid unjustly overriding the parties' agreed terms.
 
 ### Step 7: Argument from Undesirable Consequence
-
-We propose that the correct rule from [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK] should be stated as "When both [the presence of factual disputes and triable issues] and [the existence of a specific exclusion clause] are present, the court should decide [to deny summary judgment and proceed to trial]." Omitting [the existence of a specific exclusion clause] from this rule could lead to [the undesirable consequence of undermining the enforceability of clearly stipulated contractual terms]. Indeed, the opinion in [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK] explicitly states that [the court must not embark on a mini trial on affidavits and should ensure that all factual disputes are thoroughly examined, which implicitly includes examining the enforceability of specific contractual terms].
+We propose that the correct rule from HCCT 40/2014 should be stated as: "When both the failure to address key contractual obligations and implied terms based on trade practices (i*) and the presence of an explicit liability exclusion clause (m) are present, the court should decide that there has been no breach of contract (o)." Omitting the explicit liability exclusion clause (m) from this rule could lead to the undesirable consequence (q) of undermining the explicit terms agreed upon by the parties and potentially disregarding the principle of freedom of contract. Indeed, the opinion in HCCT 40/2014 explicitly states that addressing key issues and ensuring fairness were crucial to their decision. However, in our current case, the explicit liability exclusion clause must be considered to avoid unjustly overriding the parties' agreed terms.
 
 ### Step 8: Distinction from Non-occurring Undesirable Consequence
-
-The rule established in [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK] was clearly designed to prevent [the undesirable consequence of granting summary judgment in cases where there are genuine factual disputes and triable issues, thereby ensuring a fair trial]. However, in our current case, there's no risk of [undermining the enforceability of clearly stipulated contractual terms] if the court focuses on the specific exclusion clause and its enforceability. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. Instead, the court should examine the enforceability of the exclusion clause and whether Vulcanicity Ltd complied with the stipulated conditions, which may not necessitate a full trial if the clause is found to be clear and enforceable.
+The rule established in HCCT 40/2014 was clearly designed to prevent the undesirable consequence (u) of procedural unfairness and denial of due process by ensuring that key issues are addressed. However, in our current case, there's no risk of procedural unfairness or denial of due process because the explicit liability exclusion clause was part of the agreed terms between Wong Kee and Neptune. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves—ensuring procedural fairness and addressing key issues—is not relevant to our situation where the explicit terms of the contract must be respected.
 
 ### Step 9: Downplaying Significance of Distinction
-
-While it's true that our case lacks the specific exclusion clause factor, which was present in the precedent case [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK], requiring this factor for all similar cases of factual disputes and triable issues would lead to the undesirable consequence of undermining the enforceability of clearly stipulated contractual terms. Conversely, not requiring the specific exclusion clause would allow for a more thorough examination of the factual disputes and triable issues, which better aligns with the underlying principles of the law in this area, such as ensuring a fair trial and upholding contractual obligations.
+While it's true that our case lacks the explicit liability exclusion clause (m), which was present in the precedent case HCCT 40/2014, requiring this factor for all similar cases of failure to address key contractual obligations and implied terms based on trade practices (i*) would lead to the undesirable consequence of undermining the principle of fairness and due process. Conversely, not requiring the explicit liability exclusion clause (m) would allow for the desirable outcome of ensuring that key issues are addressed and that trade practices are respected, which better aligns with the underlying principles of the law in this area. This approach promotes trust in commercial transactions and upholds the integrity of contractual agreements.
 
 ### Step 10: Feature Substitution
-
-Although our case lacks the specific exclusion clause factor, which was present in [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK], we have the additional factor of the clear and specific terms of the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd. This clear and specific exclusion clause, when considered alongside the shared circumstances of factual disputes and triable issues, serves a similar function to the broad and vague terms in the precedent case. Given the presence of this clear and specific exclusion clause, we submit that the reasoning in [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK] still applies, as the positive effects on relevant legal values, such as ensuring a fair trial and upholding contractual obligations, would still outweigh any potential negative consequences, just as they did in the precedent case.
+Although our case lacks the explicit liability exclusion clause (m), which was present in HCCT 40/2014, we have the additional factor of the established norms and practices of the seafood trade (n). This factor (n), when considered alongside the shared circumstances of failure to address key contractual obligations and implied terms based on trade practices (i*), serves a similar function to the explicit liability exclusion clause (m) in the precedent case. Given the presence of the established norms and practices of the seafood trade (n), we submit that the reasoning in HCCT 40/2014 still applies, as the positive effects on fairness, due process, and adherence to trade norms would still outweigh any potential negative consequences, just as they did in the precedent case.
 
 ### Step 11: Conclusion
 
-After careful consideration of all arguments presented, including the initial analogy to [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK], the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of factual disputes and triable issues, and the examination of contractual obligations and consideration. However, it also differs in significant ways, particularly the presence of a specific exclusion clause in the current case, which was not a factor in the precedent.
+After careful consideration of all arguments presented, including the initial analogy to HCCT 40/2014, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the failure to address key contractual obligations and implied terms based on trade practices. However, it also differs significantly due to the presence of the explicit "Seller’s Liability" provision in the current case, which was not present in HCCT 40/2014.
 
-The proposed legal rule from the precedent case, which suggests that summary judgment should be denied when there are factual disputes and triable issues, finds support in both cases. However, the broader implications of this rule must be considered, especially in light of the specific exclusion clause in the current case.
+The proposed legal rule from HCCT 40/2014, which emphasizes the importance of addressing key issues and ensuring fairness and due process, finds support in both cases. However, its broader implications must be considered, especially in light of the explicit liability exclusion clause in the current case.
 
-We've weighed arguments from both sides. On one hand, the Albright Cancer Research Foundation argues that the reduction in the annual fee by M-Scan Ltd does not constitute sufficient consideration for the change in donation terms, and that there are factual disputes that require a trial. On the other hand, Care 2 U Ltd relies on the exclusion clause to deny liability for damages during transportation, arguing that the enforceability of this clause should be examined.
+We've weighed arguments from both sides, particularly the strong point that the explicit liability exclusion clause should be respected to uphold the principle of freedom of contract (as argued in the rebuttal), and the counterpoint that fairness and adherence to trade norms are crucial for maintaining trust and predictability in commercial transactions (as argued in the surrebuttal).
 
-Considering the underlying legal principles of ensuring a fair trial, upholding contractual obligations, and the enforceability of clearly stipulated contractual terms, we conclude that the court should deny summary judgment and allow the case to proceed to trial. This decision aligns with the precedent set in [KWOK TAK WAI T/A PRIME SOLUTION CONSULTING CO v. WONG KA SEK], ensuring that all factual disputes and triable issues are thoroughly examined, providing both parties with a fair opportunity to present their case.
+Considering the underlying legal principles of fairness, due process, and the importance of upholding contractual and trade norms, we conclude that Neptune's failure to supply crabs conforming to the norms and practices of the seafood trade does constitute a breach of contract. This decision is justified because:
 
-However, the court should also specifically examine the enforceability of the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd. If the clause is found to be clear and enforceable, it may not necessitate a full trial regarding the liability for damages during transportation.
+1. **Ensuring Fairness and Due Process:** Addressing the key issue of conformity to trade norms ensures that both parties are treated fairly and that their expectations based on industry standards are met.
+2. **Upholding Contractual and Trade Norms:** Recognizing the implied terms based on trade practices reinforces the importance of adhering to established norms, which is crucial for the predictability and stability of commercial transactions.
+3. **Promoting Trust in the Legal System:** Ensuring that key issues are addressed and that trade practices are respected upholds the integrity of commercial transactions and promotes trust in the legal system.
 
-In conclusion, the decision to deny summary judgment and proceed to trial is justified by the need to ensure a fair trial and thorough examination of all factual disputes, while also considering the enforceability of specific contractual terms. This approach serves justice and legal consistency, upholding the principles of contract law and providing clarity on the enforceability of exclusion clauses.
+However, the explicit "Seller’s Liability" provision must also be considered. While this clause limits Neptune's liability for defects, it does not necessarily absolve Neptune from the obligation to supply crabs that conform to the norms and practices of the seafood trade. The clause may limit the remedies available to Wong Kee but does not negate the breach itself.
+
+Therefore, the court should find that Neptune's failure to supply crabs conforming to the norms and practices of the seafood trade constitutes a breach of contract, ensuring fairness, adherence to trade norms, and trust in the legal system, while also considering the limitations imposed by the "Seller’s Liability" provision. This balanced approach aligns with legal precedent and serves justice and legal consistency.
 
 
-# Contract Law: Whether the notice given by M-Scan Ltd to existing customers about the change in donation terms is sufficient and legally binding
+# Contract Law: Whether Wong Kee's continued acceptance of crabs from Neptune after receiving the amended draft contract implies acceptance of the new terms
 
 ## Deductive reasoning: legislation
 
 ### Relevant law:
 
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6
+Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1 and 2, Section 32 Subsection 1, 2, and 3
 
 ### Major Premise:
 
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6
+1. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1
 
    Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The third party has assented to the term and the promisor has received notice of the assent; or
-   - The third party has relied on the term and the promisor is aware of the reliance or can reasonably be expected to have foreseen that the third party would rely on the term.
+   - There is a contract of sale.
+   - Any right, duty or liability would arise under the contract by implication of law.
 
    Consequences:
-   - The parties to the contract may not, without the third party’s consent, by agreement, rescind the contract; or
-   - By agreement, vary the contract so that the third party’s right under the term is altered or extinguished.
+   - It may be negatived or varied by express agreement, or by the course of dealing between the parties, or by usage if the usage is such as to bind both parties to the contract.
 
    Exceptions:
-   - An express term of the contract provides that one or more parties to the contract may rescind or vary the contract without the third party’s consent; or
-   - The third party’s consent to rescind or vary the contract is required in circumstances specified in the contract instead of those set out in subsection (2)(a) and (b); and
-   - Before the circumstances set out in subsection (2)(a) or (b) occur, the third party is aware of the term referred to in subsection (3); or
-   - One or more parties to the contract have taken reasonable steps to make the third party aware of the term.
+   - Subject to the Control of Exemption Clauses Ordinance (Cap. 71).
 
-### Minor Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6:
-
-   - The Albright Cancer Research Foundation is a third party that may enforce the term of the contract under section 4, as they are the intended beneficiary of the donation clause.
-   - The Foundation has relied on the term, as evidenced by their allocation of funds to projects based on the promised cash flow.
-   - M-Scan Ltd is aware of the reliance, as the Foundation has communicated the severe funding implications of the change.
-
-   - The standard form contract does not contain an express term allowing M-Scan Ltd to rescind or vary the contract without the Foundation’s consent.
-   - The Foundation was not made aware of any term that would allow M-Scan Ltd to unilaterally change the donation terms.
-   - M-Scan Ltd has not taken reasonable steps to make the Foundation aware of any such term.
-
-### Conclusion:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 applies, and M-Scan Ltd may not, without the Albright Cancer Research Foundation’s consent, rescind or vary the contract to alter or extinguish the Foundation’s right to the promised donations. Therefore, the Albright Cancer Research Foundation can claim the promised revenue from M-Scan Ltd.
-
-### Relevant law:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6
-
-### Major Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6
+2. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 2
 
    Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The third party has assented to the term and the promisor has received notice of the assent; or
-   - The third party has relied on the term and the promisor is aware of the reliance or can reasonably be expected to have foreseen that the third party would rely on the term.
+   - There is an express condition or warranty in a contract of sale.
 
    Consequences:
-   - The parties to the contract may not, without the third party’s consent, by agreement, rescind the contract; or
-   - By agreement, vary the contract so that the third party’s right under the term is altered or extinguished.
-
-   Exceptions:
-   - An express term of the contract provides that one or more parties to the contract may rescind or vary the contract without the third party’s consent; or
-   - The third party’s consent to rescind or vary the contract is required in circumstances specified in the contract instead of those set out in subsection (2)(a) and (b); and
-   - Before the circumstances set out in subsection (2)(a) or (b) occur, the third party is aware of the term referred to in subsection (3); or
-   - One or more parties to the contract have taken reasonable steps to make the third party aware of the term.
-
-### Minor Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6:
-
-   - Care 2 U Ltd is a third party that may enforce the exclusion clause in the contract under section 4, as they are the intended beneficiary of the exclusion clause.
-   - The exclusion clause is conditional upon the user of the equipment undertaking the recommended systems check and presenting the results in writing to both Care 2 U Ltd and M-Scan Ltd.
-   - Vulcanicity Ltd failed to undertake the systems check before the scanner was collected.
-   - The driver from Care 2 U Ltd did not recognize the difference in the paperwork, but this does not negate the condition precedent for the exclusion clause to apply.
-
-### Conclusion:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 applies, and Care 2 U Ltd can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, as the condition precedent (the systems check) was not fulfilled by Vulcanicity Ltd. Therefore, Care 2 U Ltd is not liable for any damages done during transportation, delivery, or return.
-
-## Reasoning by analogy: cases
-
-### Step 1: Outcome of Precedent (Carewins Development (China) Limited v Bright Fortune Shipping Limited)
-In the case of Carewins Development (China) Limited v Bright Fortune Shipping Limited (precedent p), the court ruled that a carrier of goods shipped under a straight bill of lading is potentially liable for breach of contract or in conversion if it releases those goods without production of the original bill of lading. The court emphasized that the presentation rule is a cardinal purpose of the bill of lading contract, and any exemption clause must be construed strictly and clearly to exclude liability for such a fundamental breach.
-
-### Step 2: Shared Legal Concepts
-Both in Carewins Development (China) Limited v Bright Fortune Shipping Limited and in our current case, we see the following legal concepts and fact patterns:
-- **Legal Concept 1: Fundamental Obligation in Contract**: In Carewins, the fundamental obligation was the presentation rule for the bill of lading. In the current case, the fundamental obligation is the performance of a systems check before transportation.
-  - **Fact Pattern 1**: In Carewins, the carrier failed to adhere to the presentation rule. In the current case, Vulcanicity Ltd failed to perform the systems check.
-- **Legal Concept 2: Exclusion Clauses**: In Carewins, the court scrutinized the exclusion clause to determine if it clearly exempted the carrier from liability. In the current case, Care 2 U Ltd relies on an exclusion clause to avoid liability for damages during transportation.
-  - **Fact Pattern 2**: In Carewins, the exclusion clause was not sufficiently clear to exempt the carrier from liability for a fundamental breach. In the current case, the exclusion clause is being tested for its clarity and applicability.
-- **Legal Concept 3: Interpretation of Contract Terms**: In Carewins, the court applied the principle of contra proferentem to interpret the exclusion clause. In the current case, the same principle may be applied to interpret the exclusion clause in favor of Vulcanicity Ltd.
-  - **Fact Pattern 3**: In Carewins, the court interpreted the exclusion clause against the carrier. In the current case, the exclusion clause may be interpreted against Care 2 U Ltd if it is ambiguous.
-- **Legal Concept 4: Notice and Modification of Contract Terms**: In Carewins, the court did not directly address modification of contract terms, but the principles of contract interpretation and fundamental obligations are relevant. In the current case, M-Scan Ltd has modified the terms of the donation to the Albright Cancer Research Foundation.
-  - **Fact Pattern 4**: In Carewins, the focus was on the fundamental obligation and exclusion clause. In the current case, the focus is on whether the notice given by M-Scan Ltd is sufficient to modify the contract terms.
-
-### Step 3: Extraction of Legal Rule from Precedent (Carewins Development (China) Limited v Bright Fortune Shipping Limited)
-This suggests a general rule that when we see a fundamental obligation in a contract (fact pattern i*), the court should decide that any exclusion clause must be clear and unambiguous to exempt liability for a breach of that fundamental obligation (outcome o). This rule was justified in Carewins Development (China) Limited v Bright Fortune Shipping Limited because the positive effects (E+) of ensuring that fundamental contractual obligations are upheld and that exclusion clauses are interpreted strictly to protect the parties' reasonable expectations outweigh the negative effects (E-) of potentially limiting the scope of exclusion clauses in commercial contracts. This approach maintains the integrity of contractual obligations and provides clarity and fairness in commercial transactions.
-
-### Step 4: Applying the Rule to the Current Case
-
-In the current case, the same legal concepts and fact patterns as the precedent (Carewins Development (China) Limited v Bright Fortune Shipping Limited) are present:
-
-- **Legal Concept 1: Fundamental Obligation in Contract**: 
-  - **Fact Pattern 1**: In Carewins, the fundamental obligation was the presentation rule for the bill of lading. In the current case, the fundamental obligation is the performance of a systems check before transportation. Vulcanicity Ltd failed to perform this systems check.
-
-- **Legal Concept 2: Exclusion Clauses**: 
-  - **Fact Pattern 2**: In Carewins, the court scrutinized the exclusion clause to determine if it clearly exempted the carrier from liability. In the current case, Care 2 U Ltd relies on an exclusion clause to avoid liability for damages during transportation. The exclusion clause states that the carriers will not be liable for any damages done during transportation, delivery, or return, where the user of the equipment has not undertaken the recommended systems check and presented the results in writing to both Care 2 U Ltd and M-Scan Ltd.
-
-- **Legal Concept 3: Interpretation of Contract Terms**: 
-  - **Fact Pattern 3**: In Carewins, the court applied the principle of contra proferentem to interpret the exclusion clause. In the current case, the same principle may be applied to interpret the exclusion clause in favor of Vulcanicity Ltd. The exclusion clause must be clear and unambiguous to exempt Care 2 U Ltd from liability.
-
-- **Legal Concept 4: Notice and Modification of Contract Terms**: 
-  - **Fact Pattern 4**: In Carewins, the focus was on the fundamental obligation and exclusion clause. In the current case, the focus is on whether the notice given by M-Scan Ltd is sufficient to modify the contract terms regarding the donation to the Albright Cancer Research Foundation. M-Scan Ltd has given notice to existing customers that the donation will cease and the annual donation will drop from 10 per cent to 5 per cent, with a corresponding reduction in the annual fee.
-
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in Carewins Development (China) Limited v Bright Fortune Shipping Limited. This decision would be justified because, as in Carewins, it would have the following positive effects:
-
-1. **Upholding Fundamental Contractual Obligations**: Ensuring that fundamental contractual obligations, such as the performance of a systems check before transportation, are upheld. This maintains the integrity and reliability of commercial contracts.
-
-2. **Strict Interpretation of Exclusion Clauses**: Interpreting exclusion clauses strictly and clearly to protect the parties' reasonable expectations. This ensures that exclusion clauses do not unfairly exempt parties from liability for fundamental breaches of contract.
-
-3. **Fairness and Clarity in Commercial Transactions**: Providing clarity and fairness in commercial transactions by ensuring that exclusion clauses are not used to negate essential contractual obligations. This promotes trust and confidence in commercial dealings.
-
-4. **Protection of Third-Party Beneficiaries**: In the case of the Albright Cancer Research Foundation, ensuring that third-party beneficiaries are protected from unilateral changes to contract terms that significantly impact their expected benefits. This promotes fairness and accountability in contractual relationships involving third-party beneficiaries.
-
-Therefore, applying the rule from Carewins Development (China) Limited v Bright Fortune Shipping Limited to the current case would ensure that the exclusion clause is interpreted strictly and that the fundamental obligation of performing a systems check is upheld. Additionally, the notice given by M-Scan Ltd regarding the change in donation terms should be scrutinized to ensure it is legally sufficient and does not unfairly impact the Albright Cancer Research Foundation.
-
-### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case **Carewins Development (China) Limited v Bright Fortune Shipping Limited**, the court's decision was significantly influenced by the **presentation rule**. The presentation rule was key in ensuring that the benefits of the ruling, such as upholding the integrity of the bill of lading system and protecting the shipper from fraud, outweighed any potential drawbacks because it maintained the fundamental purpose of the contract. However, in our current case, this crucial **presentation rule** is notably absent as the fundamental obligation in question is the performance of a systems check before transportation, not the presentation of a bill of lading.
-
-### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor **(the modification of donation terms to the Albright Cancer Research Foundation)** that was not present in **Carewins Development (China) Limited v Bright Fortune Shipping Limited**. This factor significantly alters the situation described by **i*** because it introduces the issue of whether a unilateral modification of contract terms, specifically regarding third-party beneficiaries, is legally permissible. Due to **the modification of donation terms**, applying the same outcome in our case would have more negative consequences such as undermining the trust and reliance of third-party beneficiaries on promised donations, which could lead to severe funding implications for the Albright Cancer Research Foundation. Unlike in **Carewins**, where the focus was on the fundamental obligation and exclusion clause within a commercial contract, our case involves the additional complexity of third-party beneficiary rights and the impact of contract modifications on those rights.
-
-### Step 7: Argument from Undesirable Consequence
-We propose that the correct rule from **Carewins Development (China) Limited v Bright Fortune Shipping Limited** should be stated as 'When both [a fundamental obligation in a contract] and [the modification of contract terms affecting third-party beneficiaries] are present, the court should decide [that any exclusion clause must be clear and unambiguous to exempt liability for a breach of that fundamental obligation, and that unilateral modifications affecting third-party beneficiaries are not permissible without their consent].' Omitting [the modification of contract terms affecting third-party beneficiaries] from this rule could lead to [undesirable consequence q], which is undermining the trust and reliance of third-party beneficiaries on promised benefits, potentially causing severe funding implications for organizations like the Albright Cancer Research Foundation. Indeed, the opinion in **Carewins Development (China) Limited v Bright Fortune Shipping Limited** explicitly states that [the fundamental obligation was crucial to their decision], and by analogy, the modification of contract terms affecting third-party beneficiaries is equally crucial in our current case.
-
-### Step 8: Distinction from Non-occurring Undesirable Consequence
-The rule established in **Carewins Development (China) Limited v Bright Fortune Shipping Limited** was clearly designed to prevent [the undesirable consequence of carriers avoiding liability for fundamental breaches of contract through ambiguous exclusion clauses]. However, in our current case, there's no risk of [carriers avoiding liability for fundamental breaches through ambiguous exclusion clauses] occurring in the context of the donation modification. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. Instead, the focus should be on ensuring that third-party beneficiaries, like the Albright Cancer Research Foundation, are protected from unilateral modifications that significantly impact their expected benefits.
-
-### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the presentation rule, which was present in the precedent case Carewins Development (China) Limited v Bright Fortune Shipping Limited, requiring this factor for all similar cases of fundamental obligation in a contract would lead to an undesirable consequence. Specifically, it would mean that exclusion clauses could be used to negate fundamental obligations in contracts where the presentation rule is not applicable, thereby undermining the integrity and reliability of commercial contracts. Conversely, not requiring the presentation rule would allow for a more consistent application of the principle that exclusion clauses must be clear and unambiguous to exempt liability for breaches of fundamental obligations. This better aligns with the underlying principles of contract law, which aim to uphold the parties' reasonable expectations and ensure fairness in commercial transactions.
-
-### Step 10: Feature Substitution
-Although our case lacks the presentation rule, which was present in Carewins Development (China) Limited v Bright Fortune Shipping Limited, we have the additional factor of the modification of contract terms affecting third-party beneficiaries. This factor, when considered alongside the shared circumstances of a fundamental obligation in a contract and the use of an exclusion clause, serves a similar function to the presentation rule in the precedent case. Given the presence of the modification of contract terms affecting third-party beneficiaries, we submit that the reasoning in Carewins Development (China) Limited v Bright Fortune Shipping Limited still applies. The positive effects on legal values, such as upholding fundamental contractual obligations, ensuring strict interpretation of exclusion clauses, and protecting third-party beneficiaries, would still outweigh any potential negative consequences, just as they did in the precedent case.
-
-### Step 11: Conclusion
-
-After careful consideration of all arguments presented, including the initial analogy to **Carewins Development (China) Limited v Bright Fortune Shipping Limited**, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the presence of a fundamental obligation in a contract and the use of an exclusion clause. However, it also differs in significant ways, particularly the absence of the presentation rule and the introduction of the modification of contract terms affecting third-party beneficiaries.
-
-The proposed legal rule that any exclusion clause must be clear and unambiguous to exempt liability for a breach of a fundamental obligation finds support in both cases. However, its broader implications must be considered, especially in the context of third-party beneficiaries and unilateral contract modifications.
-
-We've weighed arguments from both sides, particularly the strong point that exclusion clauses should be strictly interpreted to protect fundamental contractual obligations (as argued in the precedent) and the counterpoint that the modification of contract terms affecting third-party beneficiaries introduces additional complexities not present in the precedent case.
-
-Considering the underlying legal principles of upholding fundamental contractual obligations, ensuring strict interpretation of exclusion clauses, and protecting third-party beneficiaries, we conclude that:
-
-1. **Albright Cancer Research Foundation's Claim**: The Albright Cancer Research Foundation can claim the promised revenue from M-Scan Ltd. The unilateral modification of the donation terms without the consent of the third-party beneficiary (the Foundation) is not legally permissible. The notice given by M-Scan Ltd is insufficient to modify the contract terms affecting the Foundation's expected benefits, as it undermines the trust and reliance of the third-party beneficiary on the promised donations.
-
-2. **Care 2 U Ltd's Reliance on the Exclusion Clause**: Care 2 U Ltd cannot rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd to avoid liability for the damages done during transportation. The exclusion clause must be clear and unambiguous to exempt liability for a breach of a fundamental obligation. In this case, the fundamental obligation is the performance of a systems check before transportation. Given the ambiguity in the exclusion clause and the principle of contra proferentem, the clause should be interpreted against Care 2 U Ltd, holding them liable for the damages.
-
-This decision aligns with legal precedent while also serving justice and legal consistency by ensuring that fundamental contractual obligations are upheld, exclusion clauses are strictly interpreted, and third-party beneficiaries are protected from unilateral modifications that significantly impact their expected benefits.
-
-
-# Contract Law: Whether the original contract between M-Scan Ltd and its customers included a binding obligation to donate a specific percentage to the Albright Cancer Research Foundation
-
-## Deductive reasoning: legislation
-
-### Relevant law:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Sections 4, 8, and 11
-
-### Major Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 4 Subsections 1-3
-
-   Conditions:
-   - A third party may enforce a term of a contract (including a term that excludes or limits liability)
-   - The contract expressly provides that the third party may do so; or
-   - The term purports to confer a benefit on the third party
-
-   Consequences:
-   - The third party may enforce the term
-
-   Exceptions:
-   - Subsection (1)(b) does not apply if, on a proper construction of the contract, the term is not intended to be enforceable by the third party
-
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 2
-
-   Conditions:
-   - A third party may enforce a term of a contract under section 4
-   - The promisor has wholly or partly performed the promisor’s obligations to the third party under the term
-
-   Consequences:
-   - The promisor is discharged from the obligations owed by the promisor to the promisee to the extent of having performed the same obligations to the third party
-
-   Exceptions:
-   - None
-
-3. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 4
-
-   Conditions:
-   - A third party may enforce a term of a contract under section 4
-   - The promisee has recovered from the promisor a sum for:
-     * The third party’s loss in relation to the term; or
-     * The expense to the promisee of making good to the third party the default of the promisor in relation to the term
-
-   Consequences:
-   - In any proceedings brought under section 4 before a court or arbitral tribunal by the third party, the court or arbitral tribunal must reduce any award to the third party to the extent to which it thinks appropriate to take account of the sum
-
-   Exceptions:
-   - None
-
-4. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 8 Subsections 1-4
-
-   Conditions:
-   - A third party brings proceedings to enforce a term of a contract under section 4
-
-   Consequences:
-   - The promisor may raise one or more of the following matters by way of defence or set-off:
-     * A matter that arises from or in connection with the contract and is relevant to the term; and would have been available to the promisor by way of defence or set-off if the proceedings had been brought by the promisee
-     * A matter in respect of which the following conditions are met:
-       - An express term of the contract provides for the matter to be available to the promisor by way of defence or set-off in proceedings brought by the third party; and
-       - The matter would have been available to the promisor by way of defence or set-off if the proceedings had been brought by the promisee
-     * A matter that would have been available to the promisor by way of defence or set-off if the third party had been a party to the contract
-
-   Exceptions:
-   - Subsections (2)(a) and (c) and (3) are subject to any express term of the contract specifying matters not available to the promisor by way of defence, set-off or counterclaim
-
-### Minor Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 4 Subsections 1-3:
-   - The contract between M-Scan Ltd and its customers includes a term that purports to confer a benefit on the Albright Cancer Research Foundation (10% of the annual fee and 1% of each booking).
-   - The term is intended to be enforceable by the Albright Cancer Research Foundation as it is explicitly stated in the contract.
-
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 2:
-   - The Albright Cancer Research Foundation may enforce the term of the contract under section 4.
-   - M-Scan Ltd has partly performed its obligations to the Albright Cancer Research Foundation by making donations in the past.
-   - M-Scan Ltd is discharged from the obligations owed to the promisee (customers) to the extent of having performed the same obligations to the Albright Cancer Research Foundation.
-
-3. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 4:
-   - The Albright Cancer Research Foundation may enforce the term of the contract under section 4.
-   - There is no indication that the promisee (customers) has recovered any sum from M-Scan Ltd for the Albright Cancer Research Foundation’s loss or expenses.
-
-4. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 8 Subsections 1-4:
-   - The Albright Cancer Research Foundation may bring proceedings to enforce the term of the contract under section 4.
-   - M-Scan Ltd may raise defences or set-offs that would have been available if the proceedings had been brought by the promisee (customers).
-
-### Conclusion:
-
-The Albright Cancer Research Foundation can claim the promised revenue from M-Scan Ltd under the Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 4. M-Scan Ltd's attempt to unilaterally reduce the donation percentage without the consent of the Albright Cancer Research Foundation is not enforceable, and the Foundation can seek to enforce the original terms of the contract.
-
-Regarding Care 2 U Ltd, they can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, provided that the conditions for the exclusion clause are met. Since Vulcanicity Ltd failed to undertake the recommended systems check, Care 2 U Ltd can invoke the exclusion clause to avoid liability for the damages during transportation.
-
-## Reasoning by analogy: cases
-
-### Step 1: Outcome of Precedent (LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON)
-In the case of LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON (precedent p), the plaintiffs sought to re-amend their Amended Statement of Claim to introduce a new claim for breach of contract, which was factually inconsistent with their existing claim based on conditions attached to a gift. The court ruled that the plaintiffs could not plead inconsistent factual alternatives when the facts were plainly within their knowledge, and thus, the proposed amendments were refused.
-
-### Step 2: Shared Legal Concepts
-Both in LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON and in our current case, we see the following legal concepts and fact patterns:
-- **Legal Concept 1: Contractual Obligations and Amendments**
-  - **Fact Pattern 1**: In the precedent case, the plaintiffs attempted to amend their claim to introduce a new contractual obligation. In the current case, M-Scan Ltd is attempting to amend the terms of their contract with their customers by reducing the donation percentage to the Albright Cancer Research Foundation.
-- **Legal Concept 2: Reliance on Promised Revenue**
-  - **Fact Pattern 2**: In the precedent case, the plaintiffs relied on the conditions set out in Liu Sr’s Statement. In the current case, the Albright Cancer Research Foundation relied on the promised donations from M-Scan Ltd for their funding allocations.
-- **Legal Concept 3: Exclusion Clauses in Contracts**
-  - **Fact Pattern 3**: In the precedent case, the court examined the enforceability of conditions attached to a gift. In the current case, Care 2 U Ltd is relying on an exclusion clause in the contract to avoid liability for damages during transportation.
-- **Legal Concept 4: Good Faith and Tactical Manoeuvring**
-  - **Fact Pattern 4**: In the precedent case, the court considered the plaintiffs' bad faith and tactical manoeuvring in attempting to amend their claim. In the current case, the Albright Cancer Research Foundation may argue that M-Scan Ltd’s unilateral amendment of the donation terms constitutes bad faith.
-
-### Step 3: Extraction of Legal Rule from Precedent (LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON)
-This suggests a general rule that when we see a fact pattern where a party attempts to amend a contract or claim in a way that introduces inconsistent factual alternatives or undermines reliance interests, the court should decide against allowing such amendments. This rule was justified in LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON because the positive effects (E+) of maintaining consistency and protecting reliance interests on the underlying values and principles of the law outweigh the negative effects (E-) of allowing tactical manoeuvring and bad faith amendments. 
-
-In the current case, applying this rule would mean that the Albright Cancer Research Foundation could argue that M-Scan Ltd’s attempt to amend the donation terms should not be allowed because it undermines the Foundation’s reliance on the promised revenue. Similarly, Care 2 U Ltd may not be able to rely on the exclusion clause if it is found that the clause was not properly communicated or if there was bad faith in its enforcement.
-
-### Step 4: Applying the Rule to the Current Case
-
-In the current case, the same legal concepts and fact patterns as the precedent (LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON) are present:
-
-- **Legal Concept 1: Contractual Obligations and Amendments**
-  - **Fact Pattern 1**: In the precedent case, the plaintiffs attempted to amend their claim to introduce a new contractual obligation. In the current case, M-Scan Ltd is attempting to amend the terms of their contract with their customers by reducing the donation percentage to the Albright Cancer Research Foundation.
-
-- **Legal Concept 2: Reliance on Promised Revenue**
-  - **Fact Pattern 2**: In the precedent case, the plaintiffs relied on the conditions set out in Liu Sr’s Statement. In the current case, the Albright Cancer Research Foundation relied on the promised donations from M-Scan Ltd for their funding allocations.
-
-- **Legal Concept 3: Exclusion Clauses in Contracts**
-  - **Fact Pattern 3**: In the precedent case, the court examined the enforceability of conditions attached to a gift. In the current case, Care 2 U Ltd is relying on an exclusion clause in the contract to avoid liability for damages during transportation.
-
-- **Legal Concept 4: Good Faith and Tactical Manoeuvring**
-  - **Fact Pattern 4**: In the precedent case, the court considered the plaintiffs' bad faith and tactical manoeuvring in attempting to amend their claim. In the current case, the Albright Cancer Research Foundation may argue that M-Scan Ltd’s unilateral amendment of the donation terms constitutes bad faith.
-
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON. This decision would be justified because, as in the precedent case, it would have the following positive effects:
-
-1. **Consistency in Contractual Obligations**: Just as the court in the precedent case refused to allow the plaintiffs to amend their claim to introduce inconsistent factual alternatives, the court in the current case should not allow M-Scan Ltd to unilaterally amend the donation terms. This maintains consistency in contractual obligations and prevents parties from altering agreed terms to the detriment of others.
-
-2. **Protection of Reliance Interests**: The Albright Cancer Research Foundation has relied on the promised donations for their funding allocations. Allowing M-Scan Ltd to reduce the donation percentage would undermine this reliance, similar to how the court in the precedent case protected the reliance interests of the plaintiffs on the conditions set out in Liu Sr’s Statement.
-
-3. **Enforceability of Exclusion Clauses**: The court in the precedent case examined the enforceability of conditions attached to a gift. Similarly, the court in the current case should scrutinize the exclusion clause relied upon by Care 2 U Ltd. If the clause was not properly communicated or if there was bad faith in its enforcement, it should not be upheld.
-
-4. **Good Faith in Contractual Amendments**: The court in the precedent case considered the plaintiffs' bad faith and tactical manoeuvring. In the current case, the Albright Cancer Research Foundation can argue that M-Scan Ltd’s unilateral amendment of the donation terms constitutes bad faith, and the court should not permit such amendments.
-
-Therefore, given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON. This decision would be justified because, as in the precedent case, it would have the positive effects of maintaining consistency in contractual obligations, protecting reliance interests, ensuring the enforceability of exclusion clauses, and upholding good faith in contractual amendments.
-
-### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON**, the court's decision was significantly influenced by the fact that the plaintiffs were attempting to introduce a new contractual obligation that was factually inconsistent with their existing claim based on conditions attached to a gift. This inconsistency was key in ensuring that the benefits of the ruling—maintaining consistency in pleadings and protecting reliance interests—outweighed any potential drawbacks because it prevented parties from altering agreed terms to the detriment of others and ensured that the facts within the parties' knowledge were accurately represented.
-
-However, in our current case, this crucial factor of introducing a factually inconsistent claim is notably absent. M-Scan Ltd is not introducing a new claim that is factually inconsistent with an existing one; rather, they are attempting to amend the terms of an existing contract by reducing the donation percentage to the Albright Cancer Research Foundation. This amendment does not involve a factual inconsistency but rather a modification of the terms of the contract, which is a different legal issue.
-
-### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor—**the reliance of a third party (the Albright Cancer Research Foundation) on the promised donations**—that was not present in **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON**. This factor significantly alters the situation described by the shared fact pattern because the Foundation has already allocated funds to projects based on the promised cash flow from M-Scan Ltd. Due to this reliance, applying the same outcome in our case would have more negative consequences, such as severe funding implications for the Foundation, than positive ones, unlike in **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON**. The reliance of the Foundation on the promised donations introduces a new dimension of third-party reliance that was not considered in the precedent case, thereby altering the balance of positive and negative effects.
-
-### Step 7: Argument from Undesirable Consequence
-We propose that the correct rule from **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON** should be stated as: "When both [the attempt to amend a contract or claim in a way that introduces inconsistent factual alternatives] and [the reliance of a third party on the promised terms] are present, the court should decide [against allowing such amendments]." Omitting [the reliance of a third party on the promised terms] from this rule could lead to [the undesirable consequence of undermining third-party reliance interests, causing severe financial implications for the third party]. Indeed, the opinion in **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON** implicitly highlights the importance of protecting reliance interests, as the court refused to allow amendments that would undermine the plaintiffs' reliance on the conditions set out in Liu Sr’s Statement.
-
-### Step 8: Distinction from Non-occurring Undesirable Consequence
-The rule established in **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON** was clearly designed to prevent [the undesirable consequence of allowing parties to introduce inconsistent factual alternatives, thereby undermining the integrity of pleadings and reliance interests]. However, in our current case, there's no risk of [introducing inconsistent factual alternatives]. Instead, the issue is [the unilateral amendment of contract terms that affect a third party's reliance on promised donations]. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves—preventing inconsistent factual alternatives—is not relevant to our situation. Instead, the focus should be on protecting the reliance interests of the Albright Cancer Research Foundation, which were not a consideration in the precedent case.
-
-### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the factor of introducing a factually inconsistent claim, which was present in the precedent case **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON**, requiring this factor for all similar cases of unilateral amendments to contract terms would lead to the undesirable consequence of allowing parties to unilaterally alter agreed terms without considering the reliance interests of third parties. Conversely, not requiring the factor of introducing a factually inconsistent claim would allow for the desirable outcome of protecting third-party reliance interests, which better aligns with the underlying principles of contract law, such as the enforcement of promises and the protection of reliance interests.
-
-### Step 10: Feature Substitution
-Although our case lacks the factor of introducing a factually inconsistent claim, which was present in **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON**, we have the additional factor of third-party reliance on the promised terms. This third-party reliance, when considered alongside the shared circumstances of unilateral amendments to contract terms, serves a similar function to the factor of introducing a factually inconsistent claim in the precedent case. Given the presence of third-party reliance, we submit that the reasoning in **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON** still applies, as the positive effects on protecting reliance interests and ensuring the enforceability of promises would still outweigh any potential negative consequences, just as they did in the precedent case.
-
-### Step 11: Conclusion
-
-After careful consideration of all arguments presented, including the initial analogy to **LIU HAO TSING EDUCATION FOUNDATION LTD AND ANOTHER v. LIU TIEH CHING BRANDON**, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the attempt to amend contractual obligations and the reliance on promised terms. However, it also differs significantly in that the current case involves the reliance of a third party (the Albright Cancer Research Foundation) on the promised donations, which was not a factor in the precedent case.
-
-The proposed legal rule from the precedent case—that the court should decide against allowing amendments that introduce inconsistent factual alternatives or undermine reliance interests—finds support in both cases. However, its broader implications must be considered, especially in light of the third-party reliance present in the current case.
-
-We've weighed arguments from both sides, particularly the importance of maintaining consistency in contractual obligations and protecting reliance interests (as argued by the Albright Cancer Research Foundation) against the absence of factually inconsistent claims in the current case (as argued by M-Scan Ltd).
-
-Considering the underlying legal principles of contract law, such as the enforcement of promises and the protection of reliance interests, and the potential impact on future cases, we conclude that the Albright Cancer Research Foundation should be able to claim the promised revenue from M-Scan Ltd. This decision aligns with the principle of protecting reliance interests, which is crucial in ensuring that third parties can trust and rely on promised terms in contracts.
-
-Regarding Care 2 U Ltd and the exclusion clause, the court should scrutinize whether the clause was properly communicated and whether there was any bad faith in its enforcement. If the clause was not properly communicated or if there was bad faith, Care 2 U Ltd should not be able to rely on the exclusion clause to avoid liability for damages.
-
-In conclusion, the key factors that influenced the outcome are the reliance of the Albright Cancer Research Foundation on the promised donations and the need to protect such reliance interests to ensure justice and legal consistency. Therefore, M-Scan Ltd should not be allowed to unilaterally amend the donation terms, and Care 2 U Ltd's reliance on the exclusion clause should be carefully examined for proper communication and good faith.
-
-
-# Contract Law: Whether the Albright Cancer Research Foundation can claim third-party beneficiary rights under the Contracts (Rights of Third Parties) Ordinance (Cap. 623) in Hong Kong
-
-## Deductive reasoning: legislation
-
-### Relevant law:
-
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 and Section 11 Subsection 2 and 4
-
-### Major Premise:
-
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6
-
-   Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The parties to the contract may not, without the third party’s consent:
-     - By agreement, rescind the contract; or
-     - By agreement, vary the contract so that the third party’s right under the term is altered or extinguished.
-   - The third party has assented to the term and the promisor has received notice of the assent (whether the assent and the notice are in writing or otherwise); or
-   - The third party has relied on the term and:
-     - The promisor is aware of the reliance; or
-     - The promisor can reasonably be expected to have foreseen that the third party would rely on the term.
-
-   Consequences:
-   - The parties to the contract may not rescind or vary the contract without the third party’s consent.
-
-   Exceptions:
-   - An express term of the contract provides that:
-     - One or more parties to the contract may rescind or vary the contract without the third party’s consent; or
-     - The third party’s consent to rescind or vary the contract is required in circumstances specified in the contract instead of those set out in subsection (2)(a) and (b).
-   - Before the circumstances set out in subsection (2)(a) or (b) occur:
-     - The third party is aware of the term referred to in subsection (3); or
-     - One or more parties to the contract have taken reasonable steps to make the third party aware of the term.
-
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 2
-
-   Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The promisor has wholly or partly performed the promisor’s obligations to the third party under the term.
-
-   Consequences:
-   - The promisor is discharged from the obligations owed by the promisor to the promisee to the extent of having performed the same obligations to the third party.
+   - It does not negative a condition or warranty implied by the Ordinance unless inconsistent therewith.
 
    Exceptions:
    - None.
 
-3. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 4
+3. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 1
 
    Conditions:
-   - A third party may enforce a term of a contract under section 4.
-   - The promisee has recovered from the promisor a sum for:
-     - The third party’s loss in relation to the term; or
-     - The expense to the promisee of making good to the third party the default of the promisor in relation to the term.
+   - There is a contract for the sale of goods.
+   - The seller delivers to the buyer a quantity of goods less than he contracted to sell.
 
    Consequences:
-   - In any proceedings brought under section 4 before a court or arbitral tribunal by the third party, the court or arbitral tribunal must reduce any award to the third party to the extent to which it thinks appropriate to take account of the sum.
+   - The buyer may reject them.
+   - If the buyer accepts the goods so delivered, he must pay for them at the contract rate.
 
    Exceptions:
-   - None.
+   - Subject to any usage of trade, special agreement, or course of dealing between the parties.
+
+4. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 2
+
+   Conditions:
+   - There is a contract for the sale of goods.
+   - The seller delivers to the buyer a quantity of goods larger than he contracted to sell.
+
+   Consequences:
+   - The buyer may accept the goods included in the contract and reject the rest, or he may reject the whole.
+   - If the buyer accepts the whole of the goods so delivered, he must pay for them at the contract rate.
+
+   Exceptions:
+   - Subject to any usage of trade, special agreement, or course of dealing between the parties.
+
+5. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 3
+
+   Conditions:
+   - There is a contract for the sale of goods.
+   - The seller delivers to the buyer the goods he contracted to sell mixed with goods of a different description not included in the contract.
+
+   Consequences:
+   - The buyer may accept the goods which are in accordance with the contract and reject the rest, or he may reject the whole.
+
+   Exceptions:
+   - Subject to any usage of trade, special agreement, or course of dealing between the parties.
 
 ### Minor Premise:
 
-1. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6:
-   - The Albright Cancer Research Foundation (ACRF) is a third party that may enforce the term of the contract under section 4.
-   - M-Scan Ltd and its customers (the parties to the contract) have agreed to vary the contract by reducing the donation from 10% to 5% and ceasing the 1% per booking donation.
-   - ACRF has relied on the term, and M-Scan Ltd can reasonably be expected to have foreseen that ACRF would rely on the term, as ACRF has already allocated funds to projects based on the promised cash flow.
-   - There is no express term in the contract allowing M-Scan Ltd to vary the contract without ACRF’s consent, nor has ACRF been made aware of such a term.
+1. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 1:
+   - There is a contract of sale between Wong Kee and Neptune.
+   - The right, duty, or liability arising under the contract by implication of law can be negatived or varied by express agreement, course of dealing, or usage.
+   - The course of dealing between Wong Kee and Neptune from June 2013 to June 2018 established a pattern of transactions.
+   - The usage of trade in the seafood industry in Hong Kong is known and followed by both parties.
+   - The Control of Exemption Clauses Ordinance (Cap. 71) may apply to the "Seller’s Liability" provision.
 
-2. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 2:
-   - ACRF is a third party that may enforce the term of the contract under section 4.
-   - M-Scan Ltd has partly performed its obligations to ACRF by making donations based on the original terms of the contract.
+2. Sale of Goods Ordinance Cap. 26 Section 57 Subsection 2:
+   - The amended draft contract contains express conditions or warranties.
+   - These express conditions or warranties do not negative any implied conditions or warranties unless inconsistent.
 
-3. Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 11 Subsection 4:
-   - ACRF is a third party that may enforce the term of the contract under section 4.
-   - There is no indication that the promisee (M-Scan Ltd’s customers) has recovered any sum from M-Scan Ltd for ACRF’s loss or expenses.
+3. Sale of Goods Ordinance Cap. 26 Section 32 Subsection 1:
+   - There is a contract for the sale of goods between Wong Kee and Neptune.
+   - Neptune delivered a quantity of goods (baby mud crabs) less than what Wong Kee contracted to sell (adult crabs).
+   - Wong Kee may reject the baby crabs.
+   - If Wong Kee accepts the baby crabs, it must pay for them at the contract rate.
+   - The course of dealing and usage of trade may influence the interpretation of this delivery.
 
 ### Conclusion:
 
-Contracts (Rights of Third Parties) Ordinance Cap. 623 Section 6 applies, and M-Scan Ltd may not rescind or vary the contract without the consent of the Albright Cancer Research Foundation. Therefore, ACRF can claim the promised revenue from M-Scan Ltd. 
+Wong Kee's continued acceptance of crabs from Neptune after receiving the amended draft contract implies acceptance of the new terms, including the "composition" clause and the "Seller’s Liability" provision. However, the delivery of baby crabs instead of adult crabs constitutes a breach under Sale of Goods Ordinance Cap. 26 Section 32 Subsection 1, allowing Wong Kee to reject the delivery. The course of dealing and usage of trade support Wong Kee's expectation of receiving adult crabs, and the "Seller’s Liability" provision may be subject to the Control of Exemption Clauses Ordinance (Cap. 71). Therefore, Wong Kee is entitled to reject the baby crabs and claim damages for the financial losses incurred.
 
-As for Care 2 U Ltd, they can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, provided that Vulcanicity Ltd failed to undertake the recommended systems check and present the results in writing, which is a condition precedent for the exclusion clause to apply.
-
-## Deductive Reasoning: cfi
+## Deductive Reasoning: cfa
 
 ### Relevant law:
 
-Contracts (Rights of Third Parties) Ordinance (Cap. 623)
+Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited
 
 ### Major Premise:
 
-1. Contracts (Rights of Third Parties) Ordinance (Cap. 623)
+1. Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited
 
    Conditions:
-   - A person who is not a party to a contract (referred to as a third party) is expressly identified in the contract by name, as a member of a class or as answering a particular description
-   - The contract expressly provides that the third party may enforce a term of the contract
-   - The term purports to confer a benefit on the third party
+   - The conduct of one party in causing a letter of credit (L/C) to be issued in favour of another party would be understood by a reasonable person standing in the latter's place as an offer to enter into a contract.
+   - The conduct of the latter party in tendering documents and negotiating its draft under the L/C would be understood by a reasonable person in the former's position as an acceptance of such an offer.
+   - The conduct is consistent only with there being a new contract implied, and inconsistent with there being no such contract.
 
    Consequences:
-   - The third party may, in his own right, enforce a term of the contract
+   - A legally binding contract may be inferred from the conduct of the parties.
 
    Exceptions:
-   - On a proper construction of the contract, it appears that the parties did not intend the term to be enforceable by the third party
-
-   Citation:
-   - SIG China Investments One, Ltd v Lam Fung
+   - The conduct relied upon is no more consistent with an intention to contract than with an intention not to contract.
+   - The party seeking the implication of a contract actually knows that the other party does not intend to be bound by the terms alleged.
 
 ### Minor Premise:
 
-1. Contracts (Rights of Third Parties) Ordinance (Cap. 623):
-- The Albright Cancer Research Foundation is a third party to the contract between M-Scan Ltd and its customers.
-- The contract expressly identifies the Albright Cancer Research Foundation by name.
-- The contract provides that 10 per cent of the annual fee and 1 per cent of each booking will be donated to the Albright Cancer Research Foundation, which purports to confer a benefit on the Foundation.
-- There is no indication in the contract that the parties did not intend the term to be enforceable by the third party.
+1. Shanghai Tongji Science & Technology Industrial Company Limited v Casil Clearing Limited:
+
+   - Wong Kee's conduct in continuing to place orders for crabs and accepting deliveries from Neptune after receiving the amended draft contract would be understood by a reasonable person in Neptune's position as an acceptance of the new terms proposed in the draft contract.
+   - Neptune's conduct in continuing to supply crabs to Wong Kee under the same terms as before, except for the one instance of smaller crabs, would be understood by a reasonable person in Wong Kee's position as an acceptance of the new terms.
+   - The conduct of both parties is consistent only with there being a new contract implied, and inconsistent with there being no such contract, as the transactions continued uninterrupted and in accordance with the terms of the amended draft contract.
+   - The conduct relied upon (continued orders and deliveries) is more consistent with an intention to contract than with an intention not to contract.
+   - There is no indication that Wong Kee actually knew that Neptune did not intend to be bound by the terms alleged.
 
 ### Conclusion:
 
-Contracts (Rights of Third Parties) Ordinance (Cap. 623) applies, and the Albright Cancer Research Foundation can claim the promised revenue from M-Scan Ltd.
-
-### Relevant law:
-
-Common law principles on exclusion clauses
-
-### Major Premise:
-
-1. Common law principles on exclusion clauses
-
-   Conditions:
-   - An exclusion clause must be incorporated into the contract
-   - The exclusion clause must cover the liability in question
-   - The exclusion clause must not be rendered ineffective by statutory provisions or common law principles
-
-   Consequences:
-   - The party relying on the exclusion clause may avoid liability for the specified damages
-
-   Exceptions:
-   - The exclusion clause is not incorporated into the contract
-   - The exclusion clause does not cover the liability in question
-   - The exclusion clause is rendered ineffective by statutory provisions or common law principles
-
-### Minor Premise:
-
-1. Common law principles on exclusion clauses:
-- The exclusion clause is incorporated into the contract between M-Scan Ltd and Vulcanicity Ltd.
-- The exclusion clause covers the liability for damages done during transportation, delivery, or return, provided the user of the equipment has not undertaken the recommended systems check and presented the results in writing to both Care 2 U Ltd and M-Scan Ltd.
-- Vulcanicity Ltd failed to undertake the systems check before the scanner was collected.
-- The driver from Care 2 U Ltd did not recognize the difference in the paperwork, but this does not negate the fact that the systems check was not performed by Vulcanicity Ltd.
-
-### Conclusion:
-
-Care 2 U Ltd can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd to avoid liability for the damages.
+A legally binding contract may be inferred from the conduct of Wong Kee and Neptune, implying acceptance of the new terms proposed in the amended draft contract.
 
 ## Reasoning by analogy: cases
 
-### Step 1: Outcome of Precedent (HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant)
-In the case of HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant (precedent p), the court ruled that the plaintiff, as a third party, was entitled to enforce the terms of the Investment Agreement under the Contracts (Rights of Third Parties) Act, Chapter 53B of Singapore. The court found that the plaintiff was sufficiently identified in the contract and that the contract conferred a benefit on the plaintiff, allowing them to exercise the Put Option.
+### Step 1: Outcome of Precedent (CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD)
+
+In the case of CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD [2023] HKCFI 457; HCA 410/2013 (precedent p), the court ruled that the Agreement had prima facie expired on 25 February 2011, and there was no new contract implied by the parties' conduct after that date. The court found that the defendant's continued performance and the plaintiff's acceptance of services were consistent with the defendant hoping for an extension or renewal of the Agreement, rather than the existence of a new contract. The court also rejected the defendant's estoppel argument, holding that the conduct relied upon by the defendant did not amount to a representation that the plaintiff would not insist on the strict requirement of the written only modification clause.
 
 ### Step 2: Shared Legal Concepts
-Both in HCA 219/2011 and in our current case, we see the following legal concepts and fact patterns:
-- **Third-Party Beneficiary Rights**: In HCA 219/2011, the plaintiff was a third party who was allowed to enforce the terms of the contract. Similarly, in our current case, the Albright Cancer Research Foundation is a third party seeking to enforce the terms of the contract.
-- **Express Identification in Contract**: In HCA 219/2011, the plaintiff was expressly identified in the contract. In our current case, the Albright Cancer Research Foundation is expressly identified in the contract as the recipient of donations.
-- **Benefit Conferred by Contract**: In HCA 219/2011, the contract conferred a benefit on the plaintiff. In our current case, the contract confers a benefit on the Albright Cancer Research Foundation in the form of donations.
-- **Enforcement of Contract Terms by Third Party**: In HCA 219/2011, the court allowed the third party to enforce the contract terms. In our current case, the Albright Cancer Research Foundation seeks to enforce the donation terms of the contract.
 
-### Step 3: Extraction of Legal Rule from Precedent (HCA 219/2011)
-This suggests a general rule that when we see the fact pattern of a third party being expressly identified in a contract and a benefit being conferred upon them, the court should decide that the third party is entitled to enforce the contract terms. This rule was justified in HCA 219/2011 because the positive effects of allowing third parties to enforce contract terms, such as upholding the parties' intentions and ensuring that the benefits conferred are realized, outweigh the negative effects, such as potential complications in contract enforcement.
+Both in CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD and in our current case, we see the following legal concepts and fact patterns:
 
-Therefore, applying this rule to our current case, the Albright Cancer Research Foundation should be entitled to claim the promised revenue from M-Scan Ltd, as they are expressly identified in the contract and the contract confers a benefit upon them.
+- **Legal Concept 1: Expiry of Agreement and Continuation of Performance**
+  - **Fact Pattern 1**: In CHINACHEM, the Agreement had a clear expiry date, and the parties continued to perform after the expiry date without a new written agreement. Similarly, in our current case, the draft contract was not signed, but the parties continued their dealings as before.
+
+- **Legal Concept 2: Written Modification Clause**
+  - **Fact Pattern 2**: In CHINACHEM, the Agreement contained a written modification only clause, which required any changes to be in writing. In our current case, the amended draft contract also included a clause stating that no amendment or alteration of the terms shall be binding unless in writing and duly executed by the parties.
+
+- **Legal Concept 3: Implied Contract**
+  - **Fact Pattern 3**: In CHINACHEM, the court considered whether the conduct of the parties implied a new contract. In our current case, the issue is whether Wong Kee's continued acceptance of crabs from Neptune after receiving the amended draft contract implies acceptance of the new terms.
+
+- **Legal Concept 4: Estoppel**
+  - **Fact Pattern 4**: In CHINACHEM, the defendant argued that the plaintiff was estopped from contending that the Agreement had expired. In our current case, a similar argument could be made regarding whether Wong Kee is estopped from denying the new terms proposed by Neptune.
+
+### Step 3: Extraction of Legal Rule from Precedent (CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD)
+
+This suggests a general rule that when we see the fact pattern of continued performance after the expiry of an agreement or after receiving an amended draft contract without signing it, the court should decide that no new contract is implied unless there is clear and unequivocal conduct indicating acceptance of the new terms. This rule was justified in CHINACHEM because the positive effects (E+) of requiring clear and unequivocal conduct to imply a new contract uphold the underlying values of contractual certainty and the enforceability of written modification clauses, which outweigh the negative effects (E-) of potentially leaving one party without a remedy for continued performance. 
+
+In our current case, applying this rule would mean that Wong Kee's continued acceptance of crabs from Neptune after receiving the amended draft contract does not imply acceptance of the new terms, as there was no clear and unequivocal conduct indicating such acceptance. Therefore, Wong Kee is not bound by the new terms proposed by Neptune, and the original informal arrangement should be considered to have continued.
 
 ### Step 4: Applying the Rule to the Current Case
 
-In the current case, the same legal concepts and fact patterns as the precedent (HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant) are present:
+In the current case, the same legal concepts and fact patterns as the precedent (CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD) are present:
 
-- **Third-Party Beneficiary Rights**: In HCA 219/2011, the plaintiff was a third party who was allowed to enforce the terms of the contract. Similarly, in our current case, the Albright Cancer Research Foundation is a third party seeking to enforce the terms of the contract.
-- **Express Identification in Contract**: In HCA 219/2011, the plaintiff was expressly identified in the contract. In our current case, the Albright Cancer Research Foundation is expressly identified in the contract as the recipient of donations.
-- **Benefit Conferred by Contract**: In HCA 219/2011, the contract conferred a benefit on the plaintiff. In our current case, the contract confers a benefit on the Albright Cancer Research Foundation in the form of donations.
-- **Enforcement of Contract Terms by Third Party**: In HCA 219/2011, the court allowed the third party to enforce the contract terms. In our current case, the Albright Cancer Research Foundation seeks to enforce the donation terms of the contract.
+- **Legal Concept 1: Expiry of Agreement and Continuation of Performance**
+  - **Fact Pattern 1**: In CHINACHEM, the Agreement had a clear expiry date, and the parties continued to perform after the expiry date without a new written agreement. Similarly, in our current case, the draft contract was not signed, but the parties continued their dealings as before.
 
-Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome, allowing the Albright Cancer Research Foundation to claim the promised revenue from M-Scan Ltd. This decision would be justified because, as in HCA 219/2011, it would have the following positive effects:
+- **Legal Concept 2: Written Modification Clause**
+  - **Fact Pattern 2**: In CHINACHEM, the Agreement contained a written modification only clause, which required any changes to be in writing. In our current case, the amended draft contract also included a clause stating that no amendment or alteration of the terms shall be binding unless in writing and duly executed by the parties.
 
-1. **Upholding the Parties' Intentions**: The contract clearly intended to benefit the Albright Cancer Research Foundation by providing them with a percentage of the fees. Allowing the Foundation to enforce this term respects the original intentions of the contracting parties.
-   
-2. **Ensuring Realization of Benefits**: The Foundation has already allocated funds to projects based on the promised cash flow. Enforcing the contract terms ensures that the benefits conferred are realized, preventing financial harm to the Foundation and the projects it supports.
+- **Legal Concept 3: Implied Contract**
+  - **Fact Pattern 3**: In CHINACHEM, the court considered whether the conduct of the parties implied a new contract. In our current case, the issue is whether Wong Kee's continued acceptance of crabs from Neptune after receiving the amended draft contract implies acceptance of the new terms.
 
-3. **Promoting Contractual Certainty**: Allowing third parties to enforce contract terms when they are expressly identified and conferred a benefit promotes certainty in contractual relationships. Parties can rely on the terms of the contract being upheld, which is crucial for planning and financial stability.
+- **Legal Concept 4: Estoppel**
+  - **Fact Pattern 4**: In CHINACHEM, the defendant argued that the plaintiff was estopped from contending that the Agreement had expired. In our current case, a similar argument could be made regarding whether Wong Kee is estopped from denying the new terms proposed by Neptune.
 
-4. **Preventing Unjust Enrichment**: If M-Scan Ltd were allowed to unilaterally reduce the donations without consequence, it would result in unjust enrichment at the expense of the Foundation. Enforcing the original terms prevents this unfair outcome.
+Given that our current case shares these crucial fact patterns, we submit that the court should reach the same outcome as in CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD. This decision would be justified because, as in CHINACHEM, it would have the following positive effects:
 
-Therefore, applying the rule from HCA 219/2011 to our current case, the Albright Cancer Research Foundation should be entitled to claim the promised revenue from M-Scan Ltd. This decision would be justified because it upholds the underlying values and principles of contract law, ensuring fairness, certainty, and the realization of intended benefits.
+1. **Upholding Contractual Certainty**: Requiring clear and unequivocal conduct to imply a new contract ensures that parties are aware of their obligations and rights, thereby reducing the risk of disputes and misunderstandings. This is particularly important in commercial contexts where large sums of money and business reputations are at stake.
+
+2. **Enforcing Written Modification Clauses**: By adhering to the requirement that any changes to a contract must be in writing, the court reinforces the importance of formalities in contractual agreements. This protects the parties' original intentions and prevents one party from unilaterally altering the terms of the agreement without the other's explicit consent.
+
+3. **Preventing Unjust Enrichment**: In the current case, Wong Kee continued to accept crabs from Neptune under the original informal arrangement. If the court were to imply acceptance of the new terms without clear and unequivocal conduct, it could result in Neptune being unjustly enriched at Wong Kee's expense, especially given the significant changes in the terms proposed by Neptune.
+
+4. **Consistency in Legal Principles**: Applying the same rule as in CHINACHEM ensures consistency in the application of legal principles, which is a cornerstone of the common law system. This consistency provides predictability and stability in commercial transactions, encouraging businesses to engage in long-term relationships with confidence.
+
+Therefore, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in CHINACHEM, it would uphold the underlying values of contractual certainty, enforceability of written modification clauses, prevention of unjust enrichment, and consistency in legal principles.
 
 ### Step 5: Distinction Due to Missing Feature in Current Case
-In the precedent case HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant, the court's decision was significantly influenced by the fact that the third party (SIG China Investments One, Ltd) was expressly identified in the contract and the contract conferred a specific benefit on them. This express identification and benefit were key in ensuring that the benefits of the ruling, such as upholding the parties' intentions and ensuring that the benefits conferred are realized, outweighed any potential drawbacks, such as potential complications in contract enforcement. However, in our current case, this crucial factor of express identification and specific benefit is notably absent as the Albright Cancer Research Foundation is not expressly identified in the contract as a party entitled to enforce the donation terms. The contract merely mentions the donation to the Foundation without explicitly granting them enforcement rights.
+In the precedent case **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD**, the court's decision was significantly influenced by the presence of a **written modification only clause**. This clause was key in ensuring that the benefits of the ruling, such as upholding contractual certainty and enforcing the agreed formalities, outweighed any potential drawbacks because it provided a clear and unequivocal standard for any modifications to the agreement. However, in our current case, this crucial **written modification only clause** is notably absent in the original informal arrangement between Wong Kee and Neptune. The dealings between Wong Kee and Neptune were conducted on a regular but informal basis without any formal written agreement or modification clause, which means that the same level of contractual certainty and enforceability of formalities is not present.
 
 ### Step 6: Distinction Due to Missing Feature in Precedent Case
-Our current case involves an important factor, the presence of an exclusion clause, that was not present in HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant. This factor significantly alters the situation described by the shared fact pattern of third-party beneficiary rights. Because of the exclusion clause, applying the same outcome in our case would have more negative consequences than positive ones. The exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd specifically limits the liability of Care 2 U Ltd for any damages done during transportation, delivery, or return, provided that the user of the equipment has not undertaken the recommended systems check. This clause introduces a layer of complexity that was not present in the precedent case, where the enforcement of contract terms by a third party was more straightforward. Due to the exclusion clause, enforcing the same outcome would lead to potential unfairness and legal complications, as it would disregard the agreed-upon limitations of liability and the conditions under which they apply.
+Our current case involves an important factor **(the established trade norms and practices regarding the distribution of crab sizes)** that was not present in **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD**. This factor significantly alters the situation described by the shared fact pattern because the established trade norms and practices create an implicit understanding and expectation between the parties regarding the quality and size distribution of the crabs supplied. Due to these established trade norms, applying the same outcome in our case would have more negative consequences, such as undermining the implicit trust and expectations in the seafood trade, than positive ones, unlike in **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD**. The presence of these trade norms means that Wong Kee had a reasonable expectation that the crabs supplied would conform to the usual size distribution, and Neptune's deviation from this expectation by supplying only baby mud crabs without prior notice or agreement significantly impacts the fairness and reasonableness of the dealings between the parties.
 
 ### Step 7: Argument from Undesirable Consequence
-We propose that the correct rule from HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant should be stated as: "When both the third party is expressly identified in the contract and the contract confers a specific benefit on them, the court should decide that the third party is entitled to enforce the contract terms." Omitting the express identification of the third party from this rule could lead to the undesirable consequence of creating uncertainty and potential disputes over who is entitled to enforce the contract terms. Indeed, the opinion in HCA 219/2011 explicitly states that the express identification of the third party was crucial to their decision, as it provided clarity and certainty regarding the parties' intentions and the benefits conferred.
+
+We propose that the correct rule from **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD** should be stated as: "When both [the fact pattern of continued performance after the expiry of an agreement or after receiving an amended draft contract without signing it] and [the presence of a written modification only clause] are present, the court should decide that no new contract is implied unless there is clear and unequivocal conduct indicating acceptance of the new terms." Omitting [the presence of a written modification only clause] from this rule could lead to [the undesirable consequence of undermining the enforceability of informal agreements and established trade norms]. Indeed, the opinion in **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD** explicitly states that the written modification only clause was crucial to their decision, as it provided a clear standard for any modifications to the agreement.
 
 ### Step 8: Distinction from Non-occurring Undesirable Consequence
-The rule established in HCA 219/2011 was clearly designed to prevent the undesirable consequence of uncertainty and potential disputes over the enforcement of contract terms by third parties. However, in our current case, there's no risk of this undesirable consequence occurring because the Albright Cancer Research Foundation is expressly identified in the contract as the recipient of donations. Therefore, applying the precedent's rule here would be appropriate, as the very purpose it serves—ensuring clarity and certainty in the enforcement of contract terms by third parties—is relevant to our situation.
+
+The rule established in **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD** was clearly designed to prevent [the undesirable consequence of parties unilaterally altering the terms of an agreement without the other's explicit consent, thereby ensuring contractual certainty and enforceability of formalities]. However, in our current case, there's no risk of [undermining the enforceability of informal agreements and established trade norms] occurring. Therefore, applying [the precedent's rule] here would be misguided, as the very purpose it serves is not relevant to our situation. The established trade norms and practices regarding the distribution of crab sizes create an implicit understanding and expectation between the parties, which should be respected to maintain fairness and reasonableness in their dealings.
 
 ### Step 9: Downplaying Significance of Distinction
-While it's true that our case lacks the express identification of the Albright Cancer Research Foundation as a party entitled to enforce the donation terms, which was present in the precedent case HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant, requiring this factor for all similar cases of third-party beneficiary rights would lead to an undesirable consequence. Specifically, it would allow contracting parties to unilaterally alter or terminate benefits conferred upon third parties without any recourse for those third parties, even when the contract clearly intended to benefit them. Conversely, not requiring express identification would allow for the enforcement of intended benefits by third parties, which better aligns with the underlying principles of contract law, such as upholding the parties' intentions and ensuring fairness.
+While it's true that our case lacks the written modification only clause, which was present in the precedent case CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD, requiring this factor for all similar cases of continued performance after the expiry of an agreement or after receiving an amended draft contract without signing it would lead to the undesirable consequence of undermining the enforceability of informal agreements and established trade norms. Conversely, not requiring the written modification only clause would allow for the maintenance of implicit trust and expectations in the seafood trade, which better aligns with the underlying principles of fairness and reasonableness in commercial dealings.
 
 ### Step 10: Feature Substitution
-Although our case lacks the express identification of the Albright Cancer Research Foundation as a party entitled to enforce the donation terms, which was present in HCA 219/2011, we have the additional factor of the Foundation being explicitly named as the recipient of the donations in the contract. This explicit naming, when considered alongside the shared circumstances of the contract conferring a benefit on the third party, serves a similar function to express identification in the precedent case. Given the presence of this explicit naming, we submit that the reasoning in HCA 219/2011 still applies, as the positive effects on relevant legal values, such as upholding the parties' intentions and ensuring the realization of conferred benefits, would still outweigh any potential negative consequences, just as they did in the precedent case.
+Although our case lacks the written modification only clause, which was present in CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD, we have the additional factor of established trade norms and practices regarding the distribution of crab sizes. This factor, when considered alongside the shared circumstances of continued performance and informal dealings, serves a similar function to the written modification only clause in the precedent case. Given the presence of established trade norms, we submit that the reasoning in CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD still applies, as the positive effects on maintaining fairness, reasonableness, and implicit trust in commercial dealings would still outweigh any potential negative consequences, just as they did in the precedent case.
 
 ### Step 11: Conclusion
 
-After careful consideration of all arguments presented, including the initial analogy to HCA 219/2011 BETWEEN SIG CHINA INVESTMENTS ONE, LTD Plaintiff and LAM FUNG Defendant, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the third-party beneficiary rights, express identification in the contract, and the benefit conferred by the contract. However, it also differs in significant ways, particularly the presence of an exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd, and the fact that the Albright Cancer Research Foundation is not expressly identified as a party entitled to enforce the donation terms.
+After careful consideration of all arguments presented, including the initial analogy to **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD**, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the fact pattern of continued performance after the expiry of an agreement or after receiving an amended draft contract without signing it, and the presence of a written modification clause in the proposed new agreement. However, it also differs in significant ways, particularly the absence of a written modification only clause in the original informal arrangement and the established trade norms and practices regarding the distribution of crab sizes.
 
-The proposed legal rule of allowing third parties to enforce contract terms when they are expressly identified and conferred a benefit finds support in both cases, but its broader implications must be considered. We've weighed arguments from both sides, particularly the strong point that the Albright Cancer Research Foundation is explicitly named as the recipient of donations, which serves a similar function to express identification, and the counterargument that the exclusion clause introduces a layer of complexity not present in the precedent case.
+The proposed legal rule from **CHINACHEM FINANCIAL SERVICES LTD v. CENTURY VENTURE HOLDINGS LTD**—that no new contract is implied unless there is clear and unequivocal conduct indicating acceptance of the new terms—finds support in both cases. However, its broader implications must be considered, especially in light of the established trade norms in the current case.
 
-Considering the underlying legal principles of upholding the parties' intentions, ensuring the realization of conferred benefits, and promoting contractual certainty, we conclude that the Albright Cancer Research Foundation should be entitled to claim the promised revenue from M-Scan Ltd. This decision aligns with the precedent set in HCA 219/2011, as the Foundation is explicitly named in the contract and the contract confers a specific benefit upon them. The positive effects of upholding the parties' intentions and ensuring the realization of benefits outweigh the potential negative consequences of not having express identification.
+We've weighed arguments from both sides, particularly the strong point that the absence of a written modification only clause in the original arrangement and the established trade norms create an implicit understanding and expectation between the parties. This expectation should be respected to maintain fairness and reasonableness in their dealings.
 
-Regarding Care 2 U Ltd and the exclusion clause, the clause clearly limits their liability for any damages done during transportation, delivery, or return, provided that the user of the equipment has not undertaken the recommended systems check. Since Vulcanicity Ltd failed to undertake the systems check, Care 2 U Ltd can rely on the exclusion clause to limit their liability. This decision respects the agreed-upon limitations of liability and the conditions under which they apply, promoting fairness and legal consistency.
+Considering the underlying legal principles of contractual certainty, enforceability of formalities, and the importance of maintaining implicit trust and expectations in commercial dealings, we conclude that Wong Kee's continued acceptance of crabs from Neptune after receiving the amended draft contract does not imply acceptance of the new terms. The original informal arrangement should be considered to have continued, given the lack of clear and unequivocal conduct indicating acceptance of the new terms and the established trade norms that create an implicit understanding between the parties.
 
-In conclusion, the Albright Cancer Research Foundation can claim the promised revenue from M-Scan Ltd, and Care 2 U Ltd can rely on the exclusion clause in the contract between Vulcanicity Ltd and M-Scan Ltd. This decision is reached by balancing the considerations of legal precedent, justice, and legal consistency, ensuring that the underlying principles of contract law are upheld.
+Therefore, Wong Kee is not bound by the new terms proposed by Neptune, and the original informal arrangement should be considered to have continued. This decision aligns with legal precedent while also serving justice and legal consistency, particularly in the context of established trade norms and practices in the seafood trade.
+
+
+# Contract Law: Whether the financial losses and angry reviews from customers are recoverable as consequential damages
+
+## Deductive reasoning: legislation
+
+### Relevant law:
+
+Sale of Goods Ordinance Cap. 26 Section 53 Subsections 1-3
+
+### Major Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 53 Subsections 1-3
+
+   Conditions:
+   - The seller wrongfully neglects or refuses to deliver the goods to the buyer.
+   - The buyer has suffered loss as a result.
+
+   Consequences:
+   - The buyer may maintain an action against the seller for damages for non-delivery.
+   - The measure of damages is the estimated loss directly and naturally resulting, in the ordinary course of events, from the seller’s breach of contract.
+   - Where there is an available market for the goods in question, the measure of damages is prima facie to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered, or, if no time was fixed for delivery, then at the time of the neglect or refusal to deliver.
+
+   Exceptions:
+   - None
+
+### Minor Premise:
+
+1. Sale of Goods Ordinance Cap. 26 Section 53 Subsections 1-3:
+- Neptune Company wrongfully delivered baby mud crabs instead of the adult crabs required by Wong Kee.
+- Wong Kee has suffered financial loss as a result of being unable to use the baby crabs for its signature dish, leading to financial losses and angry reviews from customers.
+- Wong Kee may maintain an action against Neptune for damages for non-delivery.
+- The measure of damages would be the estimated loss directly and naturally resulting from Neptune's breach of contract, which includes the financial losses and damage to reputation due to the inability to serve the signature dish.
+
+### Conclusion:
+
+Sale of Goods Ordinance Cap. 26 Section 53 Subsections 1-3 applies, and Wong Kee may maintain an action against Neptune for damages for non-delivery. The financial losses and angry reviews from customers are recoverable as consequential damages.
+
+## Deductive Reasoning: cfa
+
+### Relevant law:
+
+Paul Chen v Marianna Chen and Lord Energy Limited  
+Richly Bright International Limited v De Monsa Investments Limited
+
+### Major Premise:
+
+1. Paul Chen v Marianna Chen and Lord Energy Limited
+
+   Conditions:
+   - Damages have resulted from a breach of contract (or may fairly and reasonably be considered as arising naturally from the breach)
+   - There were special circumstances under which the contract was made and which had been communicated or made known to the defaulting party
+
+   Consequences:
+   - The measure of damages would be such damages as the parties should reasonably have contemplated would flow from the breach
+   - The damages resulting from the breach are such damages as they should reasonably contemplate would flow from such breach in such special circumstances
+
+   Exceptions:
+   - The damages are considered too remote and are therefore not recoverable
+   - The defaulting party has no knowledge of the special circumstances giving rise to the damages which are being claimed
+
+2. Richly Bright International Limited v De Monsa Investments Limited
+
+   Conditions:
+   - The loss is caused by the defendant’s breach of contract
+   - The damages are not too remote to be recoverable
+   - The loss is within the reasonable contemplation of the parties at the time they made the contract
+   - The loss arises naturally, i.e., according to the usual course of things, from such breach of contract itself
+   - The loss may reasonably be supposed to have been in the contemplation of both parties, at the time they made the contract, as the probable result of the breach of it
+
+   Consequences:
+   - The damages for breach of contract are recoverable
+
+   Exceptions:
+   - The special circumstances were wholly unknown to the party breaking the contract
+   - The loss is not the ordinary consequence of a breach of that kind
+
+3. Richly Bright International Limited v De Monsa Investments Limited
+
+   Conditions:
+   - The damages arise naturally, i.e., according to the usual course of things, from the breach of contract itself
+   - The damages may reasonably be supposed to have been in the contemplation of both parties, at the time they made the contract, as the probable result of the breach of it
+
+   Consequences:
+   - The damages are recoverable
+
+   Exceptions:
+   - The special circumstances under which the contract was made were wholly unknown to the party breaking the contract
+
+### Minor Premise:
+
+1. Paul Chen v Marianna Chen and Lord Energy Limited:
+- Damages have resulted from Neptune's breach of contract by delivering baby mud crabs instead of the usual mix.
+- The special circumstances (Wong Kee's reliance on the specific size of crabs for its signature dish) were known to Neptune.
+- The damages (financial losses and angry reviews) are such that the parties should reasonably have contemplated would flow from the breach.
+- The damages are not considered too remote as they directly result from the breach.
+- Neptune had knowledge of the special circumstances giving rise to the damages.
+
+2. Richly Bright International Limited v De Monsa Investments Limited:
+- The loss (financial losses and angry reviews) is caused by Neptune’s breach of contract.
+- The damages are not too remote to be recoverable.
+- The loss is within the reasonable contemplation of the parties at the time they made the contract, given the nature of Wong Kee's business.
+- The loss arises naturally from the breach of contract itself.
+- The loss may reasonably be supposed to have been in the contemplation of both parties as the probable result of the breach.
+
+3. Richly Bright International Limited v De Monsa Investments Limited:
+- The damages arise naturally from the breach of contract itself.
+- The damages may reasonably be supposed to have been in the contemplation of both parties at the time they made the contract as the probable result of the breach.
+- The special circumstances (Wong Kee's reliance on the specific size of crabs) were known to Neptune.
+
+### Conclusion:
+
+The financial losses and angry reviews from customers are recoverable as consequential damages.
+
+## Reasoning by analogy: cases
+
+### Step 1: Outcome of Precedent (Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited)
+In the case of Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited (precedent p), the plaintiff claimed for the price of certain colour dyed tapes sold and delivered to the defendant. The defendant argued that a portion of the tapes did not conform to the sample. The court ruled that both parties were equally responsible for the consequences of the supply of defective goods. The judge calculated the plaintiff’s loss and damage based on the proportion of goods accepted by the defendant and allowed the defendant’s counterclaim in full, leading to a net judgment in favor of the defendant.
+
+### Step 2: Shared Legal Concepts
+Both in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited and in our current case, we see the following legal concepts and fact patterns:
+- **Breach of Warranty**: In both cases, the goods supplied did not conform to the expected quality or sample. In the precedent case, the colour dyed tapes had defects. In the current case, the crabs supplied were baby mud crabs instead of the usual mix of sizes.
+- **Mitigation of Loss**: In both cases, the buyer had a duty to mitigate the loss. In the precedent case, the defendant was found to have not taken remedial steps upon discovering the defect. In the current case, Wong Kee accepted the baby crabs without taking steps to mitigate the loss.
+- **Consequential Damages**: Both cases involve claims for consequential damages arising from the supply of defective goods. In the precedent case, the defendant claimed additional costs incurred due to the defective tapes. In the current case, Wong Kee claims financial losses and reputational damage due to the inability to serve its signature dish.
+- **Apportionment of Liability**: In both cases, the court considered the apportionment of liability between the parties. In the precedent case, the judge apportioned the damages equally between the plaintiff and the defendant. In the current case, a similar consideration of apportionment may be relevant.
+
+### Step 3: Extraction of Legal Rule from Precedent (Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited)
+This suggests a general rule that when we see the fact pattern of a breach of warranty leading to consequential damages, the court should consider the apportionment of liability and the duty to mitigate loss. This rule was justified in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited because the court found that both parties had a role in the resulting damages and that the buyer had a duty to take reasonable steps to mitigate the loss. The positive effects (E+) of this outcome include promoting fairness and encouraging parties to act reasonably upon discovering defects, while the negative effects (E-) are minimal as it prevents unjust enrichment and ensures that damages are proportionate to the parties' respective responsibilities.
+
+### Step 4: Applying the Rule to the Current Case
+
+In the current case, the same legal concepts and fact patterns as the precedent (Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited) are present:
+
+- **Breach of Warranty**: In both cases, the goods supplied did not conform to the expected quality or sample. In the precedent case, the colour dyed tapes had defects. In the current case, the crabs supplied were baby mud crabs instead of the usual mix of sizes.
+- **Mitigation of Loss**: In both cases, the buyer had a duty to mitigate the loss. In the precedent case, the defendant was found to have not taken remedial steps upon discovering the defect. In the current case, Wong Kee accepted the baby crabs without taking steps to mitigate the loss.
+- **Consequential Damages**: Both cases involve claims for consequential damages arising from the supply of defective goods. In the precedent case, the defendant claimed additional costs incurred due to the defective tapes. In the current case, Wong Kee claims financial losses and reputational damage due to the inability to serve its signature dish.
+- **Apportionment of Liability**: In both cases, the court considered the apportionment of liability between the parties. In the precedent case, the judge apportioned the damages equally between the plaintiff and the defendant. In the current case, a similar consideration of apportionment may be relevant.
+
+Given that our current case shares these crucial fact patterns, we submit that the court should reach a similar outcome. This decision would be justified because, as in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited, it would have the following positive effects:
+
+1. **Promoting Fairness**: Apportioning liability between Wong Kee and Neptune would ensure that both parties bear responsibility for their respective roles in the resulting damages. This promotes fairness and prevents one party from being unduly burdened by the consequences of the breach.
+
+2. **Encouraging Reasonable Conduct**: By recognizing the duty to mitigate loss, the court would encourage parties to take reasonable steps upon discovering defects. This would prevent unnecessary escalation of damages and promote efficient resolution of issues.
+
+3. **Proportional Damages**: Ensuring that damages are proportionate to the parties' respective responsibilities would prevent unjust enrichment and ensure that compensation is fair and reasonable.
+
+4. **Consistency in Legal Principles**: Applying the same legal principles and rules as established in the precedent case would ensure consistency and predictability in the application of the law, which is a fundamental principle of the common law system.
+
+Therefore, given that our current case shares the same crucial fact patterns, we submit that the court should reach the same outcome. This decision would be justified because, as in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited, it would have the positive effects of promoting fairness, encouraging reasonable conduct, ensuring proportional damages, and maintaining consistency in legal principles.
+
+### Step 5: Distinction Due to Missing Feature in Current Case
+In the precedent case Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited, the court's decision was significantly influenced by the presence of a formal contract that outlined specific terms and conditions, including the quality and conformity of the goods supplied. This formal contract was key in ensuring that the benefits of the ruling, such as promoting fairness and encouraging reasonable conduct, outweighed any potential drawbacks because it provided a clear basis for determining the parties' obligations and responsibilities. However, in our current case, this crucial factor of a formal, signed contract is notably absent as the agreement between Wong Kee and Neptune was never formally executed, despite the draft contract being sent and the parties continuing their transactions based on prior informal arrangements.
+
+### Step 6: Distinction Due to Missing Feature in Precedent Case
+Our current case involves an important factor, the "Seller’s Liability" clause, that was not present in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited. This factor significantly alters the situation described by the shared fact pattern because the "Seller’s Liability" clause explicitly excludes Neptune's liability for any loss or damage arising from any defect in the seafood products supplied. Due to this clause, applying the same outcome in our case would have more negative consequences such as undermining the contractual freedom and the express terms agreed upon by the parties, unlike in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited because there was no such exclusion of liability in the precedent case. This clause shifts the balance of responsibility and significantly impacts the assessment of consequential damages and the duty to mitigate loss.
+
+### Step 7: Argument from Undesirable Consequence
+We propose that the correct rule from Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited should be stated as: "When both a breach of warranty leading to consequential damages and the presence of a formal, signed contract are present, the court should apportion liability and consider the duty to mitigate loss." Omitting the presence of a formal, signed contract from this rule could lead to the undesirable consequence of undermining the contractual freedom and the express terms agreed upon by the parties. Indeed, the opinion in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited implicitly relied on the formal contract to determine the parties' obligations and responsibilities, which was crucial to their decision.
+
+### Step 8: Distinction from Non-occurring Undesirable Consequence
+The rule established in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited was clearly designed to prevent the undesirable consequence of unfairly burdening one party with the entire responsibility for consequential damages when both parties had a role in the resulting damages. However, in our current case, there's no risk of this undesirable consequence occurring because the "Seller’s Liability" clause explicitly excludes Neptune's liability for any loss or damage arising from any defect in the seafood products supplied. Therefore, applying the precedent's rule here would be misguided, as the very purpose it serves is not relevant to our situation. The presence of the "Seller’s Liability" clause shifts the balance of responsibility and significantly impacts the assessment of consequential damages and the duty to mitigate loss, making the precedent's rule inapplicable.
+
+### Step 9: Downplaying Significance of Distinction
+While it's true that our case lacks the formal, signed contract, which was present in the precedent case Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited, requiring this factor for all similar cases of breach of warranty leading to consequential damages would lead to an undesirable consequence. Specifically, it would undermine the practical realities of business operations where parties often rely on established practices and informal agreements. Conversely, not requiring a formal, signed contract would allow for the recognition of the parties' established course of dealings and the reasonable expectations arising from such dealings. This better aligns with the underlying principles of contract law, which include the enforcement of reasonable expectations and the promotion of fairness in commercial transactions.
+
+### Step 10: Feature Substitution
+Although our case lacks the formal, signed contract, which was present in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited, we have the additional factor of the "Seller’s Liability" clause. This "Seller’s Liability" clause, when considered alongside the shared circumstances of breach of warranty and consequential damages, serves a similar function to the formal contract in the precedent case by explicitly defining the scope of liability and the parties' responsibilities. Given the presence of the "Seller’s Liability" clause, we submit that the reasoning in Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited still applies, as the positive effects on legal values such as promoting fairness, encouraging reasonable conduct, and ensuring proportional damages would still outweigh any potential negative consequences, just as they did in the precedent case.
+
+### Step 11: Conclusion
+
+After careful consideration of all arguments presented, including the initial analogy to Wing Tat Haberdashery Company Limited v Elegance Development & Industrial Co. Limited, the distinctions raised, and the counterarguments offered, we make the following observations. The case shares key similarities with the precedent, such as the breach of warranty, the duty to mitigate loss, and the claim for consequential damages. However, it also differs in significant ways, particularly the absence of a formal, signed contract and the presence of a "Seller’s Liability" clause in the current case.
+
+The proposed legal rule of apportioning liability and considering the duty to mitigate loss finds support in both cases, but its broader implications must be considered. We've weighed arguments from both sides, particularly the importance of the formal contract in the precedent case and the impact of the "Seller’s Liability" clause in the current case.
+
+Considering the underlying legal principles of promoting fairness, encouraging reasonable conduct, ensuring proportional damages, and maintaining consistency in legal principles, we conclude that the financial losses and angry reviews from customers are not fully recoverable as consequential damages in the current case. The "Seller’s Liability" clause explicitly excludes Neptune's liability for any loss or damage arising from any defect in the seafood products supplied, which significantly impacts the assessment of consequential damages.
+
+Therefore, while Wong Kee may have a claim for some damages, the extent of recoverable damages should be limited by the "Seller’s Liability" clause. This decision aligns with legal precedent while also serving justice and legal consistency by respecting the express terms agreed upon by the parties.
+
+In conclusion, Wong Kee's financial losses and reputational damage due to the inability to serve its signature dish are not fully recoverable as consequential damages, given the presence of the "Seller’s Liability" clause. The court should apportion liability in a manner that respects this clause and considers the duty to mitigate loss, ensuring that damages are proportionate to the parties' respective responsibilities.
 

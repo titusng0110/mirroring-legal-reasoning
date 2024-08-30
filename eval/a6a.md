@@ -3,42 +3,51 @@
 #### 1. Identification of Legal Issues
 
 The scenario presents two primary legal issues:
-1. **Luke's Contract**: Whether the contract between Luke and the Yorkshire Dales Railway (YDR) for the restoration of the Hamilton Flyer is discharged by frustration due to the destruction of the train, and whether Luke can recover the £5,000 he spent and the £8,000 he was due to be paid.
-2. **Peter's Contract**: Whether Peter's contract for the purchase of tickets for the Hamilton Flyer is discharged by frustration due to the train's destruction, and whether he can recover the £100 he paid for the tickets.
+1. **Liability for Property Damage**: Whether Sparkling Bright can be held liable for the damage caused to S&A's laptop by its employee, Sam.
+2. **Modification of Contract Terms**: Whether S&A can demand the immediate resumption of weekly cleanings despite the temporary agreement to reduce the frequency of deep cleanings to fortnightly.
 
-#### 2. Applicable Laws
+#### 2. Applicable Laws and Principles
 
-The applicable laws and legal principles include:
-1. **Doctrine of Frustration**: This common law doctrine discharges parties from their contractual obligations when an unforeseen event renders the contract impossible to perform or radically different from what was agreed upon.
-2. **Law Amendment and Reform (Consolidation) Ordinance Cap. 23, Sections 16 and 17**: These sections provide statutory guidance on the adjustment of rights and liabilities of parties to frustrated contracts, including the recovery of sums paid or payable.
+1. **Liability for Property Damage**:
+   - **Contractual Terms and Incorporation by Reference**: Whether the WMA standard conditions, which include an exclusion clause for liability, were effectively incorporated into the contract.
+   - **Exclusion Clauses**: The enforceability of exclusion clauses under Hong Kong law, particularly in light of the Control of Exemption Clauses Ordinance (Cap. 71).
+   - **Negligence**: The principles of negligence and whether the exclusion clause can protect Sparkling Bright from liability for Sam's negligent act.
 
-Relevant case law includes:
-- **Davis Contractors Ltd v Fareham UDC [1956] AC 696**: Establishes that frustration occurs when an unforeseen event makes contractual obligations impossible or radically different.
-- **National Carriers Ltd v Panalpina (Northern) Ltd [1981] AC 675**: Reinforces the principles of frustration and its narrow application.
-- **J Lauritzen AS v Wijsmuller BV (The Super Servant Two) [1990] 1 Lloyd's Rep 1**: Summarizes the essence of the doctrine of frustration.
-- **HCA 3987/2003 Sinoearn International Ltd v Hyundai-CCECC Joint Venture**: Discusses the application of the doctrine of frustration in Hong Kong law.
+2. **Modification of Contract Terms**:
+   - **Contractual Modification**: The legal effect of the temporary agreement to reduce the frequency of cleanings and whether it can be unilaterally altered by S&A.
+   - **Mutual Agreement and Estoppel**: Whether the temporary modification was a binding agreement and if S&A is estopped from demanding a return to the original terms without notice.
 
 #### 3. Application of Law to Facts
 
-**Luke's Contract**
+**1. Liability for Property Damage**
 
-- **Frustration**: The destruction of the Hamilton Flyer by an explosion, with no fault attributable to any party, constitutes an unforeseen event that makes the performance of Luke's contract impossible. The contract is therefore likely to be discharged by frustration.
-- **Recovery of Monies**: Under Section 16(2) of the Law Amendment and Reform (Consolidation) Ordinance Cap. 23, all sums paid or payable before the time of discharge are recoverable. Luke can recover the £5,000 he spent on the restoration as money received by YDR for his use. The £8,000 payable to Luke ceases to be payable since the contract is discharged.
+- **Incorporation by Reference**:
+  - The verification sheet signed by S&A’s office manager included a statement that services were provided under standard WMA conditions. However, this statement was in small font and not explicitly brought to the attention of S&A.
+  - Case law such as **Astel-Peiniger Joint Venture v Argos Engineering & Heavy Industries Co Ltd** and **RE SIT KWONG LAM** suggests that for terms to be incorporated by reference, they must be clearly communicated and agreed upon by both parties. The small font and lack of explicit communication may render the incorporation ineffective.
 
-**Peter's Contract**
+- **Exclusion Clauses**:
+  - Even if the WMA conditions were incorporated, the exclusion clause must be clear and unambiguous. The clause in question attempts to exclude liability for "any damages or losses... however caused."
+  - Under the Control of Exemption Clauses Ordinance (Cap. 71), exclusion clauses are subject to a reasonableness test. Given that the damage was caused by Sam's negligent and reckless behavior (balancing a pail while filming a TikTok video), the clause may be deemed unreasonable and thus unenforceable.
 
-- **Frustration**: The destruction of the Hamilton Flyer means that the specific performance Peter contracted for (a ride on the Hamilton Flyer) is impossible. The substitution of the Selby Miner does not fulfill the specific purpose of Peter's contract, which was to relive trips made with his father on the Hamilton Flyer. Therefore, the contract is likely to be discharged by frustration.
-- **Recovery of Monies**: Under Section 16(2) of the Law Amendment and Reform (Consolidation) Ordinance Cap. 23, Peter can recover the £100 he paid for the tickets as money received by YDR for his use. Since the contract is frustrated, the sum paid is recoverable.
+- **Negligence**:
+  - Sam’s actions clearly constitute negligence. The exclusion clause, even if incorporated, is unlikely to protect Sparkling Bright from liability for such grossly negligent behavior. Courts are generally reluctant to enforce exclusion clauses that attempt to exclude liability for negligence, especially when the negligence is egregious.
+
+**2. Modification of Contract Terms**
+
+- **Temporary Agreement**:
+  - The correspondence between Sparkling Bright and S&A indicates a mutual agreement to reduce the frequency of cleanings temporarily. This agreement was conditional on the office remaining "spick and span."
+  - The principle of **mutual agreement** and **estoppel** (as discussed in **WO HING ENGINEERING LIMITED v PEKKO ENGINEERS LIMITED** and **Kao, Lee & Yip v Lau Wing**) suggests that once a temporary modification is agreed upon, it cannot be unilaterally altered without mutual consent.
+
+- **Resumption of Weekly Cleanings**:
+  - S&A’s demand for the immediate resumption of weekly cleanings constitutes a modification of the temporary agreement. Sparkling Bright is not obligated to comply unless both parties mutually agree to revert to the original terms.
+  - However, given the condition that the office must remain "spick and span," and the upcoming important guests, Sparkling Bright may need to negotiate with S&A to find a mutually acceptable solution.
 
 ### Conclusion
 
-**Luke**:
-- The contract for the restoration of the Hamilton Flyer is discharged by frustration due to the destruction of the train.
-- Luke can recover the £5,000 he spent on the restoration.
-- The £8,000 payable to Luke ceases to be payable.
+**1. Liability for Property Damage**:
+Sparkling Bright is likely to be held liable for the damage to the laptop. The exclusion clause in the WMA conditions is unlikely to be enforceable due to the lack of clear incorporation and the unreasonable attempt to exclude liability for negligence.
 
-**Peter**:
-- The contract for the purchase of tickets for the Hamilton Flyer is discharged by frustration due to the destruction of the train.
-- Peter can recover the £100 he paid for the tickets.
+**2. Modification of Contract Terms**:
+Sparkling Bright is not legally obligated to resume weekly cleanings immediately without mutual agreement. The temporary modification to fortnightly cleanings was mutually agreed upon, and any change requires further mutual consent.
 
-Both Luke and Peter are entitled to recover their respective sums under the Law Amendment and Reform (Consolidation) Ordinance Cap. 23, as the contracts have been frustrated by an unforeseen event that rendered performance impossible.
+Sparkling Bright should negotiate with S&A to address the immediate cleaning needs while ensuring that any modifications to the agreement are clearly documented and mutually agreed upon.

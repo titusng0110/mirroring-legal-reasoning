@@ -2,61 +2,55 @@
 
 #### 1. Identification of Legal Issues
 
-1. **Modification of Contract Terms and Third-Party Rights**:
-   - Can M-Scan Ltd unilaterally modify the donation terms in the contract with its customers, affecting the Albright Cancer Research Foundation?
-   - Does the Albright Cancer Research Foundation have any enforceable rights under the original contract terms?
+The scenario presents several legal issues that need to be addressed:
 
-2. **Exclusion Clause and Liability for Damage During Transportation**:
-   - Can Care 2 U Ltd rely on the exclusion clause in the contract between M-Scan Ltd and Vulcanicity Ltd to avoid liability for damage to the scanner during transportation?
+1. **Formation of Contract**: Whether a binding contract was formed between Wong Kee and Neptune despite the absence of a signed agreement.
+2. **Implied Terms**: Whether there are any implied terms in the contract regarding the size and quality of the crabs.
+3. **Minimum Quantity Clause**: The enforceability of the minimum quantity clause added by Neptune.
+4. **Composition Clause**: The validity and reasonableness of the clause giving Neptune absolute discretion over the size of crabs supplied.
+5. **Exclusion of Liability**: The enforceability of the exclusion clause that Neptune added to the contract.
+6. **Remedies for Breach**: The remedies available to Wong Kee for Neptune's failure to supply crabs of the expected size.
 
 #### 2. Applicable Laws
 
-1. **Contracts (Rights of Third Parties) Ordinance (Cap. 623)**:
-   - This ordinance allows third parties to enforce contractual terms if the contract expressly provides for it or if the term purports to confer a benefit on the third party.
+The following laws and legal principles are applicable to the scenario:
 
-2. **Control of Exemption Clauses Ordinance (Cap. 71)**:
-   - This ordinance limits the extent to which liability for breach of contract or negligence can be excluded by contract terms.
+1. **Contract Formation**: Common law principles of contract formation, including offer, acceptance, and consideration.
+2. **Implied Terms**: Supply of Services (Implied Terms) Ordinance (Cap. 457) and case law on implied terms in contracts.
+3. **Minimum Quantity Clause**: Case law on the enforceability of minimum quantity clauses in contracts.
+4. **Composition Clause**: Principles of reasonableness and fairness in contract terms.
+5. **Exclusion of Liability**: Control of Exemption Clauses Ordinance (Cap. 71) and relevant case law.
+6. **Remedies for Breach**: Sale of Goods Ordinance (Cap. 26) and common law remedies for breach of contract.
 
 #### 3. Application of Law to Facts
 
-**Issue 1: Modification of Contract Terms and Third-Party Rights**
+**Contract Formation**
 
-- **Contracts (Rights of Third Parties) Ordinance (Cap. 623)**:
-  - Section 4(1) allows a third party to enforce a term of a contract if the contract expressly provides that the third party may do so or if the term purports to confer a benefit on the third party.
-  - Section 4(2) requires the third party to be expressly identified in the contract by name, as a member of a class, or as answering a particular description.
-  - Section 6(1) states that if a third party may enforce a term under Section 4, the parties to the contract may not, without the third party’s consent, rescind or vary the contract so that the third party’s right under the term is altered or extinguished, provided the third party has assented to the term and the promisor has received notice of the assent, or the third party has relied on the term and the promisor is aware of the reliance.
+Despite the absence of a signed agreement, the continuous dealings between Wong Kee and Neptune from June 2013 to November 2020 indicate a course of conduct that suggests a binding contract. The fact that Wong Kee continued to place orders and Neptune continued to supply crabs as per the draft agreement terms implies acceptance of those terms by conduct.
 
-- **Application**:
-  - The original contract between M-Scan Ltd and its customers includes a term that 10% of the annual fee and 1% of each booking will be donated to the Albright Cancer Research Foundation. This term purports to confer a benefit on the Foundation.
-  - The Foundation is expressly identified in the contract.
-  - If the Foundation has assented to this term and M-Scan Ltd has received notice of this assent, or if the Foundation has relied on this term and M-Scan Ltd is aware of this reliance, then under Section 6(1), M-Scan Ltd cannot unilaterally modify the donation terms without the Foundation’s consent.
-  - Given that the Foundation has already allocated funds based on the promised cash flow, it can be argued that the Foundation has relied on this term, and M-Scan Ltd is aware of this reliance.
+**Implied Terms**
 
-**Conclusion**:
-  - The Albright Cancer Research Foundation likely has enforceable rights under the original contract terms and can claim the promised revenue from M-Scan Ltd. M-Scan Ltd cannot unilaterally reduce the donation percentage without the Foundation’s consent.
+Given the long-standing relationship and the established norms in the seafood trade, it is likely that certain terms can be implied into the contract. According to the Supply of Services (Implied Terms) Ordinance (Cap. 457), there is an implied term that the supplier will carry out the service with reasonable care and skill. Additionally, the consistent practice of supplying a mix of sizes conforming to industry norms could imply a term that the crabs supplied should meet these standards.
 
-**Issue 2: Exclusion Clause and Liability for Damage During Transportation**
+**Minimum Quantity Clause**
 
-- **Control of Exemption Clauses Ordinance (Cap. 71)**:
-  - Section 7(1) states that a person cannot exclude or restrict liability for death or personal injury resulting from negligence.
-  - Section 7(2) states that for other loss or damage, a person cannot exclude or restrict liability for negligence except in so far as the term satisfies the requirement of reasonableness.
-  - Section 8(1) applies to contracts where one party deals as a consumer or on the other’s written standard terms of business, and Section 8(2) limits the ability to exclude or restrict liability for breach of contract.
+The minimum quantity clause requiring Wong Kee to order at least 1000 kilograms per week is likely enforceable. In **Safe Steel Furniture Factory Limited v. Lamex Trading Company Limited [1999] HKCFI 1513**, the court held that minimum quantity clauses are enforceable if they are clear and agreed upon by both parties. Since Wong Kee accepted the amended terms, this clause is likely binding.
 
-- **Application**:
-  - The exclusion clause in the contract between M-Scan Ltd and its customers states that the carriers (Care 2 U Ltd) will not be liable for any damages during transportation if the user has not undertaken the recommended systems check and presented the results in writing.
-  - Vulcanicity Ltd failed to undertake the systems check before the scanner was collected.
-  - The driver from Care 2 U Ltd did not recognize the difference due to being new and given incorrect paperwork.
-  - The reasonableness of the exclusion clause must be assessed. Factors include the clarity of the clause, the opportunity for Vulcanicity Ltd to comply with the systems check requirement, and whether the exclusion clause is fair and reasonable in the circumstances.
+**Composition Clause**
 
-**Conclusion**:
-  - Care 2 U Ltd can potentially rely on the exclusion clause if it satisfies the requirement of reasonableness under the Control of Exemption Clauses Ordinance. Given that Vulcanicity Ltd failed to comply with the systems check requirement, Care 2 U Ltd may have a valid defense against the claim for damages.
+The clause giving Neptune absolute discretion over the size of crabs supplied is problematic. In **On Your Mart Co Limited v. Cosway (HK) Limited [2015] HKCFI 2062**, the court emphasized that terms must be reasonable and not give one party unfettered discretion. The clause could be challenged as unreasonable, especially given the established practice of supplying a mix of sizes.
 
-### Summary
+**Exclusion of Liability**
 
-1. **Albright Cancer Research Foundation**:
-   - Likely has enforceable rights under the original contract terms.
-   - M-Scan Ltd cannot unilaterally reduce the donation percentage without the Foundation’s consent.
+The exclusion clause added by Neptune is subject to the Control of Exemption Clauses Ordinance (Cap. 71). According to **Lee Yuk Shing v. Dianoor International Limited [2015] HKCFI 1129**, exclusion clauses must be clear and unambiguous. Additionally, they must pass the reasonableness test under the Ordinance. Given the significant impact on Wong Kee's business, the clause may be deemed unreasonable and thus unenforceable.
 
-2. **Care 2 U Ltd**:
-   - Can potentially rely on the exclusion clause if it satisfies the requirement of reasonableness.
-   - Given Vulcanicity Ltd’s failure to comply with the systems check requirement, Care 2 U Ltd may have a valid defense against the claim for damages.
+**Remedies for Breach**
+
+Under the Sale of Goods Ordinance (Cap. 26), Wong Kee may have several remedies for Neptune's breach of contract:
+
+1. **Damages for Non-Delivery**: Section 53 allows Wong Kee to claim damages for Neptune's failure to deliver crabs of the expected size.
+2. **Damages for Breach of Warranty**: Section 55 provides that Wong Kee can claim damages for the breach of an implied warranty regarding the quality and size of the crabs.
+
+#### Conclusion
+
+In conclusion, Wong Kee has a strong case against Neptune for breach of contract. The continuous dealings and acceptance of the amended terms by conduct suggest a binding contract. The implied terms regarding the size and quality of crabs, the enforceability of the minimum quantity clause, and the potential unreasonableness of the composition and exclusion clauses all support Wong Kee's position. Wong Kee can seek remedies under the Sale of Goods Ordinance for Neptune's failure to supply crabs of the expected size, resulting in financial losses and reputational damage.

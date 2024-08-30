@@ -1,40 +1,63 @@
 ### Legal Analysis of the Scenario
 
-#### Legal Issues
-1. **Frustration of Contract**: Whether the contracts between Luke and the Yorkshire Dales Railway (YDR), and Peter and YDR, are frustrated due to the destruction of the Hamilton Flyer.
-2. **Recovery of Monies Paid or Payable**: Whether Luke can recover the £5,000 he spent on the train and whether Peter can recover the £100 he paid for the tickets.
+#### 1. Identification of Legal Issues
 
-#### Applicable Laws
-1. **Doctrine of Frustration**: Under common law, a contract may be discharged if an unforeseen event renders contractual obligations impossible, illegal, or radically different from what was contemplated by the parties.
-2. **Law Reform (Frustrated Contracts) Act 1943**: This UK legislation, which is likely to be persuasive in Hong Kong due to the common law system, deals with the consequences of frustration, including the recovery of monies paid or payable.
+The scenario presents two primary legal issues:
+1. **Liability for the damaged laptop**: Whether Sparkling Bright can be held liable for the damage caused to S&A's laptop by its employee, Sam.
+2. **Resumption of weekly cleanings**: Whether Sparkling Bright is contractually obligated to resume weekly cleanings immediately upon S&A's demand.
 
-#### Application of Law to Facts
+#### 2. Applicable Laws
 
-##### Luke's Contract with YDR
+The applicable laws and principles include:
+1. **Contract Law**: Governing the terms and conditions of the agreement between Sparkling Bright and S&A.
+2. **Incorporation of Terms**: Whether the WMA standard conditions were effectively incorporated into the contract.
+3. **Exclusion Clauses**: The enforceability of the exclusion clause within the WMA standard conditions.
+4. **Negligence**: The liability of Sparkling Bright for the actions of its employee under the tort of negligence.
+5. **Variation of Contract**: The legal effect of the correspondence between Sparkling Bright and S&A regarding the reduction in cleaning frequency.
 
-1. **Frustration of Contract**:
-   - **Impossibility of Performance**: The destruction of the Hamilton Flyer makes it impossible for Luke to complete the restoration work. This unforeseen event fundamentally changes the nature of the contract.
-   - **Case Law**: In *Taylor v Caldwell* (1863), the destruction of a music hall discharged the contract due to impossibility. Similarly, the destruction of the Hamilton Flyer would likely frustrate Luke's contract.
+#### 3. Application of Law to Facts
 
-2. **Recovery of Monies**:
-   - **Law Reform (Frustrated Contracts) Act 1943**:
-     - **Section 1(2)**: Allows for the recovery of sums paid before the frustrating event and provides for a just sum to be paid for any valuable benefit conferred before the event.
-     - **Application**: Luke has spent £5,000 on the restoration. Under Section 1(2), he may be entitled to recover this amount as it represents a valuable benefit conferred before the frustration. However, since he was due to be paid £8,000 on completion, the court may need to determine a just sum considering the partial performance.
+**Issue 1: Liability for the Damaged Laptop**
 
-##### Peter's Contract with YDR
+**a. Incorporation of Terms**
 
-1. **Frustration of Contract**:
-   - **Impossibility of Performance**: The specific performance of riding the Hamilton Flyer, including the unique experience of riding in the driver’s seat, is impossible due to the train's destruction.
-   - **Case Law**: In *Krell v Henry* (1903), the contract was frustrated because the purpose of hiring a room to view the coronation procession was defeated when the procession was cancelled. Similarly, Peter's contract is frustrated as the primary purpose (riding the Hamilton Flyer) cannot be fulfilled.
+The original agreement between Sparkling Bright and S&A was silent on liability for property damage. The verification sheet signed by S&A’s office manager included a reference to the WMA standard conditions, which contain an exclusion clause. The key question is whether this clause was effectively incorporated into the contract.
 
-2. **Recovery of Monies**:
-   - **Law Reform (Frustrated Contracts) Act 1943**:
-     - **Section 1(2)**: Peter can recover the £100 paid for the tickets as the contract is frustrated and the purpose of the contract cannot be achieved.
-     - **Application**: Since the contract is frustrated, Peter is entitled to recover the £100 he paid in advance.
+- **Timing and Notice**: The verification sheet was presented after the initial contract was signed. For the WMA conditions to be incorporated, S&A must have had reasonable notice of these terms before or at the time of contracting. The reference to the WMA conditions in small print on the verification sheet is likely insufficient to constitute reasonable notice, especially since it was presented post-contract.
+  
+- **Case Law**: In **Parker v South Eastern Railway Co (1877)**, it was held that a party must have reasonable notice of the terms for them to be incorporated. Similarly, in **Thornton v Shoe Lane Parking Ltd (1971)**, it was held that onerous terms must be explicitly brought to the attention of the other party.
 
-### Conclusion
+Given the above, it is unlikely that the WMA conditions were effectively incorporated into the contract.
 
-- **Luke**: The contract between Luke and YDR is frustrated due to the destruction of the Hamilton Flyer. Luke can potentially recover the £5,000 spent on the restoration under the Law Reform (Frustrated Contracts) Act 1943, Section 1(2), as it represents a valuable benefit conferred before the frustration.
-- **Peter**: The contract between Peter and YDR is frustrated as the primary purpose of the contract cannot be fulfilled. Peter is entitled to recover the £100 paid for the tickets under the Law Reform (Frustrated Contracts) Act 1943, Section 1(2).
+**b. Exclusion Clauses**
 
-Both parties should seek legal advice to pursue their claims for recovery of monies paid or payable.
+Even if the WMA conditions were incorporated, the exclusion clause must be clear and unambiguous. Additionally, under the **Control of Exemption Clauses Ordinance (Cap. 71)**, exclusion clauses are subject to a test of reasonableness.
+
+- **Reasonableness Test**: Given that the damage was caused by an employee engaging in a TikTok challenge, it is unlikely that a court would find it reasonable to exclude liability for such reckless behavior.
+
+**c. Negligence**
+
+Sparkling Bright may be vicariously liable for the actions of its employee, Sam, under the tort of negligence. Sam’s actions were clearly negligent, and Sparkling Bright, as his employer, can be held liable for damages caused in the course of his employment.
+
+**Conclusion on Liability for the Laptop**: Sparkling Bright is likely liable for the damage to the laptop, as the exclusion clause was not effectively incorporated and would likely fail the reasonableness test.
+
+**Issue 2: Resumption of Weekly Cleanings**
+
+**a. Variation of Contract**
+
+The correspondence between Sparkling Bright and S&A in November 2020 constitutes a variation of the original contract. S&A agreed to a temporary reduction in cleaning frequency, conditional on the office remaining "spick and span."
+
+- **Condition Precedent**: The condition was that the office must remain clean. If S&A can demonstrate that the office was not maintained to the agreed standard, they may have grounds to demand a return to the original cleaning schedule.
+
+**b. Reasonableness and Notice**
+
+- **Reasonable Notice**: S&A’s demand for immediate resumption of weekly cleanings must be reasonable. Given the short notice and the upcoming important guests, S&A’s demand may be seen as reasonable under the circumstances.
+
+**Conclusion on Resumption of Weekly Cleanings**: Sparkling Bright may be contractually obligated to resume weekly cleanings if S&A can show that the condition of the office was not maintained as agreed. The demand for immediate resumption appears reasonable given the context.
+
+### Final Advice to Sparkling Bright
+
+1. **Liability for the Laptop**: Sparkling Bright is likely liable for the damage to the laptop. The exclusion clause was not effectively incorporated and would likely fail the reasonableness test.
+2. **Resumption of Weekly Cleanings**: Sparkling Bright should prepare to resume weekly cleanings immediately, as S&A’s demand appears reasonable and consistent with the conditional variation of the contract.
+
+Sparkling Bright should consider negotiating with S&A to reach an amicable resolution, potentially offering compensation for the laptop and agreeing on a feasible schedule for resuming weekly cleanings.
