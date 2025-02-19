@@ -64,7 +64,7 @@ def prompt3(interview, response1, search_results):
 
 
 if __name__ == "__main__":
-    thread = threading.Thread(target=local_search.loadDB, args=({"cases": "data/hklii_cases_18072024.parquet", "ordinances": "data/legislation_20072024.parquet"},))
+    thread = threading.Thread(target=local_search.loadDB, args=({"cases": "data/hklii.parquet", "ordinances": "data/legislation_02082024_xml.parquet"},))
     thread.start()
     response1 = ""
     interview = "You: Hello, how can I help you?\n"

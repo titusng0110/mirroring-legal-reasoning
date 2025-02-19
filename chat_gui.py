@@ -53,10 +53,10 @@ def logic(message, history, state):
     if state.has_legal_advice:
         yield state.response1 + "\n" + state.response2 + "\n" + "```json\n" + state.search_results + "\n```" + "\n" + state.response3 + "\n# DISCLAIMER: This AI must not be relied upon for actual legal advice. The information may be incomplete, inaccurate, or outdated. For any legal matters, consult a qualified, licensed lawyer in Hong Kong. We are not liable for any consequences resulting from the use of this tool. This system is for research purposes only."
 
-with gr.Blocks(theme="soft") as demo:
+with gr.Blocks(theme="light") as demo:
     gr.Markdown("# CLIC-Chat 3.0 prototype")
     gr.Markdown("An AI legal assistant specializing in Hong Kong law. Describe your legal situation, and it will provide advice based on the information you give it.")
-    gr.Markdown("## DISCLAIMER: This AI must not be relied upon for actual legal advice. The information may be incomplete, inaccurate, or outdated. For any legal matters, consult a qualified, licensed lawyer in Hong Kong. We are not liable for any consequences resulting from the use of this tool. This system is for research purposes only.")
+    gr.Markdown("### DISCLAIMER: This AI must not be relied upon for actual legal advice. The information may be incomplete, inaccurate, or outdated. For any legal matters, consult a qualified, licensed lawyer in Hong Kong. We are not liable for any consequences resulting from the use of this tool. This system is for research purposes only.")
     interface = gr.ChatInterface(
         fn=partial(logic, state=MyState()),
         chatbot=gr.Chatbot(height="66vh", value=[("", "Hello, how can I help you?")]),
@@ -68,4 +68,4 @@ with gr.Blocks(theme="soft") as demo:
 if __name__ == "__main__":
     thread = threading.Thread(target=local_search.loadDB, args=({"cases": "data/hklii.parquet", "ordinances": "data/legislation_02082024_xml.parquet"},))
     thread.start()
-    demo.launch(server_port=8081, share=True)
+    demo.launch(server_port=8081, share=False)
